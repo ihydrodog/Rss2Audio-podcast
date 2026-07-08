@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Rss2Audio 데일리 뉴스 — pytorch-kr</title>
+    <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
+    <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
+    <language>ko</language>
+    <lastBuildDate>Wed, 08 Jul 2026 19:06:48 +0900</lastBuildDate>
+    <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>hyrodog</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-07-08</title>
+      <description>&lt;p&gt;오늘의 기사 9개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/miles-llm-rl-pytorch/11142"&gt;Miles: 대규모 LLM RL 사후 학습을 위한 PyTorch 네이티브 스택 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/j-space-llm-jacobian-lens-feat-anthropic/11125"&gt;J-space: LLM 내부에 창발한 글로벌 워크스페이스와 이를 읽는 Jacobian Lens (feat. Anthropic)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/security-audit-skill-6/11073"&gt;security-audit-skill: 코딩 에이전트를 보안 감사관으로 만드는 6단계 파이프라인 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai/11130"&gt;“AI 에이전트” 열풍은 비싼 미라지(신기루)인가?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/github-copilot-cli/11087"&gt;GitHub Copilot CLI 커스텀 에이전트, 반복 프롬프트를 팀의 워크플로우로 바꾸는 법&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/maxkb-rag/11088"&gt;MaxKB: RAG 파이프라인과 워크플로우를 갖춘 기업용 오픈소스 에이전트 플랫폼&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/langchain/11100"&gt;LangChain이 설명하는 루프 엔지니어링의 기술, 에이전트를 감싸는 네 겹의 루프&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/icml-2026-test-of-time-10/11112"&gt;ICML 2026에서 우수 논문상과 Test of Time상을 수상한 10편의 논문 소개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/skillcomposer-llm/11090"&gt;SkillComposer: 스킬을 몇 개나 어떤 순서로 쓸지 한 번에 예측하는 LLM 에이전트 스킬 조합 방식에 대한 연구&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 19:06:48 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-08/2026-07-08-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-08/2026-07-08-pytorch-kr.mp3" length="26660252" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
