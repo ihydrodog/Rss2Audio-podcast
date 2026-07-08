@@ -3,6 +3,53 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-09",
+      "file": "2026-07-09-pytorch-kr.mp3",
+      "published": "2026-07-09T08:25:24+09:00",
+      "entries": [
+        {
+          "title": "AI 애플리케이션 개발자를 위한 MCP 7-28 소개: 무엇이 사라지고, 무엇이 깨질 수 있는가",
+          "link": "https://discuss.pytorch.kr/t/ai-mcp-7-28/11163"
+        },
+        {
+          "title": "TorchSpec: 추측 디코딩 초안 모델을 대규모로 학습하는 파이토치 네이티브 프레임워크",
+          "link": "https://discuss.pytorch.kr/t/torchspec/11124"
+        },
+        {
+          "title": "CodeIsland: 맥북 노치에서 AI 코딩 에이전트 상태를 실시간으로 보여주는 macOS 앱",
+          "link": "https://discuss.pytorch.kr/t/codeisland-ai-macos/11116"
+        },
+        {
+          "title": "Tencent, 295B 규모(활성 21B)의 오픈소스 MoE 추론 및 에이전트 모델 Hy3 공개",
+          "link": "https://discuss.pytorch.kr/t/tencent-295b-21b-moe-hy3/11147"
+        },
+        {
+          "title": "SONIC: 모션 트래킹을 초대규모로 확장한 휴머노이드 전신 제어 모델 (feat. NVIDIA)",
+          "link": "https://discuss.pytorch.kr/t/sonic-feat-nvidia/11111"
+        },
+        {
+          "title": "Xybrid: 앱과 게임에서 LLM과 음성 AI를 온디바이스로 실행하는 크로스플랫폼 런타임",
+          "link": "https://discuss.pytorch.kr/t/xybrid-llm-ai/11121"
+        },
+        {
+          "title": "vLLM Hook: vLLM에 배포된 모델의 내부 상태를 관찰하고 제어하는 플러그인",
+          "link": "https://discuss.pytorch.kr/t/vllm-hook-vllm/11123"
+        },
+        {
+          "title": "pxpipe: 컨텍스트를 이미지로 렌더링해 Claude Code 토큰 비용을 줄이는 로컬 프록시",
+          "link": "https://discuss.pytorch.kr/t/pxpipe-claude-code/11114"
+        },
+        {
+          "title": "Brain2Qwerty v2: MEG 뇌 신호만으로 문장을 해독하는 비침습적 BCI (feat. Meta AI)",
+          "link": "https://discuss.pytorch.kr/t/brain2qwerty-v2-meg-bci-feat-meta-ai/11070"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-09/2026-07-09-pytorch-kr.mp3",
+      "size": 47208995
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-08",
       "file": "2026-07-08-pytorch-kr.mp3",
       "published": "2026-07-08T19:06:48+09:00",
