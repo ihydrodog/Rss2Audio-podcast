@@ -3,6 +3,49 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-10",
+      "file": "2026-07-10-pytorch-kr.mp3",
+      "published": "2026-07-10T08:26:45+09:00",
+      "entries": [
+        {
+          "title": "PyTorch 2.13 출시 공지 | 파이토치 한국 사용자 모임",
+          "link": "https://discuss.pytorch.kr/t/pytorch-2-13/11187"
+        },
+        {
+          "title": "TestSprite CLI: 코딩 에이전트가 만든 코드를 실제 앱에서 검증하는 테스트 도구",
+          "link": "https://discuss.pytorch.kr/t/testsprite-cli/11160"
+        },
+        {
+          "title": "TencentDB Agent Memory: AI 에이전트를 위한 계층형 로컬 기억 시스템",
+          "link": "https://discuss.pytorch.kr/t/tencentdb-agent-memory-ai/11150"
+        },
+        {
+          "title": "DeepTeam: LLM과 AI 에이전트를 레드팀하는 오픈소스 보안 테스트 프레임워크",
+          "link": "https://discuss.pytorch.kr/t/deepteam-llm-ai/11161"
+        },
+        {
+          "title": "T3MP3ST: 인가된 보안 테스트를 위한 멀티 에이전트 레드팀 하네스",
+          "link": "https://discuss.pytorch.kr/t/t3mp3st/11149"
+        },
+        {
+          "title": "CubeSandbox: 60ms 안에 부팅되는 AI 에이전트용 하드웨어 격리 샌드박스",
+          "link": "https://discuss.pytorch.kr/t/cubesandbox-60ms-ai/11146"
+        },
+        {
+          "title": "GRAIL: 3D 에셋과 비디오 생성으로 만든 휴머노이드의 이동-조작 데이터 (feat. NVIDIA)",
+          "link": "https://discuss.pytorch.kr/t/grail-3d-feat-nvidia/11110"
+        },
+        {
+          "title": "ai-engineering-interview-questions: AI 엔지니어 면접 문답 치트시트",
+          "link": "https://discuss.pytorch.kr/t/ai-engineering-interview-questions-ai/11074"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-10/2026-07-10-pytorch-kr.mp3",
+      "size": 41776168
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-09",
       "file": "2026-07-09-pytorch-kr.mp3",
       "published": "2026-07-09T08:25:24+09:00",
