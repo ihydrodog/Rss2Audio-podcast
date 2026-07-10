@@ -3,6 +3,49 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-11",
+      "file": "2026-07-11-pytorch-kr.mp3",
+      "published": "2026-07-11T08:09:55+09:00",
+      "entries": [
+        {
+          "title": "OpenScience: 문헌 조사부터 실험과 논문 작성까지 수행하는 오픈소스 AI 연구 워크벤치",
+          "link": "https://discuss.pytorch.kr/t/openscience-ai/11185"
+        },
+        {
+          "title": "jobs: LLM으로 342개 직업의 AI 노출도를 매긴 미국 노동시장 시각화 도구 (feat. Karpathy)",
+          "link": "https://discuss.pytorch.kr/t/jobs-llm-342-ai-feat-karpathy/11183"
+        },
+        {
+          "title": "OpenAI가 공개한 GPT-5.6 공식 활용 가이드: 마이그레이션부터 프롬프팅, Pro 모드까지",
+          "link": "https://discuss.pytorch.kr/t/openai-gpt-5-6-pro/11195"
+        },
+        {
+          "title": "SnapOtter: 이미지, 영상, 오디오, PDF를 로컬에서 처리하는 셀프호스팅 파일 도구 모음",
+          "link": "https://discuss.pytorch.kr/t/snapotter-pdf/11181"
+        },
+        {
+          "title": "motion-anything: 코딩 에이전트로 웹 애니메이션을 만드는 로컬 모션 엔진",
+          "link": "https://discuss.pytorch.kr/t/motion-anything/11182"
+        },
+        {
+          "title": "Tesseract-Torch: 컨테이너화한 과학 계산 코드를 PyTorch 자동미분에 연결하는 라이브러리",
+          "link": "https://discuss.pytorch.kr/t/tesseract-torch-pytorch/11177"
+        },
+        {
+          "title": "claude-usage: Claude Code 토큰 사용량과 비용을 확인하는 로컬 대시보드",
+          "link": "https://discuss.pytorch.kr/t/claude-usage-claude-code/11174"
+        },
+        {
+          "title": "SOMA: SMPL, MHR, Anny 등, 인체 모델을 표현하는 방식을 하나로 잇는 바디 레이어 (feat. NVIDIA)",
+          "link": "https://discuss.pytorch.kr/t/soma-smpl-mhr-anny-feat-nvidia/11109"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-11/2026-07-11-pytorch-kr.mp3",
+      "size": 33631179
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-10",
       "file": "2026-07-10-pytorch-kr.mp3",
       "published": "2026-07-10T08:26:45+09:00",
