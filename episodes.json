@@ -3,6 +3,33 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-13",
+      "file": "2026-07-13-pytorch-kr.mp3",
+      "published": "2026-07-13T08:01:27+09:00",
+      "entries": [
+        {
+          "title": "[GN⁺] AI 2040: 플랜 A - 초지능 경쟁을 늦추기 위한 국제 합의 시나리오",
+          "link": "https://discuss.pytorch.kr/t/gn-ai-2040-a/11217"
+        },
+        {
+          "title": "JoyAI-Echo: 최대 5분 길이의 멀티샷 오디오-비디오를 생성하는 오픈소스 모델",
+          "link": "https://discuss.pytorch.kr/t/joyai-echo-5/11207"
+        },
+        {
+          "title": "Hermes HUD Web UI: 영속 메모리 AI 에이전트를 브라우저에서 들여다보는 대시보드",
+          "link": "https://discuss.pytorch.kr/t/hermes-hud-web-ui-ai/11209"
+        },
+        {
+          "title": "하드웨어 인식 동적 추측 디코딩(DSD): 배치 크기에 맞춰 초안 토큰 수를 조절하는 추론 최적화 (feat. Cohere)",
+          "link": "https://discuss.pytorch.kr/t/dsd-feat-cohere/11200"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-13/2026-07-13-pytorch-kr.mp3",
+      "size": 31089573
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-12",
       "file": "2026-07-12-pytorch-kr.mp3",
       "published": "2026-07-12T08:00:05+09:00",
