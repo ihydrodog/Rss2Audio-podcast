@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 13 Jul 2026 08:01:27 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:09:54 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-07-14</title>
+      <description>&lt;p&gt;오늘의 기사 10개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ikbo-recsys/11238"&gt;커널 내 브로드캐스트 최적화(IKBO): RecSys 추론을 위한 커널 공동 설계 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/cari4d-rgb-4d-feat-nvidia/11108"&gt;CARI4D: 단안 RGB 영상으로 사람-사물의 4D 상호작용을 복원하는 카테고리 독립 기법 (feat. NVIDIA)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/nexus-feat-google/11203"&gt;Nexus: 시계열 예측을 멀티 에이전트 추론 문제로 푸는 프레임워크에 대한 연구 (feat. Google)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/social-media-skills-claude/11224"&gt;Social Media Skills: Claude 에이전트로 소셜 미디어 콘텐츠를 만드는 스킬 모음&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/talk-normal-llm/11208"&gt;talk-normal: 어떤 LLM이든 장황한 답변을 간결하게 만드는 시스템 프롬프트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/bigset/11225"&gt;BigSet: 문장 하나로 웹에서 검증된 데이터셋을 만들고 자동으로 갱신하는 에이전트 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/skills-for-design-engineers-ui/11206"&gt;Skills for Design Engineers: 코딩 에이전트에 UI 애니메이션 감각을 더하는 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/awesome-ai-agents-200-ai/11210"&gt;awesome-ai-agents: 200개가 넘는 에이전트 AI 프로젝트를 모은 큐레이션 목록&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/flint-ai-feat-microsoft/11204"&gt;Flint, 시맨틱 스펙으로 차트를 만드는 AI 시대의 시각화 언어 (feat. Microsoft)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/2026-07-06-12-ai-ml/11202"&gt;[2026/07/06 ~ 12] 이번 주에 살펴볼 만한 AI/ML 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 08:09:54 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-14/2026-07-14-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-14/2026-07-14-pytorch-kr.mp3" length="31629167" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-07-13</title>
       <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/gn-ai-2040-a/11217"&gt;[GN⁺] AI 2040: 플랜 A - 초지능 경쟁을 늦추기 위한 국제 합의 시나리오&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/joyai-echo-5/11207"&gt;JoyAI-Echo: 최대 5분 길이의 멀티샷 오디오-비디오를 생성하는 오픈소스 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/hermes-hud-web-ui-ai/11209"&gt;Hermes HUD Web UI: 영속 메모리 AI 에이전트를 브라우저에서 들여다보는 대시보드&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/dsd-feat-cohere/11200"&gt;하드웨어 인식 동적 추측 디코딩(DSD): 배치 크기에 맞춰 초안 토큰 수를 조절하는 추론 최적화 (feat. Cohere)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>

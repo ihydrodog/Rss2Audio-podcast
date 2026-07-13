@@ -3,6 +3,57 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-14",
+      "file": "2026-07-14-pytorch-kr.mp3",
+      "published": "2026-07-14T08:09:54+09:00",
+      "entries": [
+        {
+          "title": "커널 내 브로드캐스트 최적화(IKBO): RecSys 추론을 위한 커널 공동 설계 | 파이토치 한국 사용자 모임",
+          "link": "https://discuss.pytorch.kr/t/ikbo-recsys/11238"
+        },
+        {
+          "title": "CARI4D: 단안 RGB 영상으로 사람-사물의 4D 상호작용을 복원하는 카테고리 독립 기법 (feat. NVIDIA)",
+          "link": "https://discuss.pytorch.kr/t/cari4d-rgb-4d-feat-nvidia/11108"
+        },
+        {
+          "title": "Nexus: 시계열 예측을 멀티 에이전트 추론 문제로 푸는 프레임워크에 대한 연구 (feat. Google)",
+          "link": "https://discuss.pytorch.kr/t/nexus-feat-google/11203"
+        },
+        {
+          "title": "Social Media Skills: Claude 에이전트로 소셜 미디어 콘텐츠를 만드는 스킬 모음",
+          "link": "https://discuss.pytorch.kr/t/social-media-skills-claude/11224"
+        },
+        {
+          "title": "talk-normal: 어떤 LLM이든 장황한 답변을 간결하게 만드는 시스템 프롬프트",
+          "link": "https://discuss.pytorch.kr/t/talk-normal-llm/11208"
+        },
+        {
+          "title": "BigSet: 문장 하나로 웹에서 검증된 데이터셋을 만들고 자동으로 갱신하는 에이전트 도구",
+          "link": "https://discuss.pytorch.kr/t/bigset/11225"
+        },
+        {
+          "title": "Skills for Design Engineers: 코딩 에이전트에 UI 애니메이션 감각을 더하는 스킬",
+          "link": "https://discuss.pytorch.kr/t/skills-for-design-engineers-ui/11206"
+        },
+        {
+          "title": "awesome-ai-agents: 200개가 넘는 에이전트 AI 프로젝트를 모은 큐레이션 목록",
+          "link": "https://discuss.pytorch.kr/t/awesome-ai-agents-200-ai/11210"
+        },
+        {
+          "title": "Flint, 시맨틱 스펙으로 차트를 만드는 AI 시대의 시각화 언어 (feat. Microsoft)",
+          "link": "https://discuss.pytorch.kr/t/flint-ai-feat-microsoft/11204"
+        },
+        {
+          "title": "[2026/07/06 ~ 12] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+          "link": "https://discuss.pytorch.kr/t/2026-07-06-12-ai-ml/11202"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-14/2026-07-14-pytorch-kr.mp3",
+      "size": 31629167
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-13",
       "file": "2026-07-13-pytorch-kr.mp3",
       "published": "2026-07-13T08:01:27+09:00",
