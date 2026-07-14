@@ -3,6 +3,41 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-15",
+      "file": "2026-07-15-pytorch-kr.mp3",
+      "published": "2026-07-15T08:09:28+09:00",
+      "entries": [
+        {
+          "title": "Lathe: LLM이 생성한 실습형 튜토리얼을 직접 따라 하며 배우는 도구",
+          "link": "https://discuss.pytorch.kr/t/lathe-llm/11243"
+        },
+        {
+          "title": "colibri: 744B MoE 모델을 25GB RAM 소비자 PC에서 실행하는 순수 C 추론 엔진",
+          "link": "https://discuss.pytorch.kr/t/colibri-744b-moe-25gb-ram-pc-c/11221"
+        },
+        {
+          "title": "Weft: LLM과 사람, API를 기본 노드로 삼는 AI 오케스트레이션 프로그래밍 언어",
+          "link": "https://discuss.pytorch.kr/t/weft-llm-api-ai/11236"
+        },
+        {
+          "title": "마크다운, 이제 '정식 식구'로 인정 — PyMuPDF 1.28 업데이트 소식",
+          "link": "https://discuss.pytorch.kr/t/pymupdf-1-28/11248"
+        },
+        {
+          "title": "Plano: 에이전트 앱을 위한 AI 네이티브 프록시 서버이자 데이터 플레인",
+          "link": "https://discuss.pytorch.kr/t/plano-ai/11234"
+        },
+        {
+          "title": "LOTUS: 데이터에 LLM과 에이전트 처리를 대규모로 적용하는 시맨틱 연산자 프레임워크",
+          "link": "https://discuss.pytorch.kr/t/lotus-llm/11235"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-15/2026-07-15-pytorch-kr.mp3",
+      "size": 37222723
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-14",
       "file": "2026-07-14-pytorch-kr.mp3",
       "published": "2026-07-14T08:09:54+09:00",
