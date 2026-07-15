@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 15 Jul 2026 08:09:28 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 08:13:08 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-07-16</title>
+      <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/aspire-feat-nvidia/11066"&gt;ASPIRE: 스스로 코드를 고치며 스킬을 쌓는 자기개선형 로봇 학습에 대한 연구 (feat. NVIDIA)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pixel2motion-svg-ai/11239"&gt;Pixel2Motion: 래스터 로고를 매끄러운 SVG 애니메이션으로 바꾸는 AI 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openknowledge-claude-codex-llm-wiki/11222"&gt;OpenKnowledge: Claude, Codex와 함께 편집하는 로컬 마크다운 에디터 겸 LLM Wiki&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/adala/11240"&gt;Adala: 정답 데이터로 스스로 학습하는 자율 데이터 라벨링 에이전트 프레임워크&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/weclaw-claude-codex-ai/11242"&gt;WeClaw: 위챗을 Claude, Codex 등 AI 에이전트와 연결하는 프로젝트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pdf-inspector-ocr-pdf-rust-feat-firecrawl/11255"&gt;pdf-inspector: OCR 없이 PDF를 분류하고 마크다운으로 추출하는 Rust 라이브러리 (feat. firecrawl)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/sensorfm-1-1-trillion-feat-google/11250"&gt;SensorFM: 1조(1-trillion) 분의 웨어러블 센서 데이터로 학습한 헬스 파운데이션 모델에 대한 연구 (feat. Google)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 08:13:08 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-16/2026-07-16-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-16/2026-07-16-pytorch-kr.mp3" length="29432809" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-07-15</title>
       <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/lathe-llm/11243"&gt;Lathe: LLM이 생성한 실습형 튜토리얼을 직접 따라 하며 배우는 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/colibri-744b-moe-25gb-ram-pc-c/11221"&gt;colibri: 744B MoE 모델을 25GB RAM 소비자 PC에서 실행하는 순수 C 추론 엔진&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/weft-llm-api-ai/11236"&gt;Weft: LLM과 사람, API를 기본 노드로 삼는 AI 오케스트레이션 프로그래밍 언어&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pymupdf-1-28/11248"&gt;마크다운, 이제 &amp;#x27;정식 식구&amp;#x27;로 인정 — PyMuPDF 1.28 업데이트 소식&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/plano-ai/11234"&gt;Plano: 에이전트 앱을 위한 AI 네이티브 프록시 서버이자 데이터 플레인&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/lotus-llm/11235"&gt;LOTUS: 데이터에 LLM과 에이전트 처리를 대규모로 적용하는 시맨틱 연산자 프레임워크&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>

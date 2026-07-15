@@ -3,6 +3,45 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-16",
+      "file": "2026-07-16-pytorch-kr.mp3",
+      "published": "2026-07-16T08:13:08+09:00",
+      "entries": [
+        {
+          "title": "ASPIRE: 스스로 코드를 고치며 스킬을 쌓는 자기개선형 로봇 학습에 대한 연구 (feat. NVIDIA)",
+          "link": "https://discuss.pytorch.kr/t/aspire-feat-nvidia/11066"
+        },
+        {
+          "title": "Pixel2Motion: 래스터 로고를 매끄러운 SVG 애니메이션으로 바꾸는 AI 스킬",
+          "link": "https://discuss.pytorch.kr/t/pixel2motion-svg-ai/11239"
+        },
+        {
+          "title": "OpenKnowledge: Claude, Codex와 함께 편집하는 로컬 마크다운 에디터 겸 LLM Wiki",
+          "link": "https://discuss.pytorch.kr/t/openknowledge-claude-codex-llm-wiki/11222"
+        },
+        {
+          "title": "Adala: 정답 데이터로 스스로 학습하는 자율 데이터 라벨링 에이전트 프레임워크",
+          "link": "https://discuss.pytorch.kr/t/adala/11240"
+        },
+        {
+          "title": "WeClaw: 위챗을 Claude, Codex 등 AI 에이전트와 연결하는 프로젝트",
+          "link": "https://discuss.pytorch.kr/t/weclaw-claude-codex-ai/11242"
+        },
+        {
+          "title": "pdf-inspector: OCR 없이 PDF를 분류하고 마크다운으로 추출하는 Rust 라이브러리 (feat. firecrawl)",
+          "link": "https://discuss.pytorch.kr/t/pdf-inspector-ocr-pdf-rust-feat-firecrawl/11255"
+        },
+        {
+          "title": "SensorFM: 1조(1-trillion) 분의 웨어러블 센서 데이터로 학습한 헬스 파운데이션 모델에 대한 연구 (feat. Google)",
+          "link": "https://discuss.pytorch.kr/t/sensorfm-1-1-trillion-feat-google/11250"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-16/2026-07-16-pytorch-kr.mp3",
+      "size": 29432809
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-15",
       "file": "2026-07-15-pytorch-kr.mp3",
       "published": "2026-07-15T08:09:28+09:00",
