@@ -3,6 +3,33 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-18",
+      "file": "2026-07-18-pytorch-kr.mp3",
+      "published": "2026-07-18T08:00:11+09:00",
+      "entries": [
+        {
+          "title": "zerostack: 메모리 사용을 최소화하도록 Rust로 만든 경량 코딩 에이전트",
+          "link": "https://discuss.pytorch.kr/t/zerostack-rust/11275"
+        },
+        {
+          "title": "local-llm: 최신 LLM을 로컬에서 직접 돌리는 GPU 하드웨어 구성 가이드",
+          "link": "https://discuss.pytorch.kr/t/local-llm-llm-gpu/11274"
+        },
+        {
+          "title": "ASO App Store Screenshots: 앱 코드를 분석해 앱스토어 스크린샷을 만드는 Claude 스킬",
+          "link": "https://discuss.pytorch.kr/t/aso-app-store-screenshots-claude/11278"
+        },
+        {
+          "title": "OpenAI, 프롬프트 인젝션 방어력을 스스로 끌어올리는 자동화 레드팀 모델 GPT-Red 공개",
+          "link": "https://discuss.pytorch.kr/t/openai-gpt-red/11288"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-18/2026-07-18-pytorch-kr.mp3",
+      "size": 22642033
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-16",
       "file": "2026-07-16-pytorch-kr.mp3",
       "published": "2026-07-16T08:13:08+09:00",
