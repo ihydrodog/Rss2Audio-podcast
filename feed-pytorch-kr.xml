@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 18 Jul 2026 08:00:11 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 08:02:49 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-07-19</title>
+      <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/tlx-block-attention-blackwell/11313"&gt;TLX Block Attention: 고정 블록 희소 셀프 어텐션을 위한 워프 특화 Blackwell 커널 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/gn-pandas-ai-apache-arrow/11293"&gt;[GN⁺] Pandas 창시자가 말하는 AI, Apache Arrow, 소프트웨어 엔지니어링의 미래&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/builderpulse/11276"&gt;BuilderPulse: 매일 아침 공개 신호에서 뽑아낸 인디 해커용 빌드 아이디어 브리핑&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/kimi-k3-use-case-101-4/11306"&gt;Kimi K3 Use Case 심층 분석_ 101개 사례에서 추출한 4가지 실전 인사이트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/keep-codex-fast-codex/11277"&gt;keep-codex-fast: 로컬 Codex 상태를 백업 우선으로 정리해 빠르게 유지하는 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/open-computer-use-ai-mcp/11298"&gt;open-computer-use: 어떤 AI 에이전트와도 사용 가능한 오픈소스 컴퓨터 사용 MCP 서비스&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/inkling-thinking-machines-lab-975b-moe/11283"&gt;Inkling: Thinking Machines Lab가 처음으로 공개하는 975B 멀티모달 MoE 모델&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 08:02:49 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-19/2026-07-19-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-19/2026-07-19-pytorch-kr.mp3" length="34345580" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-07-18</title>
       <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/zerostack-rust/11275"&gt;zerostack: 메모리 사용을 최소화하도록 Rust로 만든 경량 코딩 에이전트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/local-llm-llm-gpu/11274"&gt;local-llm: 최신 LLM을 로컬에서 직접 돌리는 GPU 하드웨어 구성 가이드&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/aso-app-store-screenshots-claude/11278"&gt;ASO App Store Screenshots: 앱 코드를 분석해 앱스토어 스크린샷을 만드는 Claude 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openai-gpt-red/11288"&gt;OpenAI, 프롬프트 인젝션 방어력을 스스로 끌어올리는 자동화 레드팀 모델 GPT-Red 공개&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
