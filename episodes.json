@@ -3,6 +3,33 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-20",
+      "file": "2026-07-20-pytorch-kr.mp3",
+      "published": "2026-07-20T08:02:58+09:00",
+      "entries": [
+        {
+          "title": "[GN⁺] 커널 개발에서 LLM 사용에 관한 Linus Torvalds의 견해",
+          "link": "https://discuss.pytorch.kr/t/gn-llm-linus-torvalds/11294"
+        },
+        {
+          "title": "iFixAi: AI 에이전트의 오정렬과 맹점을 45개 점검으로 진단하는 도구",
+          "link": "https://discuss.pytorch.kr/t/ifixai-ai-45/11296"
+        },
+        {
+          "title": "FRIDAY: 음성으로 대화하며 MCP 도구를 실시간으로 활용하는 AI 비서",
+          "link": "https://discuss.pytorch.kr/t/friday-mcp-ai/11297"
+        },
+        {
+          "title": "Kimi K3, Moonshot AI가 공개한 세계 첫 3T급 오픈 웨이트 모델 (전체 가중치 공개는 7월 27일 예정)",
+          "link": "https://discuss.pytorch.kr/t/kimi-k3-moonshot-ai-3t-7-27/11301"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-20/2026-07-20-pytorch-kr.mp3",
+      "size": 31635890
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-19",
       "file": "2026-07-19-pytorch-kr.mp3",
       "published": "2026-07-19T08:02:49+09:00",
