@@ -3,6 +3,49 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-21",
+      "file": "2026-07-21-pytorch-kr.mp3",
+      "published": "2026-07-21T08:12:45+09:00",
+      "entries": [
+        {
+          "title": "확산 언어 모델(Diffusion LLM)의 개념과 동작에 대한 연구 정리: LLaDA에서 DiffusionGemma까지",
+          "link": "https://discuss.pytorch.kr/t/diffusion-llm-llada-diffusiongemma/11311"
+        },
+        {
+          "title": "AutoSci: 논문 수집부터 반박까지 연구 전 과정을 기억으로 자동화하는 AI 연구 에이전트",
+          "link": "https://discuss.pytorch.kr/t/autosci-ai/11270"
+        },
+        {
+          "title": "PIKE-RAG: 전문 지식과 추론으로 정확도를 높인 Microsoft의 산업용 RAG 프레임워크",
+          "link": "https://discuss.pytorch.kr/t/pike-rag-microsoft-rag/11323"
+        },
+        {
+          "title": "Grok Build: 터미널에서 코드베이스를 이해하고 편집하는 AI 코딩 에이전트",
+          "link": "https://discuss.pytorch.kr/t/grok-build-ai/11292"
+        },
+        {
+          "title": "Full-Stack AI Agent Template: AI 에이전트와 RAG를 갖춘 풀스택 앱 생성 템플릿 프로젝트",
+          "link": "https://discuss.pytorch.kr/t/full-stack-ai-agent-template-ai-rag/11325"
+        },
+        {
+          "title": "Mozilla 재단이 공개한 오픈소스 AI 현황 2026: '성능 격차는 3.3%로, 경쟁은 하네스로'",
+          "link": "https://discuss.pytorch.kr/t/mozilla-ai-2026-3-3/11305"
+        },
+        {
+          "title": "NVIDIA, RTEB 1위 오픈 임베딩 모델 Nemotron 3 Embed 공개 (feat. RAG, 에이전트 검색)",
+          "link": "https://discuss.pytorch.kr/t/nvidia-rteb-1-nemotron-3-embed-feat-rag/11308"
+        },
+        {
+          "title": "[2026/07/13 ~ 19] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+          "link": "https://discuss.pytorch.kr/t/2026-07-13-19-ai-ml/11328"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-21/2026-07-21-pytorch-kr.mp3",
+      "size": 30323627
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-20",
       "file": "2026-07-20-pytorch-kr.mp3",
       "published": "2026-07-20T08:02:58+09:00",
