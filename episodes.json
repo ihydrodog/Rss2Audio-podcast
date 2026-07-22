@@ -3,6 +3,57 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-23",
+      "file": "2026-07-23-pytorch-kr.mp3",
+      "published": "2026-07-23T08:19:44+09:00",
+      "entries": [
+        {
+          "title": "Jacobian Lens: 언어 모델 내부 표현을 어휘 토큰으로 읽어내는 해석 도구",
+          "link": "https://discuss.pytorch.kr/t/jacobian-lens/11341"
+        },
+        {
+          "title": "i-have-adhd: 두괄식으로, 답과 다음 행동부터 알려주는 Claude Code 및 Codex 스킬",
+          "link": "https://discuss.pytorch.kr/t/i-have-adhd-claude-code-codex/11344"
+        },
+        {
+          "title": "Code Review Skill: 20여 개 언어와 프레임워크를 다루는 Claude Code 코드 리뷰 스킬",
+          "link": "https://discuss.pytorch.kr/t/code-review-skill-20-claude-code/11350"
+        },
+        {
+          "title": "Agents-A1: 모델 크기 대신, 생각하는 능력을 확장해 1T급 성능에 도달한 35B 에이전트 모델",
+          "link": "https://discuss.pytorch.kr/t/agents-a1-1t-35b/11368"
+        },
+        {
+          "title": "암호 해독에 양자컴퓨터로 도전한 한국 스타트업의 도전기",
+          "link": "https://discuss.pytorch.kr/t/topic/11387"
+        },
+        {
+          "title": "Google, 토큰 효율을 높인 Gemini 3.6 Flash와 3.5 Flash-Lite 출시",
+          "link": "https://discuss.pytorch.kr/t/google-gemini-3-6-flash-3-5-flash-lite/11385"
+        },
+        {
+          "title": "Anhtropic의 에이전트형 비정렬(Agentic Misalignment)에 대한 최신 연구: 에이전트의 네 가지 정렬 실패 사례",
+          "link": "https://discuss.pytorch.kr/t/anhtropic-agentic-misalignment/11327"
+        },
+        {
+          "title": "Cursor의 에이전트 스웜과 새로운 모델 경제학: '품질은 같아도 비용은 8배까지 차이날 수 있다'",
+          "link": "https://discuss.pytorch.kr/t/cursor-8/11363"
+        },
+        {
+          "title": "Logo Generator: SVG 로고와 전문가급 쇼케이스를 만드는 Claude Code 스킬",
+          "link": "https://discuss.pytorch.kr/t/logo-generator-svg-claude-code/11295"
+        },
+        {
+          "title": "스마트폰을 엔지니어링 컨트롤 플레인으로, OpenAI Codex Remote 모바일 활용 공식 가이드",
+          "link": "https://discuss.pytorch.kr/t/openai-codex-remote/11370"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-23/2026-07-23-pytorch-kr.mp3",
+      "size": 51317721
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-22",
       "file": "2026-07-22-pytorch-kr.mp3",
       "published": "2026-07-22T08:12:33+09:00",
