@@ -3,6 +3,37 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-26",
+      "file": "2026-07-26-pytorch-kr.mp3",
+      "published": "2026-07-26T08:08:23+09:00",
+      "entries": [
+        {
+          "title": "TPU 위의 Helion: 이기종 하드웨어 커널 작성을 향하여 | 파이토치 한국 사용자 모임",
+          "link": "https://discuss.pytorch.kr/t/tpu-helion/11425"
+        },
+        {
+          "title": "gigatoken: HuggingFace보다 약 1000배 빠른 GB/s급 LLM 토크나이저",
+          "link": "https://discuss.pytorch.kr/t/gigatoken-huggingface-1000-gb-s-llm/11414"
+        },
+        {
+          "title": "open-kritt: 여러 AI 에이전트로 코드 취약점을 찾는 오픈소스 보안 연구 플랫폼",
+          "link": "https://discuss.pytorch.kr/t/open-kritt-ai/11418"
+        },
+        {
+          "title": "Crawlee: AI와 LLM을 위한 데이터를 수집하는 Node.js 웹 스크래핑 라이브러리",
+          "link": "https://discuss.pytorch.kr/t/crawlee-ai-llm-node-js/11407"
+        },
+        {
+          "title": "pgContext: PostgreSQL을 AI 검색 엔진으로 만드는 벡터 및 하이브리드 검색 확장",
+          "link": "https://discuss.pytorch.kr/t/pgcontext-postgresql-ai/11397"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-26/2026-07-26-pytorch-kr.mp3",
+      "size": 47339842
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-25",
       "file": "2026-07-25-pytorch-kr.mp3",
       "published": "2026-07-25T08:13:21+09:00",
