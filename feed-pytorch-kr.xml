@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 26 Jul 2026 08:08:23 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 08:10:58 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-07-27</title>
+      <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/got-ocr2-0-end-to-end-ocr/11415"&gt;GOT-OCR2.0: 문서와 수식, 표, 악보를 하나의 모델로 인식하는 End-to-End OCR 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/claude-opus-5-fable-5/11431"&gt;Claude Opus 5와 Fable 5를 어떻게 나눠 써야 할까: 채택된 작업 비용으로 보는 선택 기준&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/topic/11430"&gt;이미지 생성 모델이 그린 이미지 속 한글은 왜 깨질까?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/img2threejs-three-js-3d/11410"&gt;img2threejs: 이미지 한 장을 코드로 재구성하는 Three.js 3D 모델 생성 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/memsearch-ai/11411"&gt;memsearch: 여러 AI 코딩 에이전트가 하나의 기억을 공유하는 의미 기반 메모리 계층&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ko-embedding-leaderboard/11416"&gt;ko-embedding-leaderboard: 한국어 임베딩 모델을 평가하는 오픈소스 리더보드&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 08:10:58 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-27/2026-07-27-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-27/2026-07-27-pytorch-kr.mp3" length="40183649" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-07-26</title>
       <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/tpu-helion/11425"&gt;TPU 위의 Helion: 이기종 하드웨어 커널 작성을 향하여 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/gigatoken-huggingface-1000-gb-s-llm/11414"&gt;gigatoken: HuggingFace보다 약 1000배 빠른 GB/s급 LLM 토크나이저&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/open-kritt-ai/11418"&gt;open-kritt: 여러 AI 에이전트로 코드 취약점을 찾는 오픈소스 보안 연구 플랫폼&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/crawlee-ai-llm-node-js/11407"&gt;Crawlee: AI와 LLM을 위한 데이터를 수집하는 Node.js 웹 스크래핑 라이브러리&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pgcontext-postgresql-ai/11397"&gt;pgContext: PostgreSQL을 AI 검색 엔진으로 만드는 벡터 및 하이브리드 검색 확장&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>

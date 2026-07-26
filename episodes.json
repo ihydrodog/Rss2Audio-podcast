@@ -3,6 +3,41 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-27",
+      "file": "2026-07-27-pytorch-kr.mp3",
+      "published": "2026-07-27T08:10:58+09:00",
+      "entries": [
+        {
+          "title": "GOT-OCR2.0: 문서와 수식, 표, 악보를 하나의 모델로 인식하는 End-to-End OCR 모델",
+          "link": "https://discuss.pytorch.kr/t/got-ocr2-0-end-to-end-ocr/11415"
+        },
+        {
+          "title": "Claude Opus 5와 Fable 5를 어떻게 나눠 써야 할까: 채택된 작업 비용으로 보는 선택 기준",
+          "link": "https://discuss.pytorch.kr/t/claude-opus-5-fable-5/11431"
+        },
+        {
+          "title": "이미지 생성 모델이 그린 이미지 속 한글은 왜 깨질까?",
+          "link": "https://discuss.pytorch.kr/t/topic/11430"
+        },
+        {
+          "title": "img2threejs: 이미지 한 장을 코드로 재구성하는 Three.js 3D 모델 생성 도구",
+          "link": "https://discuss.pytorch.kr/t/img2threejs-three-js-3d/11410"
+        },
+        {
+          "title": "memsearch: 여러 AI 코딩 에이전트가 하나의 기억을 공유하는 의미 기반 메모리 계층",
+          "link": "https://discuss.pytorch.kr/t/memsearch-ai/11411"
+        },
+        {
+          "title": "ko-embedding-leaderboard: 한국어 임베딩 모델을 평가하는 오픈소스 리더보드",
+          "link": "https://discuss.pytorch.kr/t/ko-embedding-leaderboard/11416"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-27/2026-07-27-pytorch-kr.mp3",
+      "size": 40183649
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-26",
       "file": "2026-07-26-pytorch-kr.mp3",
       "published": "2026-07-26T08:08:23+09:00",
