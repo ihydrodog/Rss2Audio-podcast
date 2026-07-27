@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 27 Jul 2026 08:10:58 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 08:16:02 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-07-28</title>
+      <description>&lt;p&gt;오늘의 기사 10개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pytorch/11444"&gt;PyTorch의 테스트 인프라 이해하기 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/opencodex-llm-codex-claude-code/11408"&gt;opencodex: 어떤 LLM이든 Codex와 Claude Code에서 쓰게 해주는 범용 프록시&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/score-smoothing-google-research/11326"&gt;스코어 스무딩(Score Smoothing): 확산 모델의 창의성이 어디서 오는지에 대한 Google Research의 연구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/quivr-llm-rag/11403"&gt;Quivr: 어떤 LLM과 파일에도 연결되는 제품 중심의 오픈소스 RAG 프레임워크&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/palmier-pro-ai-macos/11405"&gt;Palmier Pro: AI와 함께 타임라인에서 영상을 만드는 macOS 오픈소스 편집기&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/enpire-feat-nvidia/11068"&gt;ENPIRE: 코딩 에이전트가 실제 로봇 정책을 스스로 개선하는 물리적 자율연구 (feat. NVIDIA)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anthropic-fable-5-claude-opus-5/11435"&gt;Anthropic, Fable 5급 성능을 절반 가격에 제공하는 Claude Opus 5 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/open-generative-ui-ai-ui/11345"&gt;Open Generative UI: AI 에이전트가 대화로 인터랙티브 UI를 생성하는 오픈소스 프로젝트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pike-rag-rag-feat-microsoft/11359"&gt;PIKE-RAG: 산업용 RAG를 위한 지식 원자화와 작업 분해 프레임워크에 대한 연구 (feat. Microsoft)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/2026-07-20-26-ai-ml/11419"&gt;[2026/07/20 ~ 26] 이번 주에 살펴볼 만한 AI/ML 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 08:16:02 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-28/2026-07-28-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-28/2026-07-28-pytorch-kr.mp3" length="38560386" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-07-27</title>
       <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/got-ocr2-0-end-to-end-ocr/11415"&gt;GOT-OCR2.0: 문서와 수식, 표, 악보를 하나의 모델로 인식하는 End-to-End OCR 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/claude-opus-5-fable-5/11431"&gt;Claude Opus 5와 Fable 5를 어떻게 나눠 써야 할까: 채택된 작업 비용으로 보는 선택 기준&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/topic/11430"&gt;이미지 생성 모델이 그린 이미지 속 한글은 왜 깨질까?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/img2threejs-three-js-3d/11410"&gt;img2threejs: 이미지 한 장을 코드로 재구성하는 Three.js 3D 모델 생성 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/memsearch-ai/11411"&gt;memsearch: 여러 AI 코딩 에이전트가 하나의 기억을 공유하는 의미 기반 메모리 계층&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ko-embedding-leaderboard/11416"&gt;ko-embedding-leaderboard: 한국어 임베딩 모델을 평가하는 오픈소스 리더보드&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>

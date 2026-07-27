@@ -3,6 +3,57 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-28",
+      "file": "2026-07-28-pytorch-kr.mp3",
+      "published": "2026-07-28T08:16:02+09:00",
+      "entries": [
+        {
+          "title": "PyTorch의 테스트 인프라 이해하기 | 파이토치 한국 사용자 모임",
+          "link": "https://discuss.pytorch.kr/t/pytorch/11444"
+        },
+        {
+          "title": "opencodex: 어떤 LLM이든 Codex와 Claude Code에서 쓰게 해주는 범용 프록시",
+          "link": "https://discuss.pytorch.kr/t/opencodex-llm-codex-claude-code/11408"
+        },
+        {
+          "title": "스코어 스무딩(Score Smoothing): 확산 모델의 창의성이 어디서 오는지에 대한 Google Research의 연구",
+          "link": "https://discuss.pytorch.kr/t/score-smoothing-google-research/11326"
+        },
+        {
+          "title": "Quivr: 어떤 LLM과 파일에도 연결되는 제품 중심의 오픈소스 RAG 프레임워크",
+          "link": "https://discuss.pytorch.kr/t/quivr-llm-rag/11403"
+        },
+        {
+          "title": "Palmier Pro: AI와 함께 타임라인에서 영상을 만드는 macOS 오픈소스 편집기",
+          "link": "https://discuss.pytorch.kr/t/palmier-pro-ai-macos/11405"
+        },
+        {
+          "title": "ENPIRE: 코딩 에이전트가 실제 로봇 정책을 스스로 개선하는 물리적 자율연구 (feat. NVIDIA)",
+          "link": "https://discuss.pytorch.kr/t/enpire-feat-nvidia/11068"
+        },
+        {
+          "title": "Anthropic, Fable 5급 성능을 절반 가격에 제공하는 Claude Opus 5 공개",
+          "link": "https://discuss.pytorch.kr/t/anthropic-fable-5-claude-opus-5/11435"
+        },
+        {
+          "title": "Open Generative UI: AI 에이전트가 대화로 인터랙티브 UI를 생성하는 오픈소스 프로젝트",
+          "link": "https://discuss.pytorch.kr/t/open-generative-ui-ai-ui/11345"
+        },
+        {
+          "title": "PIKE-RAG: 산업용 RAG를 위한 지식 원자화와 작업 분해 프레임워크에 대한 연구 (feat. Microsoft)",
+          "link": "https://discuss.pytorch.kr/t/pike-rag-rag-feat-microsoft/11359"
+        },
+        {
+          "title": "[2026/07/20 ~ 26] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+          "link": "https://discuss.pytorch.kr/t/2026-07-20-26-ai-ml/11419"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-28/2026-07-28-pytorch-kr.mp3",
+      "size": 38560386
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-27",
       "file": "2026-07-27-pytorch-kr.mp3",
       "published": "2026-07-27T08:10:58+09:00",
