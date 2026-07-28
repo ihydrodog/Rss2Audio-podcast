@@ -3,6 +3,45 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-29",
+      "file": "2026-07-29-pytorch-kr.mp3",
+      "published": "2026-07-29T08:10:55+09:00",
+      "entries": [
+        {
+          "title": "AutoScraper: 예시 하나로 스크래핑 규칙을 학습하는 파이썬 웹 스크래퍼",
+          "link": "https://discuss.pytorch.kr/t/autoscraper/11409"
+        },
+        {
+          "title": "OmniRoute: 여러 AI 제공자를 하나의 엔드포인트로 잇는 로컬 게이트웨이",
+          "link": "https://discuss.pytorch.kr/t/omniroute-ai/11413"
+        },
+        {
+          "title": "OpenWorker: 채팅이 아닌 완성된 결과물을 만드는 오픈소스 AI 동료 (feat. Andrew Ng)",
+          "link": "https://discuss.pytorch.kr/t/openworker-ai-feat-andrew-ng/11406"
+        },
+        {
+          "title": "Unstract: 프롬프트로 비정형 문서에서 구조화된 JSON을 추출하는 LLM 플랫폼",
+          "link": "https://discuss.pytorch.kr/t/unstract-json-llm/11417"
+        },
+        {
+          "title": "Anthropic이 공개한 Claude Opus 5 프롬프트 작성법 및 Opus 4.8 마이그레이션 가이드",
+          "link": "https://discuss.pytorch.kr/t/anthropic-claude-opus-5-opus-4-8/11439"
+        },
+        {
+          "title": "Anthropic의 Project Pilot: AI 모델의 드론 조종 능력을 측정한 Drone-Bench",
+          "link": "https://discuss.pytorch.kr/t/anthropic-project-pilot-ai-drone-bench/11440"
+        },
+        {
+          "title": "EgoControl: 3D 전신 포즈로 1인칭 시점 영상을 제어하는 비디오 확산 모델 (feat. NVIDIA)",
+          "link": "https://discuss.pytorch.kr/t/egocontrol-3d-1-feat-nvidia/11107"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-29/2026-07-29-pytorch-kr.mp3",
+      "size": 29664507
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-28",
       "file": "2026-07-28-pytorch-kr.mp3",
       "published": "2026-07-28T08:16:02+09:00",
