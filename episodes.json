@@ -3,6 +3,49 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-30",
+      "file": "2026-07-30-pytorch-kr.mp3",
+      "published": "2026-07-30T08:14:29+09:00",
+      "entries": [
+        {
+          "title": "GRAM: 좋게도 나쁘게도 사용할 수 있는 이중용도(Dual-Use) 지식만 떼어내는 모듈형 사전학습 기반 접근 제어 기법에 대한 연구 (feat. Anthropic)",
+          "link": "https://discuss.pytorch.kr/t/gram-dual-use-feat-anthropic/11443"
+        },
+        {
+          "title": "ODS: 명령 한 줄로 내 PC를 프라이빗 AI 서버로 만드는 오픈소스 스택",
+          "link": "https://discuss.pytorch.kr/t/ods-pc-ai/11447"
+        },
+        {
+          "title": "DocsGPT: 에이전트 빌더와 문서 분석을 갖춘 오픈소스 프라이빗 AI 플랫폼",
+          "link": "https://discuss.pytorch.kr/t/docsgpt-ai/11449"
+        },
+        {
+          "title": "Knowledge-Graph: 로컬 LLM을 사용하여 PDF와 같은 텍스트 뭉치를 지식 그래프(KG)로 변환하는 오픈소스 프로젝트",
+          "link": "https://discuss.pytorch.kr/t/knowledge-graph-llm-pdf-kg/11448"
+        },
+        {
+          "title": "OpenWorker: 데스크톱에서 실제 결과물을 만들어내는 오픈소스 AI Co-worker 프로젝트 (feat. Andrew Ng)",
+          "link": "https://discuss.pytorch.kr/t/openworker-ai-co-worker-feat-andrew-ng/11446"
+        },
+        {
+          "title": "Kimi K3 모델 가중치 및 기술 문서 공개: 2.8T 오픈 모델의 아키텍처와 학습 레시피 심층 분석",
+          "link": "https://discuss.pytorch.kr/t/kimi-k3-2-8t/11455"
+        },
+        {
+          "title": "Ontology Playground: 브라우저에서 온톨로지를 배우고 설계하는 오픈소스 웹 앱 (feat. Microsoft)",
+          "link": "https://discuss.pytorch.kr/t/ontology-playground-feat-microsoft/11450"
+        },
+        {
+          "title": "SymptomAI: 임상의보다 정확한 대화형 증상 평가를 위한 AI 에이전트 실증 연구 (feat. Google)",
+          "link": "https://discuss.pytorch.kr/t/symptomai-ai-feat-google/11404"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-30/2026-07-30-pytorch-kr.mp3",
+      "size": 36382072
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-29",
       "file": "2026-07-29-pytorch-kr.mp3",
       "published": "2026-07-29T08:10:55+09:00",
