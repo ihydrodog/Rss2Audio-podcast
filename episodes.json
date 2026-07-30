@@ -3,6 +3,45 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-07-31",
+      "file": "2026-07-31-pytorch-kr.mp3",
+      "published": "2026-07-31T08:28:46+09:00",
+      "entries": [
+        {
+          "title": "pi-autoresearch: 코딩 에이전트가 지표를 측정하며 스스로 최적화를 반복하는 pi 확장",
+          "link": "https://discuss.pytorch.kr/t/pi-autoresearch-pi/11471"
+        },
+        {
+          "title": "SurfSense: 실시간 웹 데이터 커넥터를 갖춘 오픈소스 NotebookLM 대안",
+          "link": "https://discuss.pytorch.kr/t/surfsense-notebooklm/11459"
+        },
+        {
+          "title": "CodeBurn: AI 코딩 도구 36종의 토큰 사용량과 비용을 로컬에서 추적하는 대시보드",
+          "link": "https://discuss.pytorch.kr/t/codeburn-ai-36/11469"
+        },
+        {
+          "title": "Open Multi-Agent: 목표를 받아 작업 DAG를 실행 시점에 만드는 멀티 에이전트 프레임워크",
+          "link": "https://discuss.pytorch.kr/t/open-multi-agent-dag/11472"
+        },
+        {
+          "title": "GBrain: 검색 대신 인용이 달린 답을 돌려주는 AI 에이전트용 브레인 계층",
+          "link": "https://discuss.pytorch.kr/t/gbrain-ai/11458"
+        },
+        {
+          "title": "Fermion Research, 3진 계열 포맷으로 직접 학습한 Neutrino-1 모델군 3종 공개",
+          "link": "https://discuss.pytorch.kr/t/fermion-research-3-neutrino-1-3/11456"
+        },
+        {
+          "title": "agentmemory: 코딩 에이전트에 4단계 기억 구조를 붙이는 오픈소스 메모리 서버",
+          "link": "https://discuss.pytorch.kr/t/agentmemory-4/11460"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-31/2026-07-31-pytorch-kr.mp3",
+      "size": 34891150
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-30",
       "file": "2026-07-30-pytorch-kr.mp3",
       "published": "2026-07-30T08:14:29+09:00",
