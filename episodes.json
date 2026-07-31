@@ -3,6 +3,41 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-01",
+      "file": "2026-08-01-pytorch-kr.mp3",
+      "published": "2026-08-01T08:10:51+09:00",
+      "entries": [
+        {
+          "title": "html-ppt: 테마 36종과 레이아웃 31종을 갖춘 HTML 프레젠테이션 제작 에이전트 스킬",
+          "link": "https://discuss.pytorch.kr/t/html-ppt-36-31-html/11470"
+        },
+        {
+          "title": "stop-slop: 산문에서 AI 글쓰기 패턴을 찾아 제거하는 Claude 스킬",
+          "link": "https://discuss.pytorch.kr/t/stop-slop-ai-claude/10552"
+        },
+        {
+          "title": "World Monitor: 500여종의 뉴스와 지표들을 종합하여 실시간으로 보여주는 글로벌 정보 대시보드 (OSINT)",
+          "link": "https://discuss.pytorch.kr/t/world-monitor-500-osint/11457"
+        },
+        {
+          "title": "Buzz: 사람과 AI 에이전트가 같은 채널에서 일할 수 있도록 하는 자체 호스팅 워크스페이스",
+          "link": "https://discuss.pytorch.kr/t/buzz-ai/11461"
+        },
+        {
+          "title": "Awesome Systematic Trading: 퀀트 트레이딩을 위한 라이브러리 및 전략 논문 모음",
+          "link": "https://discuss.pytorch.kr/t/awesome-systematic-trading/11468"
+        },
+        {
+          "title": "LLaDA2.2: 레벤슈타인(Levenshtein) 편집 기법을 도입하여 에이전트 작업을 지원하는 확산 언어 모델(Diffusion LM)",
+          "link": "https://discuss.pytorch.kr/t/llada2-2-levenshtein-diffusion-lm/11463"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-01/2026-08-01-pytorch-kr.mp3",
+      "size": 17616343
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-07-31",
       "file": "2026-07-31-pytorch-kr.mp3",
       "published": "2026-07-31T08:28:46+09:00",

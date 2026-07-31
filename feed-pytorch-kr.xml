@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 31 Jul 2026 08:28:46 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:10:51 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-08-01</title>
+      <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/html-ppt-36-31-html/11470"&gt;html-ppt: 테마 36종과 레이아웃 31종을 갖춘 HTML 프레젠테이션 제작 에이전트 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/stop-slop-ai-claude/10552"&gt;stop-slop: 산문에서 AI 글쓰기 패턴을 찾아 제거하는 Claude 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/world-monitor-500-osint/11457"&gt;World Monitor: 500여종의 뉴스와 지표들을 종합하여 실시간으로 보여주는 글로벌 정보 대시보드 (OSINT)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/buzz-ai/11461"&gt;Buzz: 사람과 AI 에이전트가 같은 채널에서 일할 수 있도록 하는 자체 호스팅 워크스페이스&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/awesome-systematic-trading/11468"&gt;Awesome Systematic Trading: 퀀트 트레이딩을 위한 라이브러리 및 전략 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/llada2-2-levenshtein-diffusion-lm/11463"&gt;LLaDA2.2: 레벤슈타인(Levenshtein) 편집 기법을 도입하여 에이전트 작업을 지원하는 확산 언어 모델(Diffusion LM)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 08:10:51 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-01/2026-08-01-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-01/2026-08-01-pytorch-kr.mp3" length="17616343" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-07-31</title>
       <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pi-autoresearch-pi/11471"&gt;pi-autoresearch: 코딩 에이전트가 지표를 측정하며 스스로 최적화를 반복하는 pi 확장&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/surfsense-notebooklm/11459"&gt;SurfSense: 실시간 웹 데이터 커넥터를 갖춘 오픈소스 NotebookLM 대안&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/codeburn-ai-36/11469"&gt;CodeBurn: AI 코딩 도구 36종의 토큰 사용량과 비용을 로컬에서 추적하는 대시보드&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/open-multi-agent-dag/11472"&gt;Open Multi-Agent: 목표를 받아 작업 DAG를 실행 시점에 만드는 멀티 에이전트 프레임워크&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/gbrain-ai/11458"&gt;GBrain: 검색 대신 인용이 달린 답을 돌려주는 AI 에이전트용 브레인 계층&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/fermion-research-3-neutrino-1-3/11456"&gt;Fermion Research, 3진 계열 포맷으로 직접 학습한 Neutrino-1 모델군 3종 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/agentmemory-4/11460"&gt;agentmemory: 코딩 에이전트에 4단계 기억 구조를 붙이는 오픈소스 메모리 서버&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
