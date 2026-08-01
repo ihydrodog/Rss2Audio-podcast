@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 01 Aug 2026 08:10:51 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 08:06:19 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-08-02</title>
+      <description>&lt;p&gt;오늘의 기사 2개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/google-deepmind-gemini-robotics-2/11488"&gt;Google DeepMind, 전신 지능과 멀티 로봇 협업을 갖춘 Gemini Robotics 2 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/seed-llms-txt-mcp-ai/11462"&gt;당근 디자인 시스템 SEED, llms.txt와 MCP로 AI 에이전트에게 문서를 여는 방법&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Sun, 02 Aug 2026 08:06:19 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-02/2026-08-02-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-02/2026-08-02-pytorch-kr.mp3" length="39861560" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-08-01</title>
       <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/html-ppt-36-31-html/11470"&gt;html-ppt: 테마 36종과 레이아웃 31종을 갖춘 HTML 프레젠테이션 제작 에이전트 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/stop-slop-ai-claude/10552"&gt;stop-slop: 산문에서 AI 글쓰기 패턴을 찾아 제거하는 Claude 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/world-monitor-500-osint/11457"&gt;World Monitor: 500여종의 뉴스와 지표들을 종합하여 실시간으로 보여주는 글로벌 정보 대시보드 (OSINT)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/buzz-ai/11461"&gt;Buzz: 사람과 AI 에이전트가 같은 채널에서 일할 수 있도록 하는 자체 호스팅 워크스페이스&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/awesome-systematic-trading/11468"&gt;Awesome Systematic Trading: 퀀트 트레이딩을 위한 라이브러리 및 전략 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/llada2-2-levenshtein-diffusion-lm/11463"&gt;LLaDA2.2: 레벤슈타인(Levenshtein) 편집 기법을 도입하여 에이전트 작업을 지원하는 확산 언어 모델(Diffusion LM)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
