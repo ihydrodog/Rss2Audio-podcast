@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 02 Aug 2026 08:06:19 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 08:08:47 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-08-03</title>
+      <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/deepsec/11490"&gt;deepsec: 대규모 코드베이스에 잠복한 취약점을 찾아내는 에이전트 기반 보안 하네스&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/x-the-fast-gemma-challenge-1/11497"&gt;구글 X 허깅페이스 주최 &amp;#x27; The Fast Gemma Challenge&amp;#x27;(모델 추론 가속 대회), 한국 스타트업이 1위 기록&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/agents-cli-google-cloud-cli/11491"&gt;agents-cli: 코딩 어시스턴트를 Google Cloud 에이전트 개발 전문가로 만드는 CLI와 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/gpu-ai/11495"&gt;양자컴퓨터, GPU로 양자 AI 시뮬레이션을 만들어보다.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/autoskills-ai-cli/11489"&gt;autoskills: 프로젝트 기술 스택을 감지해 AI 에이전트 스킬을 자동 설치하는 CLI&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 08:08:47 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-03/2026-08-03-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-03/2026-08-03-pytorch-kr.mp3" length="28698238" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-08-02</title>
       <description>&lt;p&gt;오늘의 기사 2개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/google-deepmind-gemini-robotics-2/11488"&gt;Google DeepMind, 전신 지능과 멀티 로봇 협업을 갖춘 Gemini Robotics 2 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/seed-llms-txt-mcp-ai/11462"&gt;당근 디자인 시스템 SEED, llms.txt와 MCP로 AI 에이전트에게 문서를 여는 방법&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>

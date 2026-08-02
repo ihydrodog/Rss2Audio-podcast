@@ -3,6 +3,37 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-03",
+      "file": "2026-08-03-pytorch-kr.mp3",
+      "published": "2026-08-03T08:08:47+09:00",
+      "entries": [
+        {
+          "title": "deepsec: 대규모 코드베이스에 잠복한 취약점을 찾아내는 에이전트 기반 보안 하네스",
+          "link": "https://discuss.pytorch.kr/t/deepsec/11490"
+        },
+        {
+          "title": "구글 X 허깅페이스 주최 ' The Fast Gemma Challenge'(모델 추론 가속 대회), 한국 스타트업이 1위 기록",
+          "link": "https://discuss.pytorch.kr/t/x-the-fast-gemma-challenge-1/11497"
+        },
+        {
+          "title": "agents-cli: 코딩 어시스턴트를 Google Cloud 에이전트 개발 전문가로 만드는 CLI와 스킬",
+          "link": "https://discuss.pytorch.kr/t/agents-cli-google-cloud-cli/11491"
+        },
+        {
+          "title": "양자컴퓨터, GPU로 양자 AI 시뮬레이션을 만들어보다.",
+          "link": "https://discuss.pytorch.kr/t/gpu-ai/11495"
+        },
+        {
+          "title": "autoskills: 프로젝트 기술 스택을 감지해 AI 에이전트 스킬을 자동 설치하는 CLI",
+          "link": "https://discuss.pytorch.kr/t/autoskills-ai-cli/11489"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-03/2026-08-03-pytorch-kr.mp3",
+      "size": 28698238
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-02",
       "file": "2026-08-02-pytorch-kr.mp3",
       "published": "2026-08-02T08:06:19+09:00",
