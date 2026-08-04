@@ -3,6 +3,37 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-05",
+      "file": "2026-08-05-pytorch-kr.mp3",
+      "published": "2026-08-05T08:13:25+09:00",
+      "entries": [
+        {
+          "title": "Marble Skill Taxonomy: 초등 교육과정을 선수 학습 그래프로 연결한 마이크로 토픽 데이터셋",
+          "link": "https://discuss.pytorch.kr/t/marble-skill-taxonomy/11512"
+        },
+        {
+          "title": "MiniMax, 영상과 음향을 함께 만드는 33B 옴니모달 모델 H3 웨이트 공개 (단, 한국 사용 금지🫠)",
+          "link": "https://discuss.pytorch.kr/t/minimax-33b-h3/11523"
+        },
+        {
+          "title": "QM: 팀원마다 격리된 작업공간을 갖는 슬랙과 웹 기반 멀티플레이어 AI 에이전트",
+          "link": "https://discuss.pytorch.kr/t/qm-ai/11511"
+        },
+        {
+          "title": "image-blaster: 이미지 한 장에서 3D 환경과 효과음을 만들어내는 Claude 스킬셋",
+          "link": "https://discuss.pytorch.kr/t/image-blaster-3d-claude/11500"
+        },
+        {
+          "title": "ScientistOne: Chain-of-Evidence로 모든 주장을 증거에 잇는 자율 연구 시스템에 대한 Google의 연구",
+          "link": "https://discuss.pytorch.kr/t/scientistone-chain-of-evidence-google/11514"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-05/2026-08-05-pytorch-kr.mp3",
+      "size": 19103530
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-04",
       "file": "2026-08-04-pytorch-kr.mp3",
       "published": "2026-08-04T08:14:56+09:00",

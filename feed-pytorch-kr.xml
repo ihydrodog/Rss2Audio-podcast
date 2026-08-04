@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 04 Aug 2026 08:14:56 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 08:13:25 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-08-05</title>
+      <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/marble-skill-taxonomy/11512"&gt;Marble Skill Taxonomy: 초등 교육과정을 선수 학습 그래프로 연결한 마이크로 토픽 데이터셋&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/minimax-33b-h3/11523"&gt;MiniMax, 영상과 음향을 함께 만드는 33B 옴니모달 모델 H3 웨이트 공개 (단, 한국 사용 금지🫠)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/qm-ai/11511"&gt;QM: 팀원마다 격리된 작업공간을 갖는 슬랙과 웹 기반 멀티플레이어 AI 에이전트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/image-blaster-3d-claude/11500"&gt;image-blaster: 이미지 한 장에서 3D 환경과 효과음을 만들어내는 Claude 스킬셋&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/scientistone-chain-of-evidence-google/11514"&gt;ScientistOne: Chain-of-Evidence로 모든 주장을 증거에 잇는 자율 연구 시스템에 대한 Google의 연구&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 08:13:25 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-05/2026-08-05-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-05/2026-08-05-pytorch-kr.mp3" length="19103530" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-08-04</title>
       <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/turbofieldfare-8gb-gemma-4-26b-2gb-swift/11502"&gt;TurboFieldfare: 8GB 맥북에서 Gemma 4 26B를 약 2GB 메모리로 돌리는 Swift 런타임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/qwen-max-2-4t-qwen3-8-max/11509"&gt;Qwen, Max 계열 최초로 가중치를 공개하는 2.4T 규모 플래그십 모델 Qwen3.8-Max 출시 및 공개 예정&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/simplemem-llm-30/11501"&gt;SimpleMem: LLM 에이전트의 장기 기억을 압축해 토큰을 최대 30배 줄이는 메모리 프레임워크&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/codex-security-openai-cli-sdk/11487"&gt;Codex Security: 취약점 탐지부터 검증, 패치까지 수행하는 OpenAI의 보안 스캔 CLI 및 SDK&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/darwin-skill/11492"&gt;darwin-skill: 평가와 회귀 테스트로 에이전트 스킬을 진화시키는 최적화 루프&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/2026-07-27-08-02-ai-ml/11499"&gt;[2026/07/27 ~ 08/02] 이번 주에 살펴볼 만한 AI/ML 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
