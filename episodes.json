@@ -3,6 +3,41 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-06",
+      "file": "2026-08-06-pytorch-kr.mp3",
+      "published": "2026-08-06T08:14:18+09:00",
+      "entries": [
+        {
+          "title": "Bento: HTML 파일 하나에 편집기까지 담아 AI 에이전트가 직접 수정하는 프레젠테이션 도구",
+          "link": "https://discuss.pytorch.kr/t/bento-html-ai/11515"
+        },
+        {
+          "title": "x402: AI 에이전트가 API와 MCP 도구 사용료를 스스로 지불하는 HTTP 결제 표준",
+          "link": "https://discuss.pytorch.kr/t/x402-ai-api-mcp-http/11513"
+        },
+        {
+          "title": "Thinking Machines Lab, 4분의 1 크기로 Inkling에 필적하는 Inkling-Small 공개",
+          "link": "https://discuss.pytorch.kr/t/thinking-machines-lab-4-1-inkling-inkling-small/11517"
+        },
+        {
+          "title": "Rapid-MLX: Apple Silicon 맥에서 로컬 LLM을 OpenAI 호환 서버로 띄우는 추론 엔진",
+          "link": "https://discuss.pytorch.kr/t/rapid-mlx-apple-silicon-llm-openai/11516"
+        },
+        {
+          "title": "esp32-ai: 파라미터 대부분을 플래시에 두고 ESP32-S3에서 28.9M 언어 모델을 돌리기",
+          "link": "https://discuss.pytorch.kr/t/esp32-ai-esp32-s3-28-9m/11519"
+        },
+        {
+          "title": "Instella-MoE: AMD Instinct GPU에서 처음부터 학습한 완전 오픈 16B MoE 모델",
+          "link": "https://discuss.pytorch.kr/t/instella-moe-amd-instinct-gpu-16b-moe/11518"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-06/2026-08-06-pytorch-kr.mp3",
+      "size": 32292022
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-05",
       "file": "2026-08-05-pytorch-kr.mp3",
       "published": "2026-08-05T08:13:25+09:00",
