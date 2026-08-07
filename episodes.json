@@ -3,6 +3,41 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-07",
+      "file": "2026-08-07-pytorch-kr.mp3",
+      "published": "2026-08-07T10:41:45+09:00",
+      "entries": [
+        {
+          "title": "Comp AI CRM: 에이전트가 스스로 조사하고 근거가 있는 사실만 기록하는 오픈소스 CRM",
+          "link": "https://discuss.pytorch.kr/t/comp-ai-crm-crm/11538"
+        },
+        {
+          "title": "Archify: 코드베이스를 검증된 대화형 시스템 맵으로 바꾸는 에이전트 스킬",
+          "link": "https://discuss.pytorch.kr/t/archify/11536"
+        },
+        {
+          "title": "DiffusionGemma 기술 문서 리뷰: 자기회귀 Gemma 4를 이산 확산 모델로 변환한 초고속 텍스트 생성에 대한 연구",
+          "link": "https://discuss.pytorch.kr/t/diffusiongemma-gemma-4/11526"
+        },
+        {
+          "title": "Mistral, 추론 시점에 정책을 바꾸는 3B 규모의 멀티모달 안전성 분류 모델 Shieldstral 공개",
+          "link": "https://discuss.pytorch.kr/t/mistral-3b-shieldstral/11532"
+        },
+        {
+          "title": "DeepSeek-V4-Flash 정식 버전 출시, 성능은 좋아지면서 가격은 낮아진 모델 (Task당 약 $0.027)",
+          "link": "https://discuss.pytorch.kr/t/deepseek-v4-flash-task-0-027/11533"
+        },
+        {
+          "title": "AI 보안 위협 대응 매뉴얼: 과기정통부와 KISA가 정리한 LLM 시스템 위협 21종에 대한 대응 매뉴얼 [국문/PDF/231p]",
+          "link": "https://discuss.pytorch.kr/t/ai-kisa-llm-21-pdf-231p/11534"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-07/2026-08-07-pytorch-kr.mp3",
+      "size": 32292022
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-06",
       "file": "2026-08-06-pytorch-kr.mp3",
       "published": "2026-08-06T08:14:18+09:00",
