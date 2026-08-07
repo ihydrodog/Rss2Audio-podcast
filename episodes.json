@@ -3,6 +3,45 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-08",
+      "file": "2026-08-08-pytorch-kr.mp3",
+      "published": "2026-08-08T07:47:10+09:00",
+      "entries": [
+        {
+          "title": "과기정통부와 KISA가 발간한 AI 보안 레드티밍 가이드, AI 레드팀 구성부터 결과 보고까지 [국문/PDF/69p]",
+          "link": "https://discuss.pytorch.kr/t/kisa-ai-ai-pdf-69p/11535"
+        },
+        {
+          "title": "Prime Intellect, 컨텍스트를 변수로 다루는 자기개선형 코딩 에이전트 Prime Agent 공개",
+          "link": "https://discuss.pytorch.kr/t/prime-intellect-prime-agent/11544"
+        },
+        {
+          "title": "Seedance 2.5 프롬프트 분석: 181개 공개 사례에서 찾은 5가지 표현 구조와 8가지 제어 전략",
+          "link": "https://discuss.pytorch.kr/t/seedance-2-5-181-5-8/11558"
+        },
+        {
+          "title": "Cloudflare OS: Cloudflare 오픈소스로 공개한 사내 AI 에이전트 워크스페이스 도구 (및 커뮤니티 의견들)",
+          "link": "https://discuss.pytorch.kr/t/cloudflare-os-cloudflare-ai/11545"
+        },
+        {
+          "title": "Mixture-of-Kittens: Cursor가 새로 공개한 NVL72용 MoE 학습 메가커널",
+          "link": "https://discuss.pytorch.kr/t/mixture-of-kittens-cursor-nvl72-moe/11548"
+        },
+        {
+          "title": "LogoCreator: 브랜드 이름만 넣으면 로고와 브랜드 키트가 나오는 오픈소스 웹 앱",
+          "link": "https://discuss.pytorch.kr/t/logocreator/11537"
+        },
+        {
+          "title": "Liquid AI, 휴대폰에서 실행 가능한 온-디바이스 에이전트 모델 LFM2.5-2.6B 공개",
+          "link": "https://discuss.pytorch.kr/t/liquid-ai-lfm2-5-2-6b/11549"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-08/2026-08-08-pytorch-kr.mp3",
+      "size": 32576760
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-07",
       "file": "2026-08-07-pytorch-kr.mp3",
       "published": "2026-08-07T10:41:45+09:00",

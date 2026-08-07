@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 07 Aug 2026 10:41:45 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 07:47:10 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-08-08</title>
+      <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/kisa-ai-ai-pdf-69p/11535"&gt;과기정통부와 KISA가 발간한 AI 보안 레드티밍 가이드, AI 레드팀 구성부터 결과 보고까지 [국문/PDF/69p]&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/prime-intellect-prime-agent/11544"&gt;Prime Intellect, 컨텍스트를 변수로 다루는 자기개선형 코딩 에이전트 Prime Agent 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/seedance-2-5-181-5-8/11558"&gt;Seedance 2.5 프롬프트 분석: 181개 공개 사례에서 찾은 5가지 표현 구조와 8가지 제어 전략&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/cloudflare-os-cloudflare-ai/11545"&gt;Cloudflare OS: Cloudflare 오픈소스로 공개한 사내 AI 에이전트 워크스페이스 도구 (및 커뮤니티 의견들)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/mixture-of-kittens-cursor-nvl72-moe/11548"&gt;Mixture-of-Kittens: Cursor가 새로 공개한 NVL72용 MoE 학습 메가커널&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/logocreator/11537"&gt;LogoCreator: 브랜드 이름만 넣으면 로고와 브랜드 키트가 나오는 오픈소스 웹 앱&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/liquid-ai-lfm2-5-2-6b/11549"&gt;Liquid AI, 휴대폰에서 실행 가능한 온-디바이스 에이전트 모델 LFM2.5-2.6B 공개&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 07:47:10 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-08/2026-08-08-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-08/2026-08-08-pytorch-kr.mp3" length="32576760" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-08-07</title>
       <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/comp-ai-crm-crm/11538"&gt;Comp AI CRM: 에이전트가 스스로 조사하고 근거가 있는 사실만 기록하는 오픈소스 CRM&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/archify/11536"&gt;Archify: 코드베이스를 검증된 대화형 시스템 맵으로 바꾸는 에이전트 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/diffusiongemma-gemma-4/11526"&gt;DiffusionGemma 기술 문서 리뷰: 자기회귀 Gemma 4를 이산 확산 모델로 변환한 초고속 텍스트 생성에 대한 연구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/mistral-3b-shieldstral/11532"&gt;Mistral, 추론 시점에 정책을 바꾸는 3B 규모의 멀티모달 안전성 분류 모델 Shieldstral 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/deepseek-v4-flash-task-0-027/11533"&gt;DeepSeek-V4-Flash 정식 버전 출시, 성능은 좋아지면서 가격은 낮아진 모델 (Task당 약 $0.027)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai-kisa-llm-21-pdf-231p/11534"&gt;AI 보안 위협 대응 매뉴얼: 과기정통부와 KISA가 정리한 LLM 시스템 위협 21종에 대한 대응 매뉴얼 [국문/PDF/231p]&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
