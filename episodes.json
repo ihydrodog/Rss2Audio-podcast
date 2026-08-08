@@ -3,6 +3,25 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-09",
+      "file": "2026-08-09-pytorch-kr.mp3",
+      "published": "2026-08-09T07:39:20+09:00",
+      "entries": [
+        {
+          "title": "[GN⁺] LLM은 ‘점프’할 수 없다: Einstein의 등가원리와 귀추(abduction)",
+          "link": "https://discuss.pytorch.kr/t/gn-llm-einstein-abduction/11551"
+        },
+        {
+          "title": "SeedRealtime: ByteDance Seed의 보면서 듣고 말하는 전이중(Full-Duplex) 모델",
+          "link": "https://discuss.pytorch.kr/t/seedrealtime-bytedance-seed-full-duplex/11561"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-09/2026-08-09-pytorch-kr.mp3",
+      "size": 30336326
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-08",
       "file": "2026-08-08-pytorch-kr.mp3",
       "published": "2026-08-08T07:47:10+09:00",

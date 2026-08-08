@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 08 Aug 2026 07:47:10 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:39:20 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-08-09</title>
+      <description>&lt;p&gt;오늘의 기사 2개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/gn-llm-einstein-abduction/11551"&gt;[GN⁺] LLM은 ‘점프’할 수 없다: Einstein의 등가원리와 귀추(abduction)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/seedrealtime-bytedance-seed-full-duplex/11561"&gt;SeedRealtime: ByteDance Seed의 보면서 듣고 말하는 전이중(Full-Duplex) 모델&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 07:39:20 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-09/2026-08-09-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-09/2026-08-09-pytorch-kr.mp3" length="30336326" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-08-08</title>
       <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/kisa-ai-ai-pdf-69p/11535"&gt;과기정통부와 KISA가 발간한 AI 보안 레드티밍 가이드, AI 레드팀 구성부터 결과 보고까지 [국문/PDF/69p]&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/prime-intellect-prime-agent/11544"&gt;Prime Intellect, 컨텍스트를 변수로 다루는 자기개선형 코딩 에이전트 Prime Agent 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/seedance-2-5-181-5-8/11558"&gt;Seedance 2.5 프롬프트 분석: 181개 공개 사례에서 찾은 5가지 표현 구조와 8가지 제어 전략&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/cloudflare-os-cloudflare-ai/11545"&gt;Cloudflare OS: Cloudflare 오픈소스로 공개한 사내 AI 에이전트 워크스페이스 도구 (및 커뮤니티 의견들)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/mixture-of-kittens-cursor-nvl72-moe/11548"&gt;Mixture-of-Kittens: Cursor가 새로 공개한 NVL72용 MoE 학습 메가커널&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/logocreator/11537"&gt;LogoCreator: 브랜드 이름만 넣으면 로고와 브랜드 키트가 나오는 오픈소스 웹 앱&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/liquid-ai-lfm2-5-2-6b/11549"&gt;Liquid AI, 휴대폰에서 실행 가능한 온-디바이스 에이전트 모델 LFM2.5-2.6B 공개&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
