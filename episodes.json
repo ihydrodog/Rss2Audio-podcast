@@ -3,6 +3,33 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-10",
+      "file": "2026-08-10-pytorch-kr.mp3",
+      "published": "2026-08-10T07:43:06+09:00",
+      "entries": [
+        {
+          "title": "FBTriton 인프라: 업스트림 반영, 계층적 검증, 이상과 현실 | 파이토치 한국 사용자 모임",
+          "link": "https://discuss.pytorch.kr/t/fbtriton/11576"
+        },
+        {
+          "title": "Model DNA 심층 분석 — 공개 아티팩트만으로 LLM '밑바닥 학습'을 검증할 수 있는가 (아키텍처·토크나이저·CKA, PyTorch 재현)",
+          "link": "https://discuss.pytorch.kr/t/model-dna-llm-cka-pytorch/11569"
+        },
+        {
+          "title": "anydoc: 오피스 문서를 LLM이 읽을 Markdown으로 5밀리초 안에 바꾸는 Rust 라이브러리",
+          "link": "https://discuss.pytorch.kr/t/anydoc-llm-markdown-5-rust/11552"
+        },
+        {
+          "title": "Meta, 터미널 코딩 에이전트 Muse Code와 코딩 특화 모델 Muse Spark 1.2 출시",
+          "link": "https://discuss.pytorch.kr/t/meta-muse-code-muse-spark-1-2/11554"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-10/2026-08-10-pytorch-kr.mp3",
+      "size": 32907814
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-09",
       "file": "2026-08-09-pytorch-kr.mp3",
       "published": "2026-08-09T07:39:20+09:00",

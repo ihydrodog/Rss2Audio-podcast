@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 09 Aug 2026 07:39:20 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 07:43:06 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-08-10</title>
+      <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/fbtriton/11576"&gt;FBTriton 인프라: 업스트림 반영, 계층적 검증, 이상과 현실 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/model-dna-llm-cka-pytorch/11569"&gt;Model DNA 심층 분석 — 공개 아티팩트만으로 LLM &amp;#x27;밑바닥 학습&amp;#x27;을 검증할 수 있는가 (아키텍처·토크나이저·CKA, PyTorch 재현)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anydoc-llm-markdown-5-rust/11552"&gt;anydoc: 오피스 문서를 LLM이 읽을 Markdown으로 5밀리초 안에 바꾸는 Rust 라이브러리&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/meta-muse-code-muse-spark-1-2/11554"&gt;Meta, 터미널 코딩 에이전트 Muse Code와 코딩 특화 모델 Muse Spark 1.2 출시&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Mon, 10 Aug 2026 07:43:06 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-10/2026-08-10-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-10/2026-08-10-pytorch-kr.mp3" length="32907814" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-08-09</title>
       <description>&lt;p&gt;오늘의 기사 2개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/gn-llm-einstein-abduction/11551"&gt;[GN⁺] LLM은 ‘점프’할 수 없다: Einstein의 등가원리와 귀추(abduction)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/seedrealtime-bytedance-seed-full-duplex/11561"&gt;SeedRealtime: ByteDance Seed의 보면서 듣고 말하는 전이중(Full-Duplex) 모델&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
