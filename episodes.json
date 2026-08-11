@@ -3,6 +3,25 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-12",
+      "file": "2026-08-12-pytorch-kr.mp3",
+      "published": "2026-08-12T07:54:06+09:00",
+      "entries": [
+        {
+          "title": "ai-knowledge-graph: 비정형 텍스트에서 지식 그래프를 뽑아 시각화하는 파이썬 도구",
+          "link": "https://discuss.pytorch.kr/t/ai-knowledge-graph/11583"
+        },
+        {
+          "title": "Lucebox: 추측 디코딩과 전용 커널로 소비자용 GPU의 LLM 추론을 끌어올리는 서버",
+          "link": "https://discuss.pytorch.kr/t/lucebox-gpu-llm/11584"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-12/2026-08-12-pytorch-kr.mp3",
+      "size": 37176406
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-11",
       "file": "2026-08-11-pytorch-kr.mp3",
       "published": "2026-08-11T07:50:36+09:00",
