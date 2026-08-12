@@ -3,6 +3,41 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-13",
+      "file": "2026-08-13-pytorch-kr.mp3",
+      "published": "2026-08-13T07:51:50+09:00",
+      "entries": [
+        {
+          "title": "How to Train Your GPT: LLaMA 3 구조를 밑바닥부터 구현하며 배우는 LLM의 원리와 동작",
+          "link": "https://discuss.pytorch.kr/t/how-to-train-your-gpt-llama-3-llm/11599"
+        },
+        {
+          "title": "WARP: 2.78조 파라미터 Kimi K3를 64GB 맥북에서 실행하는 C 기반 추론 엔진",
+          "link": "https://discuss.pytorch.kr/t/warp-2-78-kimi-k3-64gb-c/11601"
+        },
+        {
+          "title": "Qwen Audio Agent: 작업하는 동안에도 대화가 끊기지 않는 실시간 음성 에이전트 런타임",
+          "link": "https://discuss.pytorch.kr/t/qwen-audio-agent/11600"
+        },
+        {
+          "title": "SIE: 에이전트가 쓰는 임베딩부터 OCR까지 한 클러스터에서 서빙하는 오픈소스 추론 엔진",
+          "link": "https://discuss.pytorch.kr/t/sie-ocr/11597"
+        },
+        {
+          "title": "kimi-k3-in-c: 2.78조 파라미터 모델을 GPU 없이 8GB 램에서 돌리는 C99 추론 엔진",
+          "link": "https://discuss.pytorch.kr/t/kimi-k3-in-c-2-78-gpu-8gb-c99/11574"
+        },
+        {
+          "title": "interfaces: 코딩 에이전트가 UI를 도메인별로 검토하게 만드는 8개 스킬",
+          "link": "https://discuss.pytorch.kr/t/interfaces-ui-8/11582"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-13/2026-08-13-pytorch-kr.mp3",
+      "size": 25880858
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-12",
       "file": "2026-08-12-pytorch-kr.mp3",
       "published": "2026-08-12T07:54:06+09:00",
