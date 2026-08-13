@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 13 Aug 2026 07:51:50 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:58:05 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-08-14</title>
+      <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/9arm-skills-claude-code/11605"&gt;9arm-skills: Claude Code에 디버깅 규율과 코드 리뷰 절차를 심는 에이전트 스킬 모음&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/h3-c-minimax-h3-c-feat-antirez/11608"&gt;h3.c: MiniMax H3 영상 생성 모델을 애플 실리콘에서 돌리는 C 언어 구현체 (feat. antirez)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/skill-recorder-microsoft/11606"&gt;Skill Recorder: Microsoft가 공개한, 화면 녹화를 에이전트 스킬로 바꾸는 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/gathered-scenes-zine-codex/11607"&gt;Gathered Scenes Zine: 사진을 종이 질감의 편집 디자인 작품으로 바꾸는 Codex 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/genoffice-ai/11598"&gt;GenOffice: 원본 파일을 바이트 단위로 보존하며 AI로 편집하는 오픈소스 오피스 스위트&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 07:58:05 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-14/2026-08-14-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-14/2026-08-14-pytorch-kr.mp3" length="60879559" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-08-13</title>
       <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/how-to-train-your-gpt-llama-3-llm/11599"&gt;How to Train Your GPT: LLaMA 3 구조를 밑바닥부터 구현하며 배우는 LLM의 원리와 동작&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/warp-2-78-kimi-k3-64gb-c/11601"&gt;WARP: 2.78조 파라미터 Kimi K3를 64GB 맥북에서 실행하는 C 기반 추론 엔진&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/qwen-audio-agent/11600"&gt;Qwen Audio Agent: 작업하는 동안에도 대화가 끊기지 않는 실시간 음성 에이전트 런타임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/sie-ocr/11597"&gt;SIE: 에이전트가 쓰는 임베딩부터 OCR까지 한 클러스터에서 서빙하는 오픈소스 추론 엔진&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/kimi-k3-in-c-2-78-gpu-8gb-c99/11574"&gt;kimi-k3-in-c: 2.78조 파라미터 모델을 GPU 없이 8GB 램에서 돌리는 C99 추론 엔진&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/interfaces-ui-8/11582"&gt;interfaces: 코딩 에이전트가 UI를 도메인별로 검토하게 만드는 8개 스킬&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
