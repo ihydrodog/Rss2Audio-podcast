@@ -3,6 +3,45 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-15",
+      "file": "2026-08-15-pytorch-kr.mp3",
+      "published": "2026-08-15T07:34:53+09:00",
+      "entries": [
+        {
+          "title": "Harness Engineering: 코딩 에이전트의 환경을 설계하는 12개 논제와 플레이북 모음",
+          "link": "https://discuss.pytorch.kr/t/harness-engineering-12/11613"
+        },
+        {
+          "title": "[로봇깍는 노인] 피지컬AI 직접 만들어보기",
+          "link": "https://discuss.pytorch.kr/t/ai/11624"
+        },
+        {
+          "title": "UEmbed: 디코더 전용 모델에서 희소 검색과 밀집 검색을 통합한 멀티모달 임베딩 연구",
+          "link": "https://discuss.pytorch.kr/t/uembed/11614"
+        },
+        {
+          "title": "Claude of Duty: 단일 프롬프트로 AI 에이전트가 만든 브라우저 FPS 게임 및 품질 검증 하네스",
+          "link": "https://discuss.pytorch.kr/t/claude-of-duty-ai-fps/11611"
+        },
+        {
+          "title": "엔비디아 모델에서도 드러난 AI 안전성의 빈틈",
+          "link": "https://discuss.pytorch.kr/t/ai/11619"
+        },
+        {
+          "title": "thinking-orbs: AI 에이전트가 무엇을 하는 중인지 보여주는 로딩 인디케이터",
+          "link": "https://discuss.pytorch.kr/t/thinking-orbs-ai/11616"
+        },
+        {
+          "title": "멀티에이전트 시스템의 실패 패턴: AI 에이전트 군집의 쏠림, 담합, 목표 충돌에 대한 Anthropic의 연구",
+          "link": "https://discuss.pytorch.kr/t/ai-anthropic/11610"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-15/2026-08-15-pytorch-kr.mp3",
+      "size": 31385516
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-14",
       "file": "2026-08-14-pytorch-kr.mp3",
       "published": "2026-08-14T07:58:05+09:00",
