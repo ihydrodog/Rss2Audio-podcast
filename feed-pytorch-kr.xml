@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 15 Aug 2026 07:34:53 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:34:37 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-08-16</title>
+      <description>&lt;p&gt;오늘의 기사 3개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/executorch-muse-glimmer-ai/11632"&gt;ExecuTorch에서 Muse Glimmer로 구현하는 빠른 온디바이스 에이전틱 AI | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai-94-79/11612"&gt;AI 가치 정렬 논문 94편 중 79%는 가치를 정의하지 않는다: 정렬 연구의 암묵적 가치 이론 분석&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai/11625"&gt;누구나 AI로 신약 발견을 할 수 있는 시대, 신약개발 공익 챌린지가 허깅페이스에 공개되다&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Sun, 16 Aug 2026 07:34:37 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-16/2026-08-16-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-16/2026-08-16-pytorch-kr.mp3" length="44798983" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-08-15</title>
       <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/harness-engineering-12/11613"&gt;Harness Engineering: 코딩 에이전트의 환경을 설계하는 12개 논제와 플레이북 모음&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai/11624"&gt;[로봇깍는 노인] 피지컬AI 직접 만들어보기&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/uembed/11614"&gt;UEmbed: 디코더 전용 모델에서 희소 검색과 밀집 검색을 통합한 멀티모달 임베딩 연구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/claude-of-duty-ai-fps/11611"&gt;Claude of Duty: 단일 프롬프트로 AI 에이전트가 만든 브라우저 FPS 게임 및 품질 검증 하네스&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai/11619"&gt;엔비디아 모델에서도 드러난 AI 안전성의 빈틈&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/thinking-orbs-ai/11616"&gt;thinking-orbs: AI 에이전트가 무엇을 하는 중인지 보여주는 로딩 인디케이터&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai-anthropic/11610"&gt;멀티에이전트 시스템의 실패 패턴: AI 에이전트 군집의 쏠림, 담합, 목표 충돌에 대한 Anthropic의 연구&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
