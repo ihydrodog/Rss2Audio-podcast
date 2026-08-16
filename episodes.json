@@ -3,6 +3,33 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-17",
+      "file": "2026-08-17-pytorch-kr.mp3",
+      "published": "2026-08-17T07:34:30+09:00",
+      "entries": [
+        {
+          "title": "MiniMax Music 3: 가사와 음악 설명만으로 5분 길이의 완성곡을 만드는 음악 생성 모델",
+          "link": "https://discuss.pytorch.kr/t/minimax-music-3-5/11629"
+        },
+        {
+          "title": "'모두의 AI신약' : AI와 사람이 함께 여는 공개 신약 발견 챌린지",
+          "link": "https://discuss.pytorch.kr/t/ai-ai/11633"
+        },
+        {
+          "title": "DeepSeek Harness: 에이전트 루프까지 설정으로 교체하는 플러그인 구조의 코딩 에이전트",
+          "link": "https://discuss.pytorch.kr/t/deepseek-harness/11628"
+        },
+        {
+          "title": "Agent-Safe Pipeline: 에이전트는 제안만 하고 승인은 정책이 결정하는 참조 아키텍처",
+          "link": "https://discuss.pytorch.kr/t/agent-safe-pipeline/11630"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-17/2026-08-17-pytorch-kr.mp3",
+      "size": 30004525
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-16",
       "file": "2026-08-16-pytorch-kr.mp3",
       "published": "2026-08-16T07:34:37+09:00",
