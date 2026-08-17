@@ -3,6 +3,33 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-18",
+      "file": "2026-08-18-pytorch-kr.mp3",
+      "published": "2026-08-18T07:36:42+09:00",
+      "entries": [
+        {
+          "title": "AI 에이전트의 지식 노동 재편: Perplexity 실사용 데이터로 본 자율성, 효율성, 범위",
+          "link": "https://discuss.pytorch.kr/t/ai-perplexity/11618"
+        },
+        {
+          "title": "Photo Abstract Editorial: 원본 사진을 건드리지 않고 추상 패널을 덧붙이는 Codex 스킬",
+          "link": "https://discuss.pytorch.kr/t/photo-abstract-editorial-codex/11635"
+        },
+        {
+          "title": "DSH Desktop: Node.js 설치 없이 DeepSeek Harness를 실행하는 데스크탑 애플리케이션",
+          "link": "https://discuss.pytorch.kr/t/dsh-desktop-node-js-deepseek-harness/11634"
+        },
+        {
+          "title": "[2026/08/10 ~ 16] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+          "link": "https://discuss.pytorch.kr/t/2026-08-10-16-ai-ml/11637"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-18/2026-08-18-pytorch-kr.mp3",
+      "size": 38610553
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-17",
       "file": "2026-08-17-pytorch-kr.mp3",
       "published": "2026-08-17T07:34:30+09:00",
