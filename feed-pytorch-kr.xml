@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 18 Aug 2026 07:36:42 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:35:44 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-08-19</title>
+      <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/hyperresearch-claude-code-16/11646"&gt;hyperresearch: 읽은 자료를 보관해 다음 리서치에 재사용하는 Claude Code용 16단계 조사 파이프라인&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/awesome-dsh-plugin-deepseek-harness/11641"&gt;awesome-dsh-plugin: 실제로 동작하는 DeepSeek Harness 플러그인들을 모아둔 저장소 (≠ 큐레이션 저장소)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/moli-chrome-headless-ai/11643"&gt;Moli: Chrome Headless보다 가벼우면서 웹 페이지 데이터 활용에 적합한 AI 에이전트용 헤드리스 브라우저&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-4/11638"&gt;Andrew Ng의 AI Engineering Skills Map: 개발자가 갖춰야 할 4가지 핵심 역량들&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 07:35:44 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-19/2026-08-19-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-19/2026-08-19-pytorch-kr.mp3" length="25954815" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-08-18</title>
       <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai-perplexity/11618"&gt;AI 에이전트의 지식 노동 재편: Perplexity 실사용 데이터로 본 자율성, 효율성, 범위&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/photo-abstract-editorial-codex/11635"&gt;Photo Abstract Editorial: 원본 사진을 건드리지 않고 추상 패널을 덧붙이는 Codex 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/dsh-desktop-node-js-deepseek-harness/11634"&gt;DSH Desktop: Node.js 설치 없이 DeepSeek Harness를 실행하는 데스크탑 애플리케이션&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/2026-08-10-16-ai-ml/11637"&gt;[2026/08/10 ~ 16] 이번 주에 살펴볼 만한 AI/ML 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>

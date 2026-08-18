@@ -3,6 +3,33 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-19",
+      "file": "2026-08-19-pytorch-kr.mp3",
+      "published": "2026-08-19T07:35:44+09:00",
+      "entries": [
+        {
+          "title": "hyperresearch: 읽은 자료를 보관해 다음 리서치에 재사용하는 Claude Code용 16단계 조사 파이프라인",
+          "link": "https://discuss.pytorch.kr/t/hyperresearch-claude-code-16/11646"
+        },
+        {
+          "title": "awesome-dsh-plugin: 실제로 동작하는 DeepSeek Harness 플러그인들을 모아둔 저장소 (≠ 큐레이션 저장소)",
+          "link": "https://discuss.pytorch.kr/t/awesome-dsh-plugin-deepseek-harness/11641"
+        },
+        {
+          "title": "Moli: Chrome Headless보다 가벼우면서 웹 페이지 데이터 활용에 적합한 AI 에이전트용 헤드리스 브라우저",
+          "link": "https://discuss.pytorch.kr/t/moli-chrome-headless-ai/11643"
+        },
+        {
+          "title": "Andrew Ng의 AI Engineering Skills Map: 개발자가 갖춰야 할 4가지 핵심 역량들",
+          "link": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-4/11638"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-19/2026-08-19-pytorch-kr.mp3",
+      "size": 25954815
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-18",
       "file": "2026-08-18-pytorch-kr.mp3",
       "published": "2026-08-18T07:36:42+09:00",
