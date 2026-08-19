@@ -3,6 +3,41 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-20",
+      "file": "2026-08-20-pytorch-kr.mp3",
+      "published": "2026-08-20T07:39:39+09:00",
+      "entries": [
+        {
+          "title": "DeepSeek Harness 플러그인 2,500개 이상을 정리한 DSH Marketplace를 만들었습니다",
+          "link": "https://discuss.pytorch.kr/t/deepseek-harness-2-500-dsh-marketplace/11670"
+        },
+        {
+          "title": "Cindy: Claude Code와 Codex를 작업 도중에 바꿔 가며 쓰는 오픈소스 AI 에이전트 클라이언트",
+          "link": "https://discuss.pytorch.kr/t/cindy-claude-code-codex-ai/11657"
+        },
+        {
+          "title": "PenEcho: 손으로 쓴 수식과 도형을 읽고 답을 옆에 그려주는 오픈소스 AI 캔버스",
+          "link": "https://discuss.pytorch.kr/t/penecho-ai/11658"
+        },
+        {
+          "title": "phone-harness: Xcode나 WebDriverAgent 없이 AI 에이전트가 실제 아이폰을 조작하는 도구",
+          "link": "https://discuss.pytorch.kr/t/phone-harness-xcode-webdriveragent-ai/11644"
+        },
+        {
+          "title": "리만 제타 함수 임계선 영점 비율: Claude가 무조건적 하한을 41.6%에서 67.25%로 올린 Anthropic의 연구 (≠ 리만 가설 증명)",
+          "link": "https://discuss.pytorch.kr/t/claude-41-6-67-25-anthropic/11640"
+        },
+        {
+          "title": "Magic Context: 세션을 끊지 않고 프로젝트 지식을 쌓는 코딩 에이전트용 메모리 플러그인",
+          "link": "https://discuss.pytorch.kr/t/magic-context/11645"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-20/2026-08-20-pytorch-kr.mp3",
+      "size": 36204161
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-19",
       "file": "2026-08-19-pytorch-kr.mp3",
       "published": "2026-08-19T07:35:44+09:00",
