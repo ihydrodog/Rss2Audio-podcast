@@ -3,6 +3,37 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-21",
+      "file": "2026-08-21-pytorch-kr.mp3",
+      "published": "2026-08-21T07:42:14+09:00",
+      "entries": [
+        {
+          "title": "Hugging Face가 공개한 2026 여름 기준 공개된 AI 모델 보고서: 좋아요와 다운로드는 서로 다른 경제입니다",
+          "link": "https://discuss.pytorch.kr/t/hugging-face-2026-ai/11674"
+        },
+        {
+          "title": "Wardrobe: 옷 사진에서 옷만 오려내 카탈로그와 착용 컷으로 정리하는 AI 옷장 프로젝트",
+          "link": "https://discuss.pytorch.kr/t/wardrobe-ai/11667"
+        },
+        {
+          "title": "Cerebras, 웨이퍼 3장을 한 랙에 담은 Nexus 아키텍처로 GPU 대비 최대 30배 빠른 추론이 가능한 CS-4 출시",
+          "link": "https://discuss.pytorch.kr/t/cerebras-3-nexus-gpu-30-cs-4/11672"
+        },
+        {
+          "title": "Cumora: AI 에이전트들과 업무를 나누고 진행 상황을 공유하는 에이전트 팀을 위한 채팅 앱",
+          "link": "https://discuss.pytorch.kr/t/cumora-ai/11666"
+        },
+        {
+          "title": "OpenAI, 신규 모델 Astra의 예상치 못한 사이버 보안 위험성에 개발 속도를 늦추고 안전장치를 재정비 중",
+          "link": "https://discuss.pytorch.kr/t/openai-astra/11659"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-21/2026-08-21-pytorch-kr.mp3",
+      "size": 29441773
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-20",
       "file": "2026-08-20-pytorch-kr.mp3",
       "published": "2026-08-20T07:39:39+09:00",
