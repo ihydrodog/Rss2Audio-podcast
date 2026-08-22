@@ -3,6 +3,29 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-23",
+      "file": "2026-08-23-pytorch-kr.mp3",
+      "published": "2026-08-23T07:34:52+09:00",
+      "entries": [
+        {
+          "title": "TrueForge: 모델 호출부터 샌드박스, 채팅 UI까지 에이전트 실행 루프를 통째로 제공하는 오픈소스 하네스",
+          "link": "https://discuss.pytorch.kr/t/trueforge-ui/11685"
+        },
+        {
+          "title": "AI 신약 후보 물질 발견을 위한 '예측 도구(능력)' 평가 리더보드 허깅페이스에 공개",
+          "link": "https://discuss.pytorch.kr/t/ai/11688"
+        },
+        {
+          "title": "강화학습으로 양자 오류 정정(QEC)을 제어하는 연구: Willow에서 계산을 멈추지 않는 실시간 보정",
+          "link": "https://discuss.pytorch.kr/t/qec-willow/11639"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-23/2026-08-23-pytorch-kr.mp3",
+      "size": 44669736
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-22",
       "file": "2026-08-22-pytorch-kr.mp3",
       "published": "2026-08-22T07:35:33+09:00",
