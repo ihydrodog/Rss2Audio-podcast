@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 23 Aug 2026 07:34:52 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:32:44 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-08-24</title>
+      <description>&lt;p&gt;오늘의 기사 2개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/stripe-minions-1-300-pr-feat-goose-mcp/11690"&gt;Stripe의 무인 코딩 에이전트 Minions, 매주 1,300개 PR을 사람 코드 없이 만드는 방법 (feat. goose, MCP)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ip-as-logo-ip/11687"&gt;IP as Logo: 일관되게 제약조건을 적용하여 일관성있는 기업 IP 마스코트 로고를 만드는 에이전트 스킬&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 07:32:44 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-24/2026-08-24-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-24/2026-08-24-pytorch-kr.mp3" length="22266263" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-08-23</title>
       <description>&lt;p&gt;오늘의 기사 3개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/trueforge-ui/11685"&gt;TrueForge: 모델 호출부터 샌드박스, 채팅 UI까지 에이전트 실행 루프를 통째로 제공하는 오픈소스 하네스&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai/11688"&gt;AI 신약 후보 물질 발견을 위한 &amp;#x27;예측 도구(능력)&amp;#x27; 평가 리더보드 허깅페이스에 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/qec-willow/11639"&gt;강화학습으로 양자 오류 정정(QEC)을 제어하는 연구: Willow에서 계산을 멈추지 않는 실시간 보정&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>

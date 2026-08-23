@@ -3,6 +3,25 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-08-24",
+      "file": "2026-08-24-pytorch-kr.mp3",
+      "published": "2026-08-24T07:32:44+09:00",
+      "entries": [
+        {
+          "title": "Stripe의 무인 코딩 에이전트 Minions, 매주 1,300개 PR을 사람 코드 없이 만드는 방법 (feat. goose, MCP)",
+          "link": "https://discuss.pytorch.kr/t/stripe-minions-1-300-pr-feat-goose-mcp/11690"
+        },
+        {
+          "title": "IP as Logo: 일관되게 제약조건을 적용하여 일관성있는 기업 IP 마스코트 로고를 만드는 에이전트 스킬",
+          "link": "https://discuss.pytorch.kr/t/ip-as-logo-ip/11687"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-24/2026-08-24-pytorch-kr.mp3",
+      "size": 22266263
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-23",
       "file": "2026-08-23-pytorch-kr.mp3",
       "published": "2026-08-23T07:34:52+09:00",
