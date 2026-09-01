@@ -3,6 +3,45 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-09-01",
+      "file": "2026-09-01-pytorch-kr.mp3",
+      "published": "2026-09-01T10:16:30+09:00",
+      "entries": [
+        {
+          "title": "img2obj: 참조 이미지를 애니메이션 가능한 Three.js 절차적 코드로 재구성하는 Codex 플러그인",
+          "link": "https://discuss.pytorch.kr/t/img2obj-three-js-codex/11724"
+        },
+        {
+          "title": "Agent Flow: Claude Code와 Codex의 에이전트 실행 과정을 실시간 노드 그래프로 보여주는 도구",
+          "link": "https://discuss.pytorch.kr/t/agent-flow-claude-code-codex/11767"
+        },
+        {
+          "title": "AI 에이전트들로 만든 외계 행성 문명 생성 시뮬레이션 공개",
+          "link": "https://discuss.pytorch.kr/t/ai/11777"
+        },
+        {
+          "title": "Open Science Desktop: 결과 그림에서 생성 코드까지 되짚을 수 있는, 내 컴퓨터용 AI 연구 작업도구 (≠ OpenScience)",
+          "link": "https://discuss.pytorch.kr/t/open-science-desktop-ai-openscience/11752"
+        },
+        {
+          "title": "빌 게이츠가 본 AI 전환기의 세 가지 위험과 대응책: 인간만을 위한 영역(Human Reserved)과 AI 토큰세 제안",
+          "link": "https://discuss.pytorch.kr/t/ai-human-reserved-ai/11763"
+        },
+        {
+          "title": "SlideOps: 저장소로 만든 슬라이드가 코드와 어긋난 시점을 토큰 없이 찾아내는 에이전트 스킬",
+          "link": "https://discuss.pytorch.kr/t/slideops/11769"
+        },
+        {
+          "title": "[2026/08/24 ~ 30] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+          "link": "https://discuss.pytorch.kr/t/2026-08-24-30-ai-ml/11764"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-01/2026-09-01-pytorch-kr.mp3",
+      "size": 30298227
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-08-24",
       "file": "2026-08-24-pytorch-kr.mp3",
       "published": "2026-08-24T07:32:44+09:00",
