@@ -3,6 +3,49 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-09-04",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-09-03",
+      "period_end": "2026-09-04",
+      "file": "2026-09-04-pytorch-kr.mp3",
+      "published": "2026-09-04T09:01:04+09:00",
+      "entries": [
+        {
+          "title": "PyTorch 2.14 출시: NVGEMM 백엔드와 c10d 내결함성, Python 3.15 휠 지원 (feat. torchvision 0.29)",
+          "link": "https://discuss.pytorch.kr/t/pytorch-2-14-nvgemm-c10d-python-3-15-feat-torchvision-0-29/11809"
+        },
+        {
+          "title": "Agent Behavior: 스킬과 달리 런타임 프롬프트가 아니라 트레이스 검토용으로 쓰는 에이전트 행동 표준",
+          "link": "https://discuss.pytorch.kr/t/agent-behavior/11800"
+        },
+        {
+          "title": "Code-as-World: 영상을 실행 가능한 물리 코드로 복원하는 방식으로, 9B 모델로 Gemini 3.1 Flash 성능을 넘어선 연구",
+          "link": "https://discuss.pytorch.kr/t/code-as-world-9b-gemini-3-1-flash/11799"
+        },
+        {
+          "title": "Path to Astra, OpenAI의 Critical 사이버보안 임계선을 넘은 첫 모델 Astra에 대한 발표",
+          "link": "https://discuss.pytorch.kr/t/path-to-astra-openai-critical-astra/11796"
+        },
+        {
+          "title": "정부 국책 AI 사업 '보안 파운데이션 모델'에 'AI 모델 안전 진단 평가'가 반영된다.",
+          "link": "https://discuss.pytorch.kr/t/ai-ai/11802"
+        },
+        {
+          "title": "AgentHands: LLM 응답에 손동작 이벤트를 더하는 확장 현실(XR) 대화 에이전트에 대한 연구",
+          "link": "https://discuss.pytorch.kr/t/agenthands-llm-xr/11792"
+        },
+        {
+          "title": "대한민국 정부가 공개한 '인공지능 윤리원칙': 법적 구속력은 없는, 다른 윤리 규정의 토대가 되는 3대 가치 & 7대 원칙 [국문/PDF/23p]",
+          "link": "https://discuss.pytorch.kr/t/3-7-pdf-23p/11775"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-04/2026-09-04-pytorch-kr.mp3",
+      "size": 37947698
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-09-03",
       "kind": "daily",
       "catchup": true,
