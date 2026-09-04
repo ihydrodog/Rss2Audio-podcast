@@ -3,6 +3,49 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-09-05",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-09-04",
+      "period_end": "2026-09-05",
+      "file": "2026-09-05-pytorch-kr.mp3",
+      "published": "2026-09-05T08:56:41+09:00",
+      "entries": [
+        {
+          "title": "Codex with ChatGPT: 웹 ChatGPT에 설계와 검토를 맡기는 읽기 전용 MCP 연결",
+          "link": "https://discuss.pytorch.kr/t/codex-with-chatgpt-chatgpt-mcp/11804"
+        },
+        {
+          "title": "Fabro: 에이전트를 지켜보는 대신 작업 절차를 Graphviz 그래프로 정의해 실행하는 오케스트레이터",
+          "link": "https://discuss.pytorch.kr/t/fabro-graphviz/11815"
+        },
+        {
+          "title": "sepia: AI가 작성한 티를 없애기 위해, 어휘 교정 뿐만 아니라 서사 구조까지 종합적으로 살펴보고 개선하는 에이전트 스킬",
+          "link": "https://discuss.pytorch.kr/t/sepia-ai/11813"
+        },
+        {
+          "title": "TimesFM-3: 다변량과 공변량을 한 번의 순전파로 예측하는 제로샷 시계열 파운데이션 모델",
+          "link": "https://discuss.pytorch.kr/t/timesfm-3/11793"
+        },
+        {
+          "title": "OpenAI GPT-6 Astra 출시: 사이버보안 Critical 등급 첫 도달과 낮아진 CoT 모니터링 가능성",
+          "link": "https://discuss.pytorch.kr/t/openai-gpt-6-astra-critical-cot/11819"
+        },
+        {
+          "title": "OpenEnv 프로젝트 소개: 에이전트 강화학습 환경의 공통 인터페이스가 되기까지 (feat. Meta, Hugging Face)",
+          "link": "https://discuss.pytorch.kr/t/openenv-feat-meta-hugging-face/11812"
+        },
+        {
+          "title": "Auto-BenchMax: 벤치마크와 같은 분포로 데이터를 합성해 MCP-Atlas 점수를 2배로 올린 파이프라인",
+          "link": "https://discuss.pytorch.kr/t/auto-benchmax-mcp-atlas-2/11805"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-05/2026-09-05-pytorch-kr.mp3",
+      "size": 21907463
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-09-04",
       "kind": "daily",
       "catchup": false,
