@@ -3,6 +3,29 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-09-06",
+      "kind": "weekly",
+      "catchup": false,
+      "period_start": "2026-08-30",
+      "period_end": "2026-09-06",
+      "file": "2026-09-06-weekly-pytorch-kr.mp3",
+      "published": "2026-09-06T08:57:42+09:00",
+      "entries": [
+        {
+          "title": "Claude Commerce Agents: 쇼핑과 백오피스 에이전트를 한 번만 정의해 세 가지 방식으로 실행하는 참조 구현",
+          "link": "https://discuss.pytorch.kr/t/claude-commerce-agents/11828"
+        },
+        {
+          "title": "Code World Model: 코딩 에이전트가 세계의 상태를 코드로 유지하는 영상 월드 모델 (≠ Meta의 동명 코드 모델)",
+          "link": "https://discuss.pytorch.kr/t/code-world-model-meta/11829"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-06/2026-09-06-weekly-pytorch-kr.mp3",
+      "size": 97388604
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-09-05",
       "kind": "daily",
       "catchup": false,

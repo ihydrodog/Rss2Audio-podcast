@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 05 Sep 2026 08:56:41 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:57:42 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 주간 2026-08-30 ~ 2026-09-06</title>
+      <description>&lt;p&gt;지난 한 주 기사 2개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/claude-commerce-agents/11828"&gt;Claude Commerce Agents: 쇼핑과 백오피스 에이전트를 한 번만 정의해 세 가지 방식으로 실행하는 참조 구현&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/code-world-model-meta/11829"&gt;Code World Model: 코딩 에이전트가 세계의 상태를 코드로 유지하는 영상 월드 모델 (≠ Meta의 동명 코드 모델)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Sun, 06 Sep 2026 08:57:42 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-06/2026-09-06-weekly-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-06/2026-09-06-weekly-pytorch-kr.mp3" length="97388604" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-09-05</title>
       <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/codex-with-chatgpt-chatgpt-mcp/11804"&gt;Codex with ChatGPT: 웹 ChatGPT에 설계와 검토를 맡기는 읽기 전용 MCP 연결&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/fabro-graphviz/11815"&gt;Fabro: 에이전트를 지켜보는 대신 작업 절차를 Graphviz 그래프로 정의해 실행하는 오케스트레이터&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/sepia-ai/11813"&gt;sepia: AI가 작성한 티를 없애기 위해, 어휘 교정 뿐만 아니라 서사 구조까지 종합적으로 살펴보고 개선하는 에이전트 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/timesfm-3/11793"&gt;TimesFM-3: 다변량과 공변량을 한 번의 순전파로 예측하는 제로샷 시계열 파운데이션 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openai-gpt-6-astra-critical-cot/11819"&gt;OpenAI GPT-6 Astra 출시: 사이버보안 Critical 등급 첫 도달과 낮아진 CoT 모니터링 가능성&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openenv-feat-meta-hugging-face/11812"&gt;OpenEnv 프로젝트 소개: 에이전트 강화학습 환경의 공통 인터페이스가 되기까지 (feat. Meta, Hugging Face)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/auto-benchmax-mcp-atlas-2/11805"&gt;Auto-BenchMax: 벤치마크와 같은 분포로 데이터를 합성해 MCP-Atlas 점수를 2배로 올린 파이프라인&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
