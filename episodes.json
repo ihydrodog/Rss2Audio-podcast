@@ -3,6 +3,49 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-09-08",
+      "kind": "daily",
+      "catchup": true,
+      "period_start": "2026-09-06",
+      "period_end": "2026-09-08",
+      "file": "2026-09-08-pytorch-kr.mp3",
+      "published": "2026-09-08T09:12:54+09:00",
+      "entries": [
+        {
+          "title": "[2026/08/31 ~ 09/06] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+          "link": "https://discuss.pytorch.kr/t/2026-08-31-09-06-ai-ml/11840"
+        },
+        {
+          "title": "GWM Worlds 2: Runway가 공개한, 소리까지 실시간 생성하며 인물과 장면을 따로 조종하는 월드 모델",
+          "link": "https://discuss.pytorch.kr/t/gwm-worlds-2-runway/11841"
+        },
+        {
+          "title": "hayamimi: GPU와 클라우드 없이 CPU만으로 실시간 다국어 자막을 만드는 음성 인식 도구",
+          "link": "https://discuss.pytorch.kr/t/hayamimi-gpu-cpu/11798"
+        },
+        {
+          "title": "OpenAI가 공개한 GPT-6 Astra 공식 활용 가이드: 자주 되묻는 모델을 끝까지 일하게 하는 프롬프팅과 마이그레이션",
+          "link": "https://discuss.pytorch.kr/t/openai-gpt-6-astra/11846"
+        },
+        {
+          "title": "LightNav-0: 깊이 센서 없이 전방 RGB 카메라 하나로 여러 로봇을 움직이는 4B 내비게이션 모델",
+          "link": "https://discuss.pytorch.kr/t/lightnav-0-rgb-4b/11837"
+        },
+        {
+          "title": "free PhD labor: 고정된 워크플로우 대신 에이전트가 다음 단계를 정하는 연구 자동화 프레임워크",
+          "link": "https://discuss.pytorch.kr/t/free-phd-labor/11838"
+        },
+        {
+          "title": "Reef: 에이전트가 서비스되는 동안 모델 가중치와 하네스를 계속 갱신하는 지속 학습 인프라",
+          "link": "https://discuss.pytorch.kr/t/reef/11830"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-08/2026-09-08-pytorch-kr.mp3",
+      "size": 31490102
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-09-06",
       "kind": "weekly",
       "catchup": false,

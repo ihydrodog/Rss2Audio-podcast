@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 06 Sep 2026 08:57:42 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 09:12:54 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-09-08 (밀린 2026-09-06 ~ 2026-09-08 보충)</title>
+      <description>&lt;p&gt;2026-09-06 이후 밀린 기사까지 모은 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/2026-08-31-09-06-ai-ml/11840"&gt;[2026/08/31 ~ 09/06] 이번 주에 살펴볼 만한 AI/ML 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/gwm-worlds-2-runway/11841"&gt;GWM Worlds 2: Runway가 공개한, 소리까지 실시간 생성하며 인물과 장면을 따로 조종하는 월드 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/hayamimi-gpu-cpu/11798"&gt;hayamimi: GPU와 클라우드 없이 CPU만으로 실시간 다국어 자막을 만드는 음성 인식 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openai-gpt-6-astra/11846"&gt;OpenAI가 공개한 GPT-6 Astra 공식 활용 가이드: 자주 되묻는 모델을 끝까지 일하게 하는 프롬프팅과 마이그레이션&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/lightnav-0-rgb-4b/11837"&gt;LightNav-0: 깊이 센서 없이 전방 RGB 카메라 하나로 여러 로봇을 움직이는 4B 내비게이션 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/free-phd-labor/11838"&gt;free PhD labor: 고정된 워크플로우 대신 에이전트가 다음 단계를 정하는 연구 자동화 프레임워크&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/reef/11830"&gt;Reef: 에이전트가 서비스되는 동안 모델 가중치와 하네스를 계속 갱신하는 지속 학습 인프라&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 09:12:54 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-08/2026-09-08-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-08/2026-09-08-pytorch-kr.mp3" length="31490102" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 주간 2026-08-30 ~ 2026-09-06</title>
       <description>&lt;p&gt;지난 한 주 기사 2개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/claude-commerce-agents/11828"&gt;Claude Commerce Agents: 쇼핑과 백오피스 에이전트를 한 번만 정의해 세 가지 방식으로 실행하는 참조 구현&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/code-world-model-meta/11829"&gt;Code World Model: 코딩 에이전트가 세계의 상태를 코드로 유지하는 영상 월드 모델 (≠ Meta의 동명 코드 모델)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
