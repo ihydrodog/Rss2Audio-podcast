@@ -3,6 +3,45 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-09-09",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-09-08",
+      "period_end": "2026-09-09",
+      "file": "2026-09-09-pytorch-kr.mp3",
+      "published": "2026-09-09T09:06:29+09:00",
+      "entries": [
+        {
+          "title": "my-free-code: Claude Code와 Codex 등 코딩 에이전트 9종이 모델 설정을 공유하는 로컬 게이트웨이",
+          "link": "https://discuss.pytorch.kr/t/my-free-code-claude-code-codex-9/11843"
+        },
+        {
+          "title": "Microsoft, 1시간분량 오디오를 10초만에 전사하는 60개 언어 음성 인식 모델 MAI-Transcribe-2 출시 (가중치 공개 X)",
+          "link": "https://discuss.pytorch.kr/t/microsoft-1-10-60-mai-transcribe-2-x/11839"
+        },
+        {
+          "title": "Reverify: 바이너리를 읽는 AI의 주장을 결정론적 도구가 실제 내용(byte)으로 판정하는 리버스 엔지니어링 도구",
+          "link": "https://discuss.pytorch.kr/t/reverify-ai-byte/11831"
+        },
+        {
+          "title": "OpenAI, 자동화 연구 인턴 목표 달성 발표와 함께 공개한 사내 측정치: 에이전트 노동이 사람의 3.1배",
+          "link": "https://discuss.pytorch.kr/t/openai-3-1/11849"
+        },
+        {
+          "title": "GitReverse: 공개 GitHub 저장소를 바이브 코딩용 프롬프트 한 개로 되돌리는 웹 도구",
+          "link": "https://discuss.pytorch.kr/t/gitreverse-github/11816"
+        },
+        {
+          "title": "Anthropic, Claude Code 시스템 프롬프트 80% 삭제: Claude 5 세대 컨텍스트 엔지니어링 규칙 6가지",
+          "link": "https://discuss.pytorch.kr/t/anthropic-claude-code-80-claude-5-6/11845"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-09/2026-09-09-pytorch-kr.mp3",
+      "size": 39102220
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-09-08",
       "kind": "daily",
       "catchup": true,
