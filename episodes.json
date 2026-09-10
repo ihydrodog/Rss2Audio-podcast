@@ -3,6 +3,37 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-09-11",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-09-10",
+      "period_end": "2026-09-11",
+      "file": "2026-09-11-pytorch-kr.mp3",
+      "published": "2026-09-11T08:59:28+09:00",
+      "entries": [
+        {
+          "title": "Paw Work: 보고 있는 웹 페이지에서 고른 요소를 편집 가능한 오피스 파일로 바꾸는 크롬 확장",
+          "link": "https://discuss.pytorch.kr/t/paw-work/11879"
+        },
+        {
+          "title": "Envoy AI Gateway가 Agent Router로, AAIF 합류 후에도 CRD와 aigw CLI는 그대로",
+          "link": "https://discuss.pytorch.kr/t/envoy-ai-gateway-agent-router-aaif-crd-aigw-cli/11880"
+        },
+        {
+          "title": "WeatherNext 3: 위성 관측을 직접 읽어 매시간 갱신하는 5km 해상도 기상 예보 AI (feat. Google DeepMind)",
+          "link": "https://discuss.pytorch.kr/t/weathernext-3-5km-ai-feat-google-deepmind/11858"
+        },
+        {
+          "title": "Hugging Face가 Papers with Code 논문 11만 편의 하이브리드 검색을 만든 방법 (feat. pgvector, RRF)",
+          "link": "https://discuss.pytorch.kr/t/hugging-face-papers-with-code-11-feat-pgvector-rrf/11859"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-11/2026-09-11-pytorch-kr.mp3",
+      "size": 34276106
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-09-10",
       "kind": "daily",
       "catchup": false,
