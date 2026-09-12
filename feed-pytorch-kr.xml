@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 11 Sep 2026 08:59:28 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:08:35 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-09-12</title>
+      <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/a2a-1-a2a/11892"&gt;[A2A 알아보기 1편] A2A 프로토콜: 프레임워크가 서로 달라도 에이전트들끼리 서로 작업을 위임하게 하는 표준 규격&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/deepseek-v4-1-flash-kv-890-v4-pro-552b-moe/11886"&gt;DeepSeek-V4.1-Flash, KV 캐시를 토큰당 890바이트로 줄이고 플래그십 V4-Pro를 대체하는 552B 규모의 MoE 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/mapl-emit-360-1-5-feat-google-nasa-jpl/11882"&gt;MAPL-EMIT: 합성 플룸 360만 개로 학습해 전문가보다 1.5배 많은 메탄 누출을 찾아낸 위성 탐지 모델 (feat. Google, NASA JPL)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/e-p-d-ttft-93-feat-nvidia-dynamo/11883"&gt;E-P-D 분리 서빙: 비전 인코더를 떼어내 TTFT를 최대 93% 줄이는 조건과 오히려 느려지는 조건 (feat. NVIDIA Dynamo)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 09:08:35 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-12/2026-09-12-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-12/2026-09-12-pytorch-kr.mp3" length="47664173" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-09-11</title>
       <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/paw-work/11879"&gt;Paw Work: 보고 있는 웹 페이지에서 고른 요소를 편집 가능한 오피스 파일로 바꾸는 크롬 확장&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/envoy-ai-gateway-agent-router-aaif-crd-aigw-cli/11880"&gt;Envoy AI Gateway가 Agent Router로, AAIF 합류 후에도 CRD와 aigw CLI는 그대로&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/weathernext-3-5km-ai-feat-google-deepmind/11858"&gt;WeatherNext 3: 위성 관측을 직접 읽어 매시간 갱신하는 5km 해상도 기상 예보 AI (feat. Google DeepMind)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/hugging-face-papers-with-code-11-feat-pgvector-rrf/11859"&gt;Hugging Face가 Papers with Code 논문 11만 편의 하이브리드 검색을 만든 방법 (feat. pgvector, RRF)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>

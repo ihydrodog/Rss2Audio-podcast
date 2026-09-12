@@ -3,6 +3,37 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-09-12",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-09-11",
+      "period_end": "2026-09-12",
+      "file": "2026-09-12-pytorch-kr.mp3",
+      "published": "2026-09-12T09:08:35+09:00",
+      "entries": [
+        {
+          "title": "[A2A 알아보기 1편] A2A 프로토콜: 프레임워크가 서로 달라도 에이전트들끼리 서로 작업을 위임하게 하는 표준 규격",
+          "link": "https://discuss.pytorch.kr/t/a2a-1-a2a/11892"
+        },
+        {
+          "title": "DeepSeek-V4.1-Flash, KV 캐시를 토큰당 890바이트로 줄이고 플래그십 V4-Pro를 대체하는 552B 규모의 MoE 모델",
+          "link": "https://discuss.pytorch.kr/t/deepseek-v4-1-flash-kv-890-v4-pro-552b-moe/11886"
+        },
+        {
+          "title": "MAPL-EMIT: 합성 플룸 360만 개로 학습해 전문가보다 1.5배 많은 메탄 누출을 찾아낸 위성 탐지 모델 (feat. Google, NASA JPL)",
+          "link": "https://discuss.pytorch.kr/t/mapl-emit-360-1-5-feat-google-nasa-jpl/11882"
+        },
+        {
+          "title": "E-P-D 분리 서빙: 비전 인코더를 떼어내 TTFT를 최대 93% 줄이는 조건과 오히려 느려지는 조건 (feat. NVIDIA Dynamo)",
+          "link": "https://discuss.pytorch.kr/t/e-p-d-ttft-93-feat-nvidia-dynamo/11883"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-12/2026-09-12-pytorch-kr.mp3",
+      "size": 47664173
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-09-11",
       "kind": "daily",
       "catchup": false,
