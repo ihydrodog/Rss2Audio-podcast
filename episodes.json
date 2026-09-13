@@ -3,6 +3,33 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-09-13",
+      "kind": "weekly",
+      "catchup": false,
+      "period_start": "2026-09-06",
+      "period_end": "2026-09-13",
+      "file": "2026-09-13-weekly-pytorch-kr.mp3",
+      "published": "2026-09-13T09:09:19+09:00",
+      "entries": [
+        {
+          "title": "Anthropic 경제 시나리오 탐색기: 극단 시나리오에서 지식 노동 실업률 17.9%, GDP는 32% 증가",
+          "link": "https://discuss.pytorch.kr/t/anthropic-17-9-gdp-32/11895"
+        },
+        {
+          "title": "OpenAI Codex 팀이 권하는 GPT-6 Astra 전환 준비, 스킬 설명은 좁게 AGENTS.md는 조건부로",
+          "link": "https://discuss.pytorch.kr/t/openai-codex-gpt-6-astra-agents-md/11900"
+        },
+        {
+          "title": "Cognition, Kimi K3 기반 코딩 모델 SWE-2 공개: Fable 5.1과 1점 차, 비용은 64% 절감",
+          "link": "https://discuss.pytorch.kr/t/cognition-kimi-k3-swe-2-fable-5-1-1-64/11891"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-13/2026-09-13-weekly-pytorch-kr.mp3",
+      "size": 97539506
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-09-12",
       "kind": "daily",
       "catchup": false,
