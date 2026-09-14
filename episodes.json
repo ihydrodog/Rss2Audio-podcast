@@ -3,6 +3,25 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-09-14",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-09-13",
+      "period_end": "2026-09-14",
+      "file": "2026-09-14-pytorch-kr.mp3",
+      "published": "2026-09-14T09:05:06+09:00",
+      "entries": [
+        {
+          "title": "OKF Agent Memory: 벡터 DB 없이 Git 저장소의 마크다운으로 AI 코딩 에이전트 기억을 관리하는 도구",
+          "link": "https://discuss.pytorch.kr/t/okf-agent-memory-db-git-ai/11884"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-14/2026-09-14-pytorch-kr.mp3",
+      "size": 30919995
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-09-13",
       "kind": "weekly",
       "catchup": false,

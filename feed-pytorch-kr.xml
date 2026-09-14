@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 13 Sep 2026 09:09:19 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:05:06 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-09-14</title>
+      <description>&lt;p&gt;오늘의 기사 1개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/okf-agent-memory-db-git-ai/11884"&gt;OKF Agent Memory: 벡터 DB 없이 Git 저장소의 마크다운으로 AI 코딩 에이전트 기억을 관리하는 도구&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 09:05:06 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-14/2026-09-14-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-14/2026-09-14-pytorch-kr.mp3" length="30919995" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 주간 2026-09-06 ~ 2026-09-13</title>
       <description>&lt;p&gt;지난 한 주 기사 3개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anthropic-17-9-gdp-32/11895"&gt;Anthropic 경제 시나리오 탐색기: 극단 시나리오에서 지식 노동 실업률 17.9%, GDP는 32% 증가&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openai-codex-gpt-6-astra-agents-md/11900"&gt;OpenAI Codex 팀이 권하는 GPT-6 Astra 전환 준비, 스킬 설명은 좁게 AGENTS.md는 조건부로&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/cognition-kimi-k3-swe-2-fable-5-1-1-64/11891"&gt;Cognition, Kimi K3 기반 코딩 모델 SWE-2 공개: Fable 5.1과 1점 차, 비용은 64% 절감&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
