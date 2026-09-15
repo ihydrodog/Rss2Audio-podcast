@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:05:06 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:51:24 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-09-16 (밀린 2026-09-14 ~ 2026-09-16 보충)</title>
+      <description>&lt;p&gt;2026-09-14 이후 밀린 기사까지 모은 10개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/2026-09-07-13-ai-ml/11911"&gt;[2026/09/07 ~ 13] 이번 주에 살펴볼 만한 AI/ML 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openwam-world-action-model/11881"&gt;OpenWAM: 로봇 World-Action Model의 설계 선택을 하나씩 바꿔 비교하는 모듈형 사전학습 스택&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/topic/11912"&gt;벤치마크를 믿기 어려운 이유 - 홈 어드밴티지&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/a2a-2-a2a-python-sdk-a2a/11893"&gt;[A2A 알아보기 2편] A2A Python SDK: 나의 에이전트를 다른 사람의 에이전트가 호출할 수 있도록 하기 위해 A2A 서버로 공개하기&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/a2a-3-a2a-cli-a2a/11894"&gt;[A2A 알아보기 3편] A2A CLI: 클라이언트 코드 없이, 터미널에서 A2A 에이전트를 호출하고 띄우는 공식 명령줄 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/edge0-35b-moe-3gib-ssd/11914"&gt;edge0: 35B MoE 모델을 활성 메모리 3GiB로 실행하는 SSD 전문가 스트리밍 추론 프레임워크&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/chat-on-steroids-chatgpt-mcp/11915"&gt;Chat On Steroids: 승인한 폴더 내에서 ChatGPT가 파일과 터미널을 다루도록 하는 로컬 MCP 앱&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/three-js-game-skills-9/11916"&gt;Three.js Game Skills: 코딩 에이전트가 만든 브라우저 게임을 점수표로 검증하는 스킬 9종&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/paperthin-28-in-1/11921"&gt;Paperthin: 코딩 에이전트가 작업 중 생성한 문서와 코드를 덜어내는 오픈소스 스킬 모음 (28-in-1)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai/11930"&gt;모델보다 데이터가 어려웠다 — 학부생이 제조 AI 프로젝트를 하며 배운 것&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 07:51:24 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-16/2026-09-16-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-16/2026-09-16-pytorch-kr.mp3" length="35134801" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-09-14</title>
       <description>&lt;p&gt;오늘의 기사 1개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/okf-agent-memory-db-git-ai/11884"&gt;OKF Agent Memory: 벡터 DB 없이 Git 저장소의 마크다운으로 AI 코딩 에이전트 기억을 관리하는 도구&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Thu, 09 Jul 2026 08:25:24 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-09/2026-07-09-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-09/2026-07-09-pytorch-kr.mp3" length="47208995" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-07-08</title>
-      <description>&lt;p&gt;오늘의 기사 9개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/miles-llm-rl-pytorch/11142"&gt;Miles: 대규모 LLM RL 사후 학습을 위한 PyTorch 네이티브 스택 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/j-space-llm-jacobian-lens-feat-anthropic/11125"&gt;J-space: LLM 내부에 창발한 글로벌 워크스페이스와 이를 읽는 Jacobian Lens (feat. Anthropic)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/security-audit-skill-6/11073"&gt;security-audit-skill: 코딩 에이전트를 보안 감사관으로 만드는 6단계 파이프라인 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai/11130"&gt;“AI 에이전트” 열풍은 비싼 미라지(신기루)인가?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/github-copilot-cli/11087"&gt;GitHub Copilot CLI 커스텀 에이전트, 반복 프롬프트를 팀의 워크플로우로 바꾸는 법&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/maxkb-rag/11088"&gt;MaxKB: RAG 파이프라인과 워크플로우를 갖춘 기업용 오픈소스 에이전트 플랫폼&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/langchain/11100"&gt;LangChain이 설명하는 루프 엔지니어링의 기술, 에이전트를 감싸는 네 겹의 루프&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/icml-2026-test-of-time-10/11112"&gt;ICML 2026에서 우수 논문상과 Test of Time상을 수상한 10편의 논문 소개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/skillcomposer-llm/11090"&gt;SkillComposer: 스킬을 몇 개나 어떤 순서로 쓸지 한 번에 예측하는 LLM 에이전트 스킬 조합 방식에 대한 연구&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 19:06:48 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-08/2026-07-08-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-08/2026-07-08-pytorch-kr.mp3" length="26660252" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
