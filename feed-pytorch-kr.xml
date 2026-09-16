@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:51:24 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:43:29 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-09-17</title>
+      <description>&lt;p&gt;오늘의 기사 3개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/nvidia-transformer-engine-jax-dropless-moe-10-105-1-025-tflops/11927"&gt;NVIDIA의 Transformer Engine으로 JAX의 Dropless MoE 학습 처리량 약 10배 달성하기 (105 → 1,025 TFLOPs)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/llmfit-llm-tok-s/11922"&gt;llmfit: 로컬 LLM 모델을 내려받기 전, 내 하드웨어에서의 생성 속도(tok/s)가 얼마 정도일지 추정하는 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/unifolm-wla-1-0-unitree-6b/11929"&gt;UnifoLM-WLA-1.0: 영상의 변화 영역을 토큰으로 예측하는 Unitree의 6B 규모 휴머노이드용 모델&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 07:43:29 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-17/2026-09-17-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-17/2026-09-17-pytorch-kr.mp3" length="21508312" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-09-16 (밀린 2026-09-14 ~ 2026-09-16 보충)</title>
       <description>&lt;p&gt;2026-09-14 이후 밀린 기사까지 모은 10개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/2026-09-07-13-ai-ml/11911"&gt;[2026/09/07 ~ 13] 이번 주에 살펴볼 만한 AI/ML 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openwam-world-action-model/11881"&gt;OpenWAM: 로봇 World-Action Model의 설계 선택을 하나씩 바꿔 비교하는 모듈형 사전학습 스택&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/topic/11912"&gt;벤치마크를 믿기 어려운 이유 - 홈 어드밴티지&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/a2a-2-a2a-python-sdk-a2a/11893"&gt;[A2A 알아보기 2편] A2A Python SDK: 나의 에이전트를 다른 사람의 에이전트가 호출할 수 있도록 하기 위해 A2A 서버로 공개하기&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/a2a-3-a2a-cli-a2a/11894"&gt;[A2A 알아보기 3편] A2A CLI: 클라이언트 코드 없이, 터미널에서 A2A 에이전트를 호출하고 띄우는 공식 명령줄 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/edge0-35b-moe-3gib-ssd/11914"&gt;edge0: 35B MoE 모델을 활성 메모리 3GiB로 실행하는 SSD 전문가 스트리밍 추론 프레임워크&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/chat-on-steroids-chatgpt-mcp/11915"&gt;Chat On Steroids: 승인한 폴더 내에서 ChatGPT가 파일과 터미널을 다루도록 하는 로컬 MCP 앱&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/three-js-game-skills-9/11916"&gt;Three.js Game Skills: 코딩 에이전트가 만든 브라우저 게임을 점수표로 검증하는 스킬 9종&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/paperthin-28-in-1/11921"&gt;Paperthin: 코딩 에이전트가 작업 중 생성한 문서와 코드를 덜어내는 오픈소스 스킬 모음 (28-in-1)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai/11930"&gt;모델보다 데이터가 어려웠다 — 학부생이 제조 AI 프로젝트를 하며 배운 것&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Fri, 10 Jul 2026 08:26:45 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-10/2026-07-10-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-10/2026-07-10-pytorch-kr.mp3" length="41776168" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-07-09</title>
-      <description>&lt;p&gt;오늘의 기사 9개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai-mcp-7-28/11163"&gt;AI 애플리케이션 개발자를 위한 MCP 7-28 소개: 무엇이 사라지고, 무엇이 깨질 수 있는가&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/torchspec/11124"&gt;TorchSpec: 추측 디코딩 초안 모델을 대규모로 학습하는 파이토치 네이티브 프레임워크&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/codeisland-ai-macos/11116"&gt;CodeIsland: 맥북 노치에서 AI 코딩 에이전트 상태를 실시간으로 보여주는 macOS 앱&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/tencent-295b-21b-moe-hy3/11147"&gt;Tencent, 295B 규모(활성 21B)의 오픈소스 MoE 추론 및 에이전트 모델 Hy3 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/sonic-feat-nvidia/11111"&gt;SONIC: 모션 트래킹을 초대규모로 확장한 휴머노이드 전신 제어 모델 (feat. NVIDIA)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/xybrid-llm-ai/11121"&gt;Xybrid: 앱과 게임에서 LLM과 음성 AI를 온디바이스로 실행하는 크로스플랫폼 런타임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/vllm-hook-vllm/11123"&gt;vLLM Hook: vLLM에 배포된 모델의 내부 상태를 관찰하고 제어하는 플러그인&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pxpipe-claude-code/11114"&gt;pxpipe: 컨텍스트를 이미지로 렌더링해 Claude Code 토큰 비용을 줄이는 로컬 프록시&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/brain2qwerty-v2-meg-bci-feat-meta-ai/11070"&gt;Brain2Qwerty v2: MEG 뇌 신호만으로 문장을 해독하는 비침습적 BCI (feat. Meta AI)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 08:25:24 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-09/2026-07-09-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-09/2026-07-09-pytorch-kr.mp3" length="47208995" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
