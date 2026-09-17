@@ -3,6 +3,37 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-09-18",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-09-17",
+      "period_end": "2026-09-18",
+      "file": "2026-09-18-pytorch-kr.mp3",
+      "published": "2026-09-18T07:45:06+09:00",
+      "entries": [
+        {
+          "title": "BrowserSkill: 사람이 사용하던 브라우저 상태 그대로 에이전트에게 사용할 수 있도록 하는 CLI 도구",
+          "link": "https://discuss.pytorch.kr/t/browserskill-cli/11936"
+        },
+        {
+          "title": "Bernini: Wan 렌더러에 MLLM 플래너를 더해 영상 생성과 편집 6개 작업을 하나로 묶은 영상 생성 프레임워크",
+          "link": "https://discuss.pytorch.kr/t/bernini-wan-mllm-6/11931"
+        },
+        {
+          "title": "탐지·분할·깊이 추정을 하나의 모델로 출력하는 SenseNova-Vision 모델",
+          "link": "https://discuss.pytorch.kr/t/sensenova-vision/11939"
+        },
+        {
+          "title": "Jev, 토큰 대신 확률적 결정을 내놓는 새로운 형태의 System One 모델 (feat. TypeSafe AI)",
+          "link": "https://discuss.pytorch.kr/t/jev-system-one-feat-typesafe-ai/11935"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-18/2026-09-18-pytorch-kr.mp3",
+      "size": 25098477
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-09-17",
       "kind": "daily",
       "catchup": false,
@@ -2180,49 +2211,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-11/2026-07-11-pytorch-kr.mp3",
       "size": 33631179
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-07-10",
-      "file": "2026-07-10-pytorch-kr.mp3",
-      "published": "2026-07-10T08:26:45+09:00",
-      "entries": [
-        {
-          "title": "PyTorch 2.13 출시 공지 | 파이토치 한국 사용자 모임",
-          "link": "https://discuss.pytorch.kr/t/pytorch-2-13/11187"
-        },
-        {
-          "title": "TestSprite CLI: 코딩 에이전트가 만든 코드를 실제 앱에서 검증하는 테스트 도구",
-          "link": "https://discuss.pytorch.kr/t/testsprite-cli/11160"
-        },
-        {
-          "title": "TencentDB Agent Memory: AI 에이전트를 위한 계층형 로컬 기억 시스템",
-          "link": "https://discuss.pytorch.kr/t/tencentdb-agent-memory-ai/11150"
-        },
-        {
-          "title": "DeepTeam: LLM과 AI 에이전트를 레드팀하는 오픈소스 보안 테스트 프레임워크",
-          "link": "https://discuss.pytorch.kr/t/deepteam-llm-ai/11161"
-        },
-        {
-          "title": "T3MP3ST: 인가된 보안 테스트를 위한 멀티 에이전트 레드팀 하네스",
-          "link": "https://discuss.pytorch.kr/t/t3mp3st/11149"
-        },
-        {
-          "title": "CubeSandbox: 60ms 안에 부팅되는 AI 에이전트용 하드웨어 격리 샌드박스",
-          "link": "https://discuss.pytorch.kr/t/cubesandbox-60ms-ai/11146"
-        },
-        {
-          "title": "GRAIL: 3D 에셋과 비디오 생성으로 만든 휴머노이드의 이동-조작 데이터 (feat. NVIDIA)",
-          "link": "https://discuss.pytorch.kr/t/grail-3d-feat-nvidia/11110"
-        },
-        {
-          "title": "ai-engineering-interview-questions: AI 엔지니어 면접 문답 치트시트",
-          "link": "https://discuss.pytorch.kr/t/ai-engineering-interview-questions-ai/11074"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-10/2026-07-10-pytorch-kr.mp3",
-      "size": 41776168
     }
   ]
 }
