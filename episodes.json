@@ -3,6 +3,37 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-09-23",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-09-22",
+      "period_end": "2026-09-23",
+      "file": "2026-09-23-pytorch-kr.mp3",
+      "published": "2026-09-23T07:50:01+09:00",
+      "entries": [
+        {
+          "title": "AIPerf: 서버 성능 측정 시, 부하 생성기가 병목이 되지 않도록 NVIDIA가 개발 및 공개한 LLM 추론 벤치마크 도구",
+          "link": "https://discuss.pytorch.kr/t/aiperf-nvidia-llm/11975"
+        },
+        {
+          "title": "R4T(Retrieve-for-Train): RL로 찾은 질의 팬아웃(fan-out) 행동을 경량 확산 검색기(Diffusion Model)로 컴파일하는 연구",
+          "link": "https://discuss.pytorch.kr/t/r4t-retrieve-for-train-rl-fan-out-diffusion-model/11933"
+        },
+        {
+          "title": "Xiaomi, RL 코드와 학습 환경까지 공개한 1.02T 옴니모달 MiMo-V2.6 출시, 오픈소스 지능 지수 1위",
+          "link": "https://discuss.pytorch.kr/t/xiaomi-rl-1-02t-mimo-v2-6-1/11981"
+        },
+        {
+          "title": "Bend 2: 프로그램이 지켜야 할 규칙을 명시하고, 코딩 에이전트가 규칙을 위반하면 컴파일이 실패하는 언어 (feat. C 수준 속도 & GPU 실행)",
+          "link": "https://discuss.pytorch.kr/t/bend-2-feat-c-gpu/11960"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-23/2026-09-23-pytorch-kr.mp3",
+      "size": 46703881
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-09-22",
       "kind": "daily",
       "catchup": false,
@@ -2144,41 +2175,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-16/2026-07-16-pytorch-kr.mp3",
       "size": 29432809
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-07-15",
-      "file": "2026-07-15-pytorch-kr.mp3",
-      "published": "2026-07-15T08:09:28+09:00",
-      "entries": [
-        {
-          "title": "Lathe: LLM이 생성한 실습형 튜토리얼을 직접 따라 하며 배우는 도구",
-          "link": "https://discuss.pytorch.kr/t/lathe-llm/11243"
-        },
-        {
-          "title": "colibri: 744B MoE 모델을 25GB RAM 소비자 PC에서 실행하는 순수 C 추론 엔진",
-          "link": "https://discuss.pytorch.kr/t/colibri-744b-moe-25gb-ram-pc-c/11221"
-        },
-        {
-          "title": "Weft: LLM과 사람, API를 기본 노드로 삼는 AI 오케스트레이션 프로그래밍 언어",
-          "link": "https://discuss.pytorch.kr/t/weft-llm-api-ai/11236"
-        },
-        {
-          "title": "마크다운, 이제 '정식 식구'로 인정 — PyMuPDF 1.28 업데이트 소식",
-          "link": "https://discuss.pytorch.kr/t/pymupdf-1-28/11248"
-        },
-        {
-          "title": "Plano: 에이전트 앱을 위한 AI 네이티브 프록시 서버이자 데이터 플레인",
-          "link": "https://discuss.pytorch.kr/t/plano-ai/11234"
-        },
-        {
-          "title": "LOTUS: 데이터에 LLM과 에이전트 처리를 대규모로 적용하는 시맨틱 연산자 프레임워크",
-          "link": "https://discuss.pytorch.kr/t/lotus-llm/11235"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-15/2026-07-15-pytorch-kr.mp3",
-      "size": 37222723
     }
   ]
 }
