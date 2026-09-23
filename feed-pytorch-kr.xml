@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 23 Sep 2026 07:50:01 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 07:48:55 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-09-24</title>
+      <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/top-conf-figure-gallery-ai-ml-figure-1/11996"&gt;Top-Conf Figure Gallery: 논문 작성시 참고하면 좋을, 주요 AI/ML 학회 논문들의 첫번째 이미지(Figure 1) 모음집&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/3d/11999"&gt;평면 이미지가 3D가 되는 순간&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/nvidia-ai/11986"&gt;NVIDIA가 정리한 AI 에이전트 평가: 도구 호출 정확도 대신 과업 완수를 채점하는 지표들과 트레이스 읽는 법&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/stepfun-step-5-preview-kimi-k3-1-3-10-15/11987"&gt;StepFun Step 5 Preview 출시: Kimi K3와 같은 지능, 작업 비용은 1/3, 가중치 공개는 10/15 예정&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openai-api-gpt-6-sol-luna/11989"&gt;OpenAI, API 가격을 절반으로 낮춘 GPT-6 Sol과 Luna 출시: 추론 강도별 과제당 비용으로 본 성능과 정렬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anthropic-claude-opus-5-5-fable-5-1-opus-5-40/11988"&gt;Anthropic, Claude Opus 5.5 출시: Fable 5.1급 성능에 Opus 5보다 40% 낮은 실행 비용&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pgjev-where-postgresql/11984"&gt;pgjev: 임베딩이나 벡터 컬럼 없이 WHERE 절에서 자연어로 행을 필터링하는 PostgreSQL 확장&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 07:48:55 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-24/2026-09-24-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-24/2026-09-24-pytorch-kr.mp3" length="31650831" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-09-23</title>
       <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/aiperf-nvidia-llm/11975"&gt;AIPerf: 서버 성능 측정 시, 부하 생성기가 병목이 되지 않도록 NVIDIA가 개발 및 공개한 LLM 추론 벤치마크 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/r4t-retrieve-for-train-rl-fan-out-diffusion-model/11933"&gt;R4T(Retrieve-for-Train): RL로 찾은 질의 팬아웃(fan-out) 행동을 경량 확산 검색기(Diffusion Model)로 컴파일하는 연구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/xiaomi-rl-1-02t-mimo-v2-6-1/11981"&gt;Xiaomi, RL 코드와 학습 환경까지 공개한 1.02T 옴니모달 MiMo-V2.6 출시, 오픈소스 지능 지수 1위&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/bend-2-feat-c-gpu/11960"&gt;Bend 2: 프로그램이 지켜야 할 규칙을 명시하고, 코딩 에이전트가 규칙을 위반하면 컴파일이 실패하는 언어 (feat. C 수준 속도 &amp;amp; GPU 실행)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Sat, 18 Jul 2026 08:00:11 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-18/2026-07-18-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-18/2026-07-18-pytorch-kr.mp3" length="22642033" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-07-16</title>
-      <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/aspire-feat-nvidia/11066"&gt;ASPIRE: 스스로 코드를 고치며 스킬을 쌓는 자기개선형 로봇 학습에 대한 연구 (feat. NVIDIA)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pixel2motion-svg-ai/11239"&gt;Pixel2Motion: 래스터 로고를 매끄러운 SVG 애니메이션으로 바꾸는 AI 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openknowledge-claude-codex-llm-wiki/11222"&gt;OpenKnowledge: Claude, Codex와 함께 편집하는 로컬 마크다운 에디터 겸 LLM Wiki&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/adala/11240"&gt;Adala: 정답 데이터로 스스로 학습하는 자율 데이터 라벨링 에이전트 프레임워크&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/weclaw-claude-codex-ai/11242"&gt;WeClaw: 위챗을 Claude, Codex 등 AI 에이전트와 연결하는 프로젝트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pdf-inspector-ocr-pdf-rust-feat-firecrawl/11255"&gt;pdf-inspector: OCR 없이 PDF를 분류하고 마크다운으로 추출하는 Rust 라이브러리 (feat. firecrawl)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/sensorfm-1-1-trillion-feat-google/11250"&gt;SensorFM: 1조(1-trillion) 분의 웨어러블 센서 데이터로 학습한 헬스 파운데이션 모델에 대한 연구 (feat. Google)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 08:13:08 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-16/2026-07-16-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-16/2026-07-16-pytorch-kr.mp3" length="29432809" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
