@@ -3,6 +3,29 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-09-25",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-09-24",
+      "period_end": "2026-09-25",
+      "file": "2026-09-25-pytorch-kr.mp3",
+      "published": "2026-09-25T08:07:06+09:00",
+      "entries": [
+        {
+          "title": "Claude Opus 5.5 프롬프팅 & 마이그레이션 가이드: Anthropic이 공개한, Opus 5, 4.x, Sonnet 5 코드를 400 오류 없이 옮기는 법",
+          "link": "https://discuss.pytorch.kr/t/claude-opus-5-5-anthropic-opus-5-4-x-sonnet-5-400/12002"
+        },
+        {
+          "title": "GravityOCR: 확산(Diffusion) 및 자기회귀(AR) 기법으로 초안 작성 및 검증을 수행하는 OCR 모델 (feat. Trillion Labs)",
+          "link": "https://discuss.pytorch.kr/t/gravityocr-diffusion-ar-ocr-feat-trillion-labs/11997"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-25/2026-09-25-pytorch-kr.mp3",
+      "size": 41789615
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-09-24",
       "kind": "daily",
       "catchup": false,
@@ -2152,33 +2175,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-19/2026-07-19-pytorch-kr.mp3",
       "size": 34345580
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-07-18",
-      "file": "2026-07-18-pytorch-kr.mp3",
-      "published": "2026-07-18T08:00:11+09:00",
-      "entries": [
-        {
-          "title": "zerostack: 메모리 사용을 최소화하도록 Rust로 만든 경량 코딩 에이전트",
-          "link": "https://discuss.pytorch.kr/t/zerostack-rust/11275"
-        },
-        {
-          "title": "local-llm: 최신 LLM을 로컬에서 직접 돌리는 GPU 하드웨어 구성 가이드",
-          "link": "https://discuss.pytorch.kr/t/local-llm-llm-gpu/11274"
-        },
-        {
-          "title": "ASO App Store Screenshots: 앱 코드를 분석해 앱스토어 스크린샷을 만드는 Claude 스킬",
-          "link": "https://discuss.pytorch.kr/t/aso-app-store-screenshots-claude/11278"
-        },
-        {
-          "title": "OpenAI, 프롬프트 인젝션 방어력을 스스로 끌어올리는 자동화 레드팀 모델 GPT-Red 공개",
-          "link": "https://discuss.pytorch.kr/t/openai-gpt-red/11288"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-18/2026-07-18-pytorch-kr.mp3",
-      "size": 22642033
     }
   ]
 }
