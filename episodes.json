@@ -3,6 +3,41 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-09-30",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-09-29",
+      "period_end": "2026-09-30",
+      "file": "2026-09-30-pytorch-kr.mp3",
+      "published": "2026-09-30T08:32:09+09:00",
+      "entries": [
+        {
+          "title": "OpenProse: Markdown 기반의 계약으로 지속적인 AI 작업을 정의하는, AI Agent의 동작을 위한 언어",
+          "link": "https://discuss.pytorch.kr/t/openprose-markdown-ai-ai-agent/12010"
+        },
+        {
+          "title": "180B 모델로, 수학올림피아드 벤치마크(AIME2026) 만점 포함 5개 부문 모조리 1위 랭크 비결 공개",
+          "link": "https://discuss.pytorch.kr/t/180b-aime2026-5-1/12047"
+        },
+        {
+          "title": "Datadog가 공개한 장애 원인 변경을 찾는 에이전트 학습기 활용기: 교사 모델 GLM-5.3의 재현율 87%를 1/20 비용의 Qwen3.5-9B으로",
+          "link": "https://discuss.pytorch.kr/t/datadog-glm-5-3-87-1-20-qwen3-5-9b/12020"
+        },
+        {
+          "title": "Hugging Face Transformers, 이제 GGUF 가중치도 지원하여 바로 불러와 실행 가능 (feat. llama.cpp, ggml)",
+          "link": "https://discuss.pytorch.kr/t/hugging-face-transformers-gguf-feat-llama-cpp-ggml/12036"
+        },
+        {
+          "title": "Laya: 텍스트 생성 없이 한 번의 순전파로 결정을 내리는 Jev 호환 오픈 가중치 모델과 로컬 실행 도구들",
+          "link": "https://discuss.pytorch.kr/t/laya-jev/12027"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-30/2026-09-30-pytorch-kr.mp3",
+      "size": 33892012
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-09-29",
       "kind": "daily",
       "catchup": false,
@@ -2168,57 +2203,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-24/2026-07-24-pytorch-kr.mp3",
       "size": 23035092
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-07-23",
-      "file": "2026-07-23-pytorch-kr.mp3",
-      "published": "2026-07-23T08:19:44+09:00",
-      "entries": [
-        {
-          "title": "Jacobian Lens: 언어 모델 내부 표현을 어휘 토큰으로 읽어내는 해석 도구",
-          "link": "https://discuss.pytorch.kr/t/jacobian-lens/11341"
-        },
-        {
-          "title": "i-have-adhd: 두괄식으로, 답과 다음 행동부터 알려주는 Claude Code 및 Codex 스킬",
-          "link": "https://discuss.pytorch.kr/t/i-have-adhd-claude-code-codex/11344"
-        },
-        {
-          "title": "Code Review Skill: 20여 개 언어와 프레임워크를 다루는 Claude Code 코드 리뷰 스킬",
-          "link": "https://discuss.pytorch.kr/t/code-review-skill-20-claude-code/11350"
-        },
-        {
-          "title": "Agents-A1: 모델 크기 대신, 생각하는 능력을 확장해 1T급 성능에 도달한 35B 에이전트 모델",
-          "link": "https://discuss.pytorch.kr/t/agents-a1-1t-35b/11368"
-        },
-        {
-          "title": "암호 해독에 양자컴퓨터로 도전한 한국 스타트업의 도전기",
-          "link": "https://discuss.pytorch.kr/t/topic/11387"
-        },
-        {
-          "title": "Google, 토큰 효율을 높인 Gemini 3.6 Flash와 3.5 Flash-Lite 출시",
-          "link": "https://discuss.pytorch.kr/t/google-gemini-3-6-flash-3-5-flash-lite/11385"
-        },
-        {
-          "title": "Anhtropic의 에이전트형 비정렬(Agentic Misalignment)에 대한 최신 연구: 에이전트의 네 가지 정렬 실패 사례",
-          "link": "https://discuss.pytorch.kr/t/anhtropic-agentic-misalignment/11327"
-        },
-        {
-          "title": "Cursor의 에이전트 스웜과 새로운 모델 경제학: '품질은 같아도 비용은 8배까지 차이날 수 있다'",
-          "link": "https://discuss.pytorch.kr/t/cursor-8/11363"
-        },
-        {
-          "title": "Logo Generator: SVG 로고와 전문가급 쇼케이스를 만드는 Claude Code 스킬",
-          "link": "https://discuss.pytorch.kr/t/logo-generator-svg-claude-code/11295"
-        },
-        {
-          "title": "스마트폰을 엔지니어링 컨트롤 플레인으로, OpenAI Codex Remote 모바일 활용 공식 가이드",
-          "link": "https://discuss.pytorch.kr/t/openai-codex-remote/11370"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-23/2026-07-23-pytorch-kr.mp3",
-      "size": 51317721
     }
   ]
 }
