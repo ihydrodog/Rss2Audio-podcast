@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 30 Sep 2026 08:32:09 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:32:59 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-10-01</title>
+      <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/402-payment-required-mcp-402-payment-required-what-enterprise-mcp-servers-owe-the-agents-that-pay-them/12038"&gt;402 Payment Required: 엔터프라이즈 MCP 서버가 비용을 지불하는 에이전트에게 지켜야 할 것 (402 Payment Required: What Enterprise MCP Servers Owe the Agents That Pay Them)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/rsi/12057"&gt;재귀적 자가개선(RSI)의 기술적 분류와 차이점 분석&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/relateanything/12041"&gt;RelateAnything: 객체 레이블 없이 관계 어휘를 문자열로 받는 실시간 개방형 관계 예측 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ember-1-40-kimi-k3-fireworks-ai-x/12040"&gt;Ember-1: 40% 가량 적은 토큰으로 Kimi K3와 비슷한 품질을 보여주는 Fireworks AI의 추론 효율화 모델 (공개X)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openai-devday-2026-25-dots-gpt-6-1-sol/12053"&gt;OpenAI DevDay 2026 발표 25가지 총정리: 상시 에이전트 dots부터 GPT-6.1 Sol, 플러그인 확장까지&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openrig-claude-code-codex/12042"&gt;OpenRig: Claude Code와 Codex 세션들을 저장하고 불러올 수 있도록 하는 멀티 에이전트 하네스&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/topic/12052"&gt;포켓몬 옐로에서 좀보이드로: 게임 에이전트의 행동을 어떻게 검증할까&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 08:32:59 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-01/2026-10-01-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-01/2026-10-01-pytorch-kr.mp3" length="31753922" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-09-30</title>
       <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openprose-markdown-ai-ai-agent/12010"&gt;OpenProse: Markdown 기반의 계약으로 지속적인 AI 작업을 정의하는, AI Agent의 동작을 위한 언어&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/180b-aime2026-5-1/12047"&gt;180B 모델로, 수학올림피아드 벤치마크(AIME2026) 만점 포함 5개 부문 모조리 1위 랭크 비결 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/datadog-glm-5-3-87-1-20-qwen3-5-9b/12020"&gt;Datadog가 공개한 장애 원인 변경을 찾는 에이전트 학습기 활용기: 교사 모델 GLM-5.3의 재현율 87%를 1/20 비용의 Qwen3.5-9B으로&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/hugging-face-transformers-gguf-feat-llama-cpp-ggml/12036"&gt;Hugging Face Transformers, 이제 GGUF 가중치도 지원하여 바로 불러와 실행 가능 (feat. llama.cpp, ggml)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/laya-jev/12027"&gt;Laya: 텍스트 생성 없이 한 번의 순전파로 결정을 내리는 Jev 호환 오픈 가중치 모델과 로컬 실행 도구들&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Sat, 25 Jul 2026 08:13:21 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-25/2026-07-25-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-25/2026-07-25-pytorch-kr.mp3" length="34862016" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-07-24</title>
-      <description>&lt;p&gt;오늘의 기사 9개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/kordoc-hwp-pdf-mcp/11342"&gt;kordoc: HWP와 PDF 등 한국 문서를 마크다운으로 바꾸는 파서 겸 MCP 서버&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/zuna1-1-eeg-feat-zyphra/11346"&gt;ZUNA1.1: 위치 인식 확산 오토인코더 기반 EEG 복원 파운데이션 모델 (feat. Zyphra)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/chops-claude-code-cursor-codex-macos/11351"&gt;Chops: Claude Code, Cursor, Codex 등의 에이전트 스킬을 한곳에서 관리하는 macOS 앱&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/topic/11393"&gt;아이폰에 350억 파라미터 모델을 담아본 이야기&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/feyn-db-text-to-sql-sqrl-feat-chonkie/11360"&gt;feyn, 답변 전 DB를 먼저 살펴보는 text-to-SQL 모델 SQRL 공개 (feat. Chonkie)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pi-computer-use-ai/11343"&gt;pi-computer-use: AI 에이전트가 데스크톱 앱을 보고 조작하는 컴퓨터 사용 플러그인&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/video-shotcraft-claude-code-codex-ai/11377"&gt;video-shotcraft: Claude Code와 Codex를 영상 스튜디오로 바꾸는 AI 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/auto-company-pc-24-14-ai/11378"&gt;Auto Company: 내 PC에서 24시간 돌아가는 14인 AI 에이전트 자율 회사&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/thinking-to-recall-llm-feat-google-colm-2026/11271"&gt;Thinking to Recall: 추론이 어떻게 LLM의 잠든 지식을 깨우는지에 대한 연구 (feat. Google, COLM 2026)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 08:09:39 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-24/2026-07-24-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-24/2026-07-24-pytorch-kr.mp3" length="23035092" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
