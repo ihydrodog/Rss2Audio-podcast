@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 01 Oct 2026 08:32:59 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:49:59 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-10-02</title>
+      <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/bilibili-150-index-translate-5/12070"&gt;Bilibili, 150개 언어의 텍스트와 음성 번역이 가능한 다국어 번역 모델 Index-Translate 5종 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/liquid-ai-jev-api-d1/12063"&gt;Liquid AI, 문장 생성 대신 Jev 호환 API로 분류 / 라우팅 / 점수를 처리하는 결정 모델 d1 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/chatgpt-pro-3-pro-200-pro-500-ultrafast-feat-codex/12054"&gt;ChatGPT Pro 3단계 개편 정리: Pro 200 사용량 축소와 Pro 500 Ultrafast의 속도 대비 비용 (feat. Codex)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/google-gemini-4-argon-1m/12064"&gt;Google, Gemini 4 Argon 출시: 출력 한도 1M 토큰, 일반 출시에 앞서 사이버 방어 기관에 먼저 제공&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/x402-mcp-x402-mcp-where-does-the-budget-check-go/12039"&gt;x402 + MCP: 예산 확인은 어디에서 해야 할까 (x402 + MCP: where does the budget check go?)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 08:49:59 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-02/2026-10-02-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-02/2026-10-02-pytorch-kr.mp3" length="49308238" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-10-01</title>
       <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/402-payment-required-mcp-402-payment-required-what-enterprise-mcp-servers-owe-the-agents-that-pay-them/12038"&gt;402 Payment Required: 엔터프라이즈 MCP 서버가 비용을 지불하는 에이전트에게 지켜야 할 것 (402 Payment Required: What Enterprise MCP Servers Owe the Agents That Pay Them)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/rsi/12057"&gt;재귀적 자가개선(RSI)의 기술적 분류와 차이점 분석&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/relateanything/12041"&gt;RelateAnything: 객체 레이블 없이 관계 어휘를 문자열로 받는 실시간 개방형 관계 예측 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ember-1-40-kimi-k3-fireworks-ai-x/12040"&gt;Ember-1: 40% 가량 적은 토큰으로 Kimi K3와 비슷한 품질을 보여주는 Fireworks AI의 추론 효율화 모델 (공개X)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openai-devday-2026-25-dots-gpt-6-1-sol/12053"&gt;OpenAI DevDay 2026 발표 25가지 총정리: 상시 에이전트 dots부터 GPT-6.1 Sol, 플러그인 확장까지&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openrig-claude-code-codex/12042"&gt;OpenRig: Claude Code와 Codex 세션들을 저장하고 불러올 수 있도록 하는 멀티 에이전트 하네스&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/topic/12052"&gt;포켓몬 옐로에서 좀보이드로: 게임 에이전트의 행동을 어떻게 검증할까&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Sun, 26 Jul 2026 08:08:23 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-26/2026-07-26-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-26/2026-07-26-pytorch-kr.mp3" length="47339842" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-07-25</title>
-      <description>&lt;p&gt;오늘의 기사 9개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/wigolo-api-ai-mcp/11374"&gt;wigolo: API 키 없이 로컬에서 동작하는 AI 에이전트용 웹 검색 MCP 서버&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai-pytorch-foundation/11420"&gt;오픈소스 AI의 미래를 이끌다: PyTorch Foundation 프로젝트 최신 소식 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openai-secure-mcp-tunnel-mcp-chatgpt-codex/11369"&gt;OpenAI Secure MCP Tunnel: 사설 MCP 서버를 공개하지 않고 ChatGPT와 Codex에 연결하는 프로젝트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/phantom-ai/11349"&gt;Phantom: 자기만의 컴퓨터를 가지고 스스로 진화하는 AI 동료 에이전트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/officecli-ai-word-excel-powerpoint/11347"&gt;OfficeCLI: AI 에이전트가 Word, Excel, PowerPoint 문서를 다루는 명령줄 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/loopgain-ai/11375"&gt;LoopGain: 수렴하면 멈추는 AI 에이전트 루프 비용 컨트롤러&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/hallmark-ai/11348"&gt;Hallmark: AI 티가 나지 않는 웹 디자인을 만드는 코딩 에이전트 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/wandr-feat-perplexity/11371"&gt;WANDR, 리서치 에이전트의 넓고 깊은 탐색 능력을 평가하는 벤치마크 (feat. Perplexity)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/appless/11376"&gt;AppLess: 물어보면 화면이 즉석에서 생성되는 앱 없는 스마트폰 실험&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Sat, 25 Jul 2026 08:13:21 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-25/2026-07-25-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-25/2026-07-25-pytorch-kr.mp3" length="34862016" type="audio/mpeg" />
     </item>
   </channel>
 </rss>

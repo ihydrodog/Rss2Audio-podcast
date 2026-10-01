@@ -3,6 +3,41 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-02",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-01",
+      "period_end": "2026-10-02",
+      "file": "2026-10-02-pytorch-kr.mp3",
+      "published": "2026-10-02T08:49:59+09:00",
+      "entries": [
+        {
+          "title": "Bilibili, 150개 언어의 텍스트와 음성 번역이 가능한 다국어 번역 모델 Index-Translate 5종 공개",
+          "link": "https://discuss.pytorch.kr/t/bilibili-150-index-translate-5/12070"
+        },
+        {
+          "title": "Liquid AI, 문장 생성 대신 Jev 호환 API로 분류 / 라우팅 / 점수를 처리하는 결정 모델 d1 공개",
+          "link": "https://discuss.pytorch.kr/t/liquid-ai-jev-api-d1/12063"
+        },
+        {
+          "title": "ChatGPT Pro 3단계 개편 정리: Pro 200 사용량 축소와 Pro 500 Ultrafast의 속도 대비 비용 (feat. Codex)",
+          "link": "https://discuss.pytorch.kr/t/chatgpt-pro-3-pro-200-pro-500-ultrafast-feat-codex/12054"
+        },
+        {
+          "title": "Google, Gemini 4 Argon 출시: 출력 한도 1M 토큰, 일반 출시에 앞서 사이버 방어 기관에 먼저 제공",
+          "link": "https://discuss.pytorch.kr/t/google-gemini-4-argon-1m/12064"
+        },
+        {
+          "title": "x402 + MCP: 예산 확인은 어디에서 해야 할까 (x402 + MCP: where does the budget check go?)",
+          "link": "https://discuss.pytorch.kr/t/x402-mcp-x402-mcp-where-does-the-budget-check-go/12039"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-02/2026-10-02-pytorch-kr.mp3",
+      "size": 49308238
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-01",
       "kind": "daily",
       "catchup": false,
@@ -2152,53 +2187,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-26/2026-07-26-pytorch-kr.mp3",
       "size": 47339842
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-07-25",
-      "file": "2026-07-25-pytorch-kr.mp3",
-      "published": "2026-07-25T08:13:21+09:00",
-      "entries": [
-        {
-          "title": "wigolo: API 키 없이 로컬에서 동작하는 AI 에이전트용 웹 검색 MCP 서버",
-          "link": "https://discuss.pytorch.kr/t/wigolo-api-ai-mcp/11374"
-        },
-        {
-          "title": "오픈소스 AI의 미래를 이끌다: PyTorch Foundation 프로젝트 최신 소식 | 파이토치 한국 사용자 모임",
-          "link": "https://discuss.pytorch.kr/t/ai-pytorch-foundation/11420"
-        },
-        {
-          "title": "OpenAI Secure MCP Tunnel: 사설 MCP 서버를 공개하지 않고 ChatGPT와 Codex에 연결하는 프로젝트",
-          "link": "https://discuss.pytorch.kr/t/openai-secure-mcp-tunnel-mcp-chatgpt-codex/11369"
-        },
-        {
-          "title": "Phantom: 자기만의 컴퓨터를 가지고 스스로 진화하는 AI 동료 에이전트",
-          "link": "https://discuss.pytorch.kr/t/phantom-ai/11349"
-        },
-        {
-          "title": "OfficeCLI: AI 에이전트가 Word, Excel, PowerPoint 문서를 다루는 명령줄 도구",
-          "link": "https://discuss.pytorch.kr/t/officecli-ai-word-excel-powerpoint/11347"
-        },
-        {
-          "title": "LoopGain: 수렴하면 멈추는 AI 에이전트 루프 비용 컨트롤러",
-          "link": "https://discuss.pytorch.kr/t/loopgain-ai/11375"
-        },
-        {
-          "title": "Hallmark: AI 티가 나지 않는 웹 디자인을 만드는 코딩 에이전트 스킬",
-          "link": "https://discuss.pytorch.kr/t/hallmark-ai/11348"
-        },
-        {
-          "title": "WANDR, 리서치 에이전트의 넓고 깊은 탐색 능력을 평가하는 벤치마크 (feat. Perplexity)",
-          "link": "https://discuss.pytorch.kr/t/wandr-feat-perplexity/11371"
-        },
-        {
-          "title": "AppLess: 물어보면 화면이 즉석에서 생성되는 앱 없는 스마트폰 실험",
-          "link": "https://discuss.pytorch.kr/t/appless/11376"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-25/2026-07-25-pytorch-kr.mp3",
-      "size": 34862016
     }
   ]
 }
