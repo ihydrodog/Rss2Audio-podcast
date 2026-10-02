@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 02 Oct 2026 08:49:59 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:39:55 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-10-03</title>
+      <description>&lt;p&gt;오늘의 기사 3개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/dots-firefox-openai-dots/12078"&gt;dots: 봇 탐지를 피하도록 패치하고, Firefox로 웹 작업을 하는 오픈소스 로컬 브라우저 에이전트 (≠ OpenAI dots)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/nvidia-nemo-relay-feat-hermes-agent/12076"&gt;NVIDIA NeMo Relay로 에이전트 하네스 추적하기: 성공률 뒤에 숨은 호출을 트레이스로 읽는 법 (feat. Hermes Agent)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openshell-ai-nvidia/12079"&gt;OpenShell: AI 에이전트의 파일, 네트워크, 자격증명 접근을 선언형 정책으로 제한하는 NVIDIA 샌드박스 런타임&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Sat, 03 Oct 2026 08:39:55 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-03/2026-10-03-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-03/2026-10-03-pytorch-kr.mp3" length="41151412" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-10-02</title>
       <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/bilibili-150-index-translate-5/12070"&gt;Bilibili, 150개 언어의 텍스트와 음성 번역이 가능한 다국어 번역 모델 Index-Translate 5종 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/liquid-ai-jev-api-d1/12063"&gt;Liquid AI, 문장 생성 대신 Jev 호환 API로 분류 / 라우팅 / 점수를 처리하는 결정 모델 d1 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/chatgpt-pro-3-pro-200-pro-500-ultrafast-feat-codex/12054"&gt;ChatGPT Pro 3단계 개편 정리: Pro 200 사용량 축소와 Pro 500 Ultrafast의 속도 대비 비용 (feat. Codex)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/google-gemini-4-argon-1m/12064"&gt;Google, Gemini 4 Argon 출시: 출력 한도 1M 토큰, 일반 출시에 앞서 사이버 방어 기관에 먼저 제공&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/x402-mcp-x402-mcp-where-does-the-budget-check-go/12039"&gt;x402 + MCP: 예산 확인은 어디에서 해야 할까 (x402 + MCP: where does the budget check go?)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Mon, 27 Jul 2026 08:10:58 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-27/2026-07-27-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-27/2026-07-27-pytorch-kr.mp3" length="40183649" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-07-26</title>
-      <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/tpu-helion/11425"&gt;TPU 위의 Helion: 이기종 하드웨어 커널 작성을 향하여 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/gigatoken-huggingface-1000-gb-s-llm/11414"&gt;gigatoken: HuggingFace보다 약 1000배 빠른 GB/s급 LLM 토크나이저&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/open-kritt-ai/11418"&gt;open-kritt: 여러 AI 에이전트로 코드 취약점을 찾는 오픈소스 보안 연구 플랫폼&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/crawlee-ai-llm-node-js/11407"&gt;Crawlee: AI와 LLM을 위한 데이터를 수집하는 Node.js 웹 스크래핑 라이브러리&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pgcontext-postgresql-ai/11397"&gt;pgContext: PostgreSQL을 AI 검색 엔진으로 만드는 벡터 및 하이브리드 검색 확장&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Sun, 26 Jul 2026 08:08:23 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-26/2026-07-26-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-26/2026-07-26-pytorch-kr.mp3" length="47339842" type="audio/mpeg" />
     </item>
   </channel>
 </rss>

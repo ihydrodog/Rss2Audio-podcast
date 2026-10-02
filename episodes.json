@@ -3,6 +3,33 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-03",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-02",
+      "period_end": "2026-10-03",
+      "file": "2026-10-03-pytorch-kr.mp3",
+      "published": "2026-10-03T08:39:55+09:00",
+      "entries": [
+        {
+          "title": "dots: 봇 탐지를 피하도록 패치하고, Firefox로 웹 작업을 하는 오픈소스 로컬 브라우저 에이전트 (≠ OpenAI dots)",
+          "link": "https://discuss.pytorch.kr/t/dots-firefox-openai-dots/12078"
+        },
+        {
+          "title": "NVIDIA NeMo Relay로 에이전트 하네스 추적하기: 성공률 뒤에 숨은 호출을 트레이스로 읽는 법 (feat. Hermes Agent)",
+          "link": "https://discuss.pytorch.kr/t/nvidia-nemo-relay-feat-hermes-agent/12076"
+        },
+        {
+          "title": "OpenShell: AI 에이전트의 파일, 네트워크, 자격증명 접근을 선언형 정책으로 제한하는 NVIDIA 샌드박스 런타임",
+          "link": "https://discuss.pytorch.kr/t/openshell-ai-nvidia/12079"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-03/2026-10-03-pytorch-kr.mp3",
+      "size": 41151412
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-02",
       "kind": "daily",
       "catchup": false,
@@ -2156,37 +2183,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-27/2026-07-27-pytorch-kr.mp3",
       "size": 40183649
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-07-26",
-      "file": "2026-07-26-pytorch-kr.mp3",
-      "published": "2026-07-26T08:08:23+09:00",
-      "entries": [
-        {
-          "title": "TPU 위의 Helion: 이기종 하드웨어 커널 작성을 향하여 | 파이토치 한국 사용자 모임",
-          "link": "https://discuss.pytorch.kr/t/tpu-helion/11425"
-        },
-        {
-          "title": "gigatoken: HuggingFace보다 약 1000배 빠른 GB/s급 LLM 토크나이저",
-          "link": "https://discuss.pytorch.kr/t/gigatoken-huggingface-1000-gb-s-llm/11414"
-        },
-        {
-          "title": "open-kritt: 여러 AI 에이전트로 코드 취약점을 찾는 오픈소스 보안 연구 플랫폼",
-          "link": "https://discuss.pytorch.kr/t/open-kritt-ai/11418"
-        },
-        {
-          "title": "Crawlee: AI와 LLM을 위한 데이터를 수집하는 Node.js 웹 스크래핑 라이브러리",
-          "link": "https://discuss.pytorch.kr/t/crawlee-ai-llm-node-js/11407"
-        },
-        {
-          "title": "pgContext: PostgreSQL을 AI 검색 엔진으로 만드는 벡터 및 하이브리드 검색 확장",
-          "link": "https://discuss.pytorch.kr/t/pgcontext-postgresql-ai/11397"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-26/2026-07-26-pytorch-kr.mp3",
-      "size": 47339842
     }
   ]
 }
