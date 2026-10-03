@@ -3,6 +3,121 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-04",
+      "kind": "weekly",
+      "catchup": false,
+      "period_start": "2026-09-27",
+      "period_end": "2026-10-04",
+      "file": "2026-10-04-weekly-pytorch-kr.mp3",
+      "published": "2026-10-04T07:50:16+09:00",
+      "entries": [
+        {
+          "title": "NVIDIA VSS 3.3: 영상 AI 에이전트를 프롬프트로 조립하고, 변하지 않은 화면의 VLM 토큰은 줄이기 (feat. Adaptive EVS)",
+          "link": "https://discuss.pytorch.kr/t/nvidia-vss-3-3-ai-vlm-feat-adaptive-evs/12077"
+        },
+        {
+          "title": "AutoSynthData: 에이전트가 실패한 과제를 검증된 학습 데이터로 바꾸는 ServiceNow의 파이프라인 (feat. EnterpriseOps-Gym)",
+          "link": "https://discuss.pytorch.kr/t/autosynthdata-servicenow-feat-enterpriseops-gym/12083"
+        },
+        {
+          "title": "dots: 봇 탐지를 피하도록 패치하고, Firefox로 웹 작업을 하는 오픈소스 로컬 브라우저 에이전트 (≠ OpenAI dots)",
+          "link": "https://discuss.pytorch.kr/t/dots-firefox-openai-dots/12078"
+        },
+        {
+          "title": "NVIDIA NeMo Relay로 에이전트 하네스 추적하기: 성공률 뒤에 숨은 호출을 트레이스로 읽는 법 (feat. Hermes Agent)",
+          "link": "https://discuss.pytorch.kr/t/nvidia-nemo-relay-feat-hermes-agent/12076"
+        },
+        {
+          "title": "OpenShell: AI 에이전트의 파일, 네트워크, 자격증명 접근을 선언형 정책으로 제한하는 NVIDIA 샌드박스 런타임",
+          "link": "https://discuss.pytorch.kr/t/openshell-ai-nvidia/12079"
+        },
+        {
+          "title": "Bilibili, 150개 언어의 텍스트와 음성 번역이 가능한 다국어 번역 모델 Index-Translate 5종 공개",
+          "link": "https://discuss.pytorch.kr/t/bilibili-150-index-translate-5/12070"
+        },
+        {
+          "title": "Liquid AI, 문장 생성 대신 Jev 호환 API로 분류 / 라우팅 / 점수를 처리하는 결정 모델 d1 공개",
+          "link": "https://discuss.pytorch.kr/t/liquid-ai-jev-api-d1/12063"
+        },
+        {
+          "title": "ChatGPT Pro 3단계 개편 정리: Pro 200 사용량 축소와 Pro 500 Ultrafast의 속도 대비 비용 (feat. Codex)",
+          "link": "https://discuss.pytorch.kr/t/chatgpt-pro-3-pro-200-pro-500-ultrafast-feat-codex/12054"
+        },
+        {
+          "title": "Google, Gemini 4 Argon 출시: 출력 한도 1M 토큰, 일반 출시에 앞서 사이버 방어 기관에 먼저 제공",
+          "link": "https://discuss.pytorch.kr/t/google-gemini-4-argon-1m/12064"
+        },
+        {
+          "title": "x402 + MCP: 예산 확인은 어디에서 해야 할까 (x402 + MCP: where does the budget check go?)",
+          "link": "https://discuss.pytorch.kr/t/x402-mcp-x402-mcp-where-does-the-budget-check-go/12039"
+        },
+        {
+          "title": "402 Payment Required: 엔터프라이즈 MCP 서버가 비용을 지불하는 에이전트에게 지켜야 할 것 (402 Payment Required: What Enterprise MCP Servers Owe the Agents That Pay Them)",
+          "link": "https://discuss.pytorch.kr/t/402-payment-required-mcp-402-payment-required-what-enterprise-mcp-servers-owe-the-agents-that-pay-them/12038"
+        },
+        {
+          "title": "재귀적 자가개선(RSI)의 기술적 분류와 차이점 분석",
+          "link": "https://discuss.pytorch.kr/t/rsi/12057"
+        },
+        {
+          "title": "RelateAnything: 객체 레이블 없이 관계 어휘를 문자열로 받는 실시간 개방형 관계 예측 모델",
+          "link": "https://discuss.pytorch.kr/t/relateanything/12041"
+        },
+        {
+          "title": "Ember-1: 40% 가량 적은 토큰으로 Kimi K3와 비슷한 품질을 보여주는 Fireworks AI의 추론 효율화 모델 (공개X)",
+          "link": "https://discuss.pytorch.kr/t/ember-1-40-kimi-k3-fireworks-ai-x/12040"
+        },
+        {
+          "title": "OpenAI DevDay 2026 발표 25가지 총정리: 상시 에이전트 dots부터 GPT-6.1 Sol, 플러그인 확장까지",
+          "link": "https://discuss.pytorch.kr/t/openai-devday-2026-25-dots-gpt-6-1-sol/12053"
+        },
+        {
+          "title": "OpenRig: Claude Code와 Codex 세션들을 저장하고 불러올 수 있도록 하는 멀티 에이전트 하네스",
+          "link": "https://discuss.pytorch.kr/t/openrig-claude-code-codex/12042"
+        },
+        {
+          "title": "포켓몬 옐로에서 좀보이드로: 게임 에이전트의 행동을 어떻게 검증할까",
+          "link": "https://discuss.pytorch.kr/t/topic/12052"
+        },
+        {
+          "title": "OpenProse: Markdown 기반의 계약으로 지속적인 AI 작업을 정의하는, AI Agent의 동작을 위한 언어",
+          "link": "https://discuss.pytorch.kr/t/openprose-markdown-ai-ai-agent/12010"
+        },
+        {
+          "title": "180B 모델로, 수학올림피아드 벤치마크(AIME2026) 만점 포함 5개 부문 모조리 1위 랭크 비결 공개",
+          "link": "https://discuss.pytorch.kr/t/180b-aime2026-5-1/12047"
+        },
+        {
+          "title": "Datadog가 공개한 장애 원인 변경을 찾는 에이전트 학습기 활용기: 교사 모델 GLM-5.3의 재현율 87%를 1/20 비용의 Qwen3.5-9B으로",
+          "link": "https://discuss.pytorch.kr/t/datadog-glm-5-3-87-1-20-qwen3-5-9b/12020"
+        },
+        {
+          "title": "Hugging Face Transformers, 이제 GGUF 가중치도 지원하여 바로 불러와 실행 가능 (feat. llama.cpp, ggml)",
+          "link": "https://discuss.pytorch.kr/t/hugging-face-transformers-gguf-feat-llama-cpp-ggml/12036"
+        },
+        {
+          "title": "Laya: 텍스트 생성 없이 한 번의 순전파로 결정을 내리는 Jev 호환 오픈 가중치 모델과 로컬 실행 도구들",
+          "link": "https://discuss.pytorch.kr/t/laya-jev/12027"
+        },
+        {
+          "title": "CLM(Contrastive LM), 대조 학습을 통해 Jev와 같은 형식으로, 상태에 맞는 행동을 빠르게 선택하는 언어 모델",
+          "link": "https://discuss.pytorch.kr/t/clm-contrastive-lm-jev/12013"
+        },
+        {
+          "title": "Liquid AI, VLM 디코딩 속도를 2.66~3.13배 가량 높인 LFM2.5-VL-3B-DSpark 모델 공개",
+          "link": "https://discuss.pytorch.kr/t/liquid-ai-vlm-2-66-3-13-lfm2-5-vl-3b-dspark/12019"
+        },
+        {
+          "title": "Cloudflare가 제안하는 소프트웨어 개발 방법론의 변화: SDLC에서 ADLC로, 배포와 운영까지 에이전트에게 맡기는 소프트웨어 팩토리",
+          "link": "https://discuss.pytorch.kr/t/cloudflare-sdlc-adlc/12021"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-04/2026-10-04-weekly-pytorch-kr.mp3",
+      "size": 47392135
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-03",
       "kind": "daily",
       "catchup": false,
@@ -2148,41 +2263,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-28/2026-07-28-pytorch-kr.mp3",
       "size": 38560386
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-07-27",
-      "file": "2026-07-27-pytorch-kr.mp3",
-      "published": "2026-07-27T08:10:58+09:00",
-      "entries": [
-        {
-          "title": "GOT-OCR2.0: 문서와 수식, 표, 악보를 하나의 모델로 인식하는 End-to-End OCR 모델",
-          "link": "https://discuss.pytorch.kr/t/got-ocr2-0-end-to-end-ocr/11415"
-        },
-        {
-          "title": "Claude Opus 5와 Fable 5를 어떻게 나눠 써야 할까: 채택된 작업 비용으로 보는 선택 기준",
-          "link": "https://discuss.pytorch.kr/t/claude-opus-5-fable-5/11431"
-        },
-        {
-          "title": "이미지 생성 모델이 그린 이미지 속 한글은 왜 깨질까?",
-          "link": "https://discuss.pytorch.kr/t/topic/11430"
-        },
-        {
-          "title": "img2threejs: 이미지 한 장을 코드로 재구성하는 Three.js 3D 모델 생성 도구",
-          "link": "https://discuss.pytorch.kr/t/img2threejs-three-js-3d/11410"
-        },
-        {
-          "title": "memsearch: 여러 AI 코딩 에이전트가 하나의 기억을 공유하는 의미 기반 메모리 계층",
-          "link": "https://discuss.pytorch.kr/t/memsearch-ai/11411"
-        },
-        {
-          "title": "ko-embedding-leaderboard: 한국어 임베딩 모델을 평가하는 오픈소스 리더보드",
-          "link": "https://discuss.pytorch.kr/t/ko-embedding-leaderboard/11416"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-27/2026-07-27-pytorch-kr.mp3",
-      "size": 40183649
     }
   ]
 }
