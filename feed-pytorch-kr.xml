@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 05 Oct 2026 07:49:23 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:15:00 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-10-06</title>
+      <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/sql-db-46/12105"&gt;로컬 모델로 SQL을 쓰고 실행하는 에이전트를 붙인 오픈소스 DB 클라이언트, 46개 엔진에서 실제로 되는지 재봤습니다&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/topic/12099"&gt;허깅페이스 공인 벤치마크 리더보드 48개 전수 분석: 데이터 구조, 집계 방법, 그리고 숫자가 말해 주는 것&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/jev-reranking-llm/12091"&gt;Jev 기반 추천 재순위화(Reranking)에 대한 실증 연구: 결정 지향 모델과 LLM 재순위화의 품질 및 지연 시간 비교&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/translate-book-arxiv-arxiv-claude-code/12097"&gt;Translate Book: arXiv - arXiv 논문을 원문 구조 그대로 번역 논문으로 만들어 주는 Claude Code 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/a-i-g-ai-infra-guard-ai-mcp/12090"&gt;A.I.G(AI-Infra-Guard): AI 인프라와 MCP 서버, 에이전트, 모델을 계층별로 점검하는 텐센트의 레드팀 플랫폼&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/2026-09-28-10-04-ai-ml/12093"&gt;[2026/09/28 ~ 10/04] 이번 주에 살펴볼 만한 AI/ML 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 10:15:00 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-06/2026-10-06-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-06/2026-10-06-pytorch-kr.mp3" length="34932237" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-10-05</title>
       <description>&lt;p&gt;오늘의 기사 2개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/astabrief-ai2-claude-3-5-8b/12088"&gt;AstaBrief, Ai2가 공개한, 과학 문헌 인용 보고서를 Claude 기반 모드보다 3.5배 빠르게 쓰는 8B 오픈 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/humanize-python-claude-code-codex/12089"&gt;humanize: Python 기반의 작업 명세에 따라 Claude Code와 Codex를 실행하며 작업을 수행하는 에이전트 플로우 실행기&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Thu, 30 Jul 2026 08:14:29 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-30/2026-07-30-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-30/2026-07-30-pytorch-kr.mp3" length="36382072" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-07-29</title>
-      <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/autoscraper/11409"&gt;AutoScraper: 예시 하나로 스크래핑 규칙을 학습하는 파이썬 웹 스크래퍼&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/omniroute-ai/11413"&gt;OmniRoute: 여러 AI 제공자를 하나의 엔드포인트로 잇는 로컬 게이트웨이&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openworker-ai-feat-andrew-ng/11406"&gt;OpenWorker: 채팅이 아닌 완성된 결과물을 만드는 오픈소스 AI 동료 (feat. Andrew Ng)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/unstract-json-llm/11417"&gt;Unstract: 프롬프트로 비정형 문서에서 구조화된 JSON을 추출하는 LLM 플랫폼&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anthropic-claude-opus-5-opus-4-8/11439"&gt;Anthropic이 공개한 Claude Opus 5 프롬프트 작성법 및 Opus 4.8 마이그레이션 가이드&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anthropic-project-pilot-ai-drone-bench/11440"&gt;Anthropic의 Project Pilot: AI 모델의 드론 조종 능력을 측정한 Drone-Bench&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/egocontrol-3d-1-feat-nvidia/11107"&gt;EgoControl: 3D 전신 포즈로 1인칭 시점 영상을 제어하는 비디오 확산 모델 (feat. NVIDIA)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 08:10:55 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-29/2026-07-29-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-07-29/2026-07-29-pytorch-kr.mp3" length="29664507" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
