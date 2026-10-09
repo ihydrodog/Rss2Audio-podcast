@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 09 Oct 2026 09:16:04 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:56:27 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-10-10</title>
+      <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/hunk-diff/12123"&gt;Hunk: 코딩 에이전트가 남긴 코드 변경 내역을 검토하는 터미널 diff 뷰어 프로젝트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/liquid-ai-d1-3b-d1-omni-600m/12130"&gt;Liquid AI, 엣지 기기에서 한 번의 순전파로 판단하는 결정 모델 d1-3B와 d1-omni-600M 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/jev-5-1-ztc/12136"&gt;허깅페이스 리더보드에서 JEV를 5위로 밀어내고 1위를 차지한 한국의 ZTC 기술 분석&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/google-nber-133-ai/12134"&gt;Google과 NBER이 공개한 특허변호사 133명과 AI의 협업 실험 결과: 특허 초안은 좋아졌지만 주니어의 실력은 늘지 않았음&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Sat, 10 Oct 2026 08:56:27 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-10/2026-10-10-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-10/2026-10-10-pytorch-kr.mp3" length="37795186" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-10-09</title>
       <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anthropic-cyber-verification-program-3-mythos-5-1/12133"&gt;Anthropic, Cyber Verification Program 3단계 개편: 검증된 보안팀에 Mythos 5.1 개방&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/darwin-27b-ztc/12132"&gt;Darwin-27B-ZTC: 생성 없는 단일 순전파 판정기와 보정 품질의 정량 분석&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/agentworld/12131"&gt;[오픈소스] 협업을 재려면 정보 배치부터 설계해야 했다: AgentWorld 경량 실험장 (비공식)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/jeff-code-0-8b-qwen3-8-27b-32-pi/12122"&gt;Jeff-Code: 0.8B 결정 모델이 턴마다 사고 여부를 골라 Qwen3.8-27B의 작업당 시간을 32% 줄인 Pi 포크&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/loopcd-apple/12094"&gt;LoopCD: 루프 트랜스포머의 첫 반복을 약한 참조로 쓰는 학습 없는 대조 디코딩에 대한 Apple의 연구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/google-ai-51-pdf-116p/12113"&gt;Google이 공개한 AI 에이전트 프라이버시와 보안의 51가지 이슈에 대한 워크숍 보고서 [영문/PDF/116p]&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/octop-ai-feat-tencent/12124"&gt;Octop: 서버 한 대로 가족과 소규모 팀이 각자 전용 AI 에이전트를 쓰는 셀프 호스팅 비서 (feat. Tencent)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Mon, 03 Aug 2026 08:08:47 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-03/2026-08-03-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-03/2026-08-03-pytorch-kr.mp3" length="28698238" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-08-02</title>
-      <description>&lt;p&gt;오늘의 기사 2개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/google-deepmind-gemini-robotics-2/11488"&gt;Google DeepMind, 전신 지능과 멀티 로봇 협업을 갖춘 Gemini Robotics 2 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/seed-llms-txt-mcp-ai/11462"&gt;당근 디자인 시스템 SEED, llms.txt와 MCP로 AI 에이전트에게 문서를 여는 방법&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 08:06:19 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-02/2026-08-02-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-02/2026-08-02-pytorch-kr.mp3" length="39861560" type="audio/mpeg" />
     </item>
   </channel>
 </rss>

@@ -3,6 +3,37 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-10",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-09",
+      "period_end": "2026-10-10",
+      "file": "2026-10-10-pytorch-kr.mp3",
+      "published": "2026-10-10T08:56:27+09:00",
+      "entries": [
+        {
+          "title": "Hunk: 코딩 에이전트가 남긴 코드 변경 내역을 검토하는 터미널 diff 뷰어 프로젝트",
+          "link": "https://discuss.pytorch.kr/t/hunk-diff/12123"
+        },
+        {
+          "title": "Liquid AI, 엣지 기기에서 한 번의 순전파로 판단하는 결정 모델 d1-3B와 d1-omni-600M 공개",
+          "link": "https://discuss.pytorch.kr/t/liquid-ai-d1-3b-d1-omni-600m/12130"
+        },
+        {
+          "title": "허깅페이스 리더보드에서 JEV를 5위로 밀어내고 1위를 차지한 한국의 ZTC 기술 분석",
+          "link": "https://discuss.pytorch.kr/t/jev-5-1-ztc/12136"
+        },
+        {
+          "title": "Google과 NBER이 공개한 특허변호사 133명과 AI의 협업 실험 결과: 특허 초안은 좋아졌지만 주니어의 실력은 늘지 않았음",
+          "link": "https://discuss.pytorch.kr/t/google-nber-133-ai/12134"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-10/2026-10-10-pytorch-kr.mp3",
+      "size": 37795186
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-09",
       "kind": "daily",
       "catchup": false,
@@ -2208,25 +2239,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-03/2026-08-03-pytorch-kr.mp3",
       "size": 28698238
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-02",
-      "file": "2026-08-02-pytorch-kr.mp3",
-      "published": "2026-08-02T08:06:19+09:00",
-      "entries": [
-        {
-          "title": "Google DeepMind, 전신 지능과 멀티 로봇 협업을 갖춘 Gemini Robotics 2 공개",
-          "link": "https://discuss.pytorch.kr/t/google-deepmind-gemini-robotics-2/11488"
-        },
-        {
-          "title": "당근 디자인 시스템 SEED, llms.txt와 MCP로 AI 에이전트에게 문서를 여는 방법",
-          "link": "https://discuss.pytorch.kr/t/seed-llms-txt-mcp-ai/11462"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-02/2026-08-02-pytorch-kr.mp3",
-      "size": 39861560
     }
   ]
 }
