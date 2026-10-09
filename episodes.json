@@ -3,6 +3,49 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-09",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-08",
+      "period_end": "2026-10-09",
+      "file": "2026-10-09-pytorch-kr.mp3",
+      "published": "2026-10-09T09:16:04+09:00",
+      "entries": [
+        {
+          "title": "Anthropic, Cyber Verification Program 3단계 개편: 검증된 보안팀에 Mythos 5.1 개방",
+          "link": "https://discuss.pytorch.kr/t/anthropic-cyber-verification-program-3-mythos-5-1/12133"
+        },
+        {
+          "title": "Darwin-27B-ZTC: 생성 없는 단일 순전파 판정기와 보정 품질의 정량 분석",
+          "link": "https://discuss.pytorch.kr/t/darwin-27b-ztc/12132"
+        },
+        {
+          "title": "[오픈소스] 협업을 재려면 정보 배치부터 설계해야 했다: AgentWorld 경량 실험장 (비공식)",
+          "link": "https://discuss.pytorch.kr/t/agentworld/12131"
+        },
+        {
+          "title": "Jeff-Code: 0.8B 결정 모델이 턴마다 사고 여부를 골라 Qwen3.8-27B의 작업당 시간을 32% 줄인 Pi 포크",
+          "link": "https://discuss.pytorch.kr/t/jeff-code-0-8b-qwen3-8-27b-32-pi/12122"
+        },
+        {
+          "title": "LoopCD: 루프 트랜스포머의 첫 반복을 약한 참조로 쓰는 학습 없는 대조 디코딩에 대한 Apple의 연구",
+          "link": "https://discuss.pytorch.kr/t/loopcd-apple/12094"
+        },
+        {
+          "title": "Google이 공개한 AI 에이전트 프라이버시와 보안의 51가지 이슈에 대한 워크숍 보고서 [영문/PDF/116p]",
+          "link": "https://discuss.pytorch.kr/t/google-ai-51-pdf-116p/12113"
+        },
+        {
+          "title": "Octop: 서버 한 대로 가족과 소규모 팀이 각자 전용 AI 에이전트를 쓰는 셀프 호스팅 비서 (feat. Tencent)",
+          "link": "https://discuss.pytorch.kr/t/octop-ai-feat-tencent/12124"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-09/2026-10-09-pytorch-kr.mp3",
+      "size": 29422350
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-08",
       "kind": "daily",
       "catchup": false,
@@ -2184,41 +2227,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-02/2026-08-02-pytorch-kr.mp3",
       "size": 39861560
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-01",
-      "file": "2026-08-01-pytorch-kr.mp3",
-      "published": "2026-08-01T08:10:51+09:00",
-      "entries": [
-        {
-          "title": "html-ppt: 테마 36종과 레이아웃 31종을 갖춘 HTML 프레젠테이션 제작 에이전트 스킬",
-          "link": "https://discuss.pytorch.kr/t/html-ppt-36-31-html/11470"
-        },
-        {
-          "title": "stop-slop: 산문에서 AI 글쓰기 패턴을 찾아 제거하는 Claude 스킬",
-          "link": "https://discuss.pytorch.kr/t/stop-slop-ai-claude/10552"
-        },
-        {
-          "title": "World Monitor: 500여종의 뉴스와 지표들을 종합하여 실시간으로 보여주는 글로벌 정보 대시보드 (OSINT)",
-          "link": "https://discuss.pytorch.kr/t/world-monitor-500-osint/11457"
-        },
-        {
-          "title": "Buzz: 사람과 AI 에이전트가 같은 채널에서 일할 수 있도록 하는 자체 호스팅 워크스페이스",
-          "link": "https://discuss.pytorch.kr/t/buzz-ai/11461"
-        },
-        {
-          "title": "Awesome Systematic Trading: 퀀트 트레이딩을 위한 라이브러리 및 전략 논문 모음",
-          "link": "https://discuss.pytorch.kr/t/awesome-systematic-trading/11468"
-        },
-        {
-          "title": "LLaDA2.2: 레벤슈타인(Levenshtein) 편집 기법을 도입하여 에이전트 작업을 지원하는 확산 언어 모델(Diffusion LM)",
-          "link": "https://discuss.pytorch.kr/t/llada2-2-levenshtein-diffusion-lm/11463"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-01/2026-08-01-pytorch-kr.mp3",
-      "size": 17616343
     }
   ]
 }

@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 08 Oct 2026 09:09:28 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:16:04 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-10-09</title>
+      <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anthropic-cyber-verification-program-3-mythos-5-1/12133"&gt;Anthropic, Cyber Verification Program 3단계 개편: 검증된 보안팀에 Mythos 5.1 개방&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/darwin-27b-ztc/12132"&gt;Darwin-27B-ZTC: 생성 없는 단일 순전파 판정기와 보정 품질의 정량 분석&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/agentworld/12131"&gt;[오픈소스] 협업을 재려면 정보 배치부터 설계해야 했다: AgentWorld 경량 실험장 (비공식)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/jeff-code-0-8b-qwen3-8-27b-32-pi/12122"&gt;Jeff-Code: 0.8B 결정 모델이 턴마다 사고 여부를 골라 Qwen3.8-27B의 작업당 시간을 32% 줄인 Pi 포크&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/loopcd-apple/12094"&gt;LoopCD: 루프 트랜스포머의 첫 반복을 약한 참조로 쓰는 학습 없는 대조 디코딩에 대한 Apple의 연구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/google-ai-51-pdf-116p/12113"&gt;Google이 공개한 AI 에이전트 프라이버시와 보안의 51가지 이슈에 대한 워크숍 보고서 [영문/PDF/116p]&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/octop-ai-feat-tencent/12124"&gt;Octop: 서버 한 대로 가족과 소규모 팀이 각자 전용 AI 에이전트를 쓰는 셀프 호스팅 비서 (feat. Tencent)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 09:16:04 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-09/2026-10-09-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-09/2026-10-09-pytorch-kr.mp3" length="29422350" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-10-08</title>
       <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/crafting-apps-adobe-7-rust-7/12119"&gt;Crafting Apps: Adobe 소프트웨어 7종을 Rust로 다시 구현한 오픈소스 프로젝트 7종 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/google-embeddinggemma-embeddinggemma-2/12118"&gt;Google, 텍스트 전용이던 EmbeddingGemma를 이미지, 영상, 음성까지 넓힌 EmbeddingGemma 2 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pymupdf-vs-docling/12120"&gt;경쟁사 벤치마크로 검증한 로컬 문서 파서 성능 비교 (PyMuPDF vs Docling)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/reflection-ai-23b-501b-beam/12112"&gt;Reflection AI, 활성 23B로 추론 연산을 줄인 501B 오픈 웨이트 모델 Beam 발표 (가중치는 이번 달 내 공개 예정)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/thinkingbox-db-20/12107"&gt;ThinkingBox: 에이전트가 남긴 DB 상태로 채점하고 20번 반복해 신뢰성을 재는 업무 에이전트 벤치마크&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Sun, 02 Aug 2026 08:06:19 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-02/2026-08-02-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-02/2026-08-02-pytorch-kr.mp3" length="39861560" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-08-01</title>
-      <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/html-ppt-36-31-html/11470"&gt;html-ppt: 테마 36종과 레이아웃 31종을 갖춘 HTML 프레젠테이션 제작 에이전트 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/stop-slop-ai-claude/10552"&gt;stop-slop: 산문에서 AI 글쓰기 패턴을 찾아 제거하는 Claude 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/world-monitor-500-osint/11457"&gt;World Monitor: 500여종의 뉴스와 지표들을 종합하여 실시간으로 보여주는 글로벌 정보 대시보드 (OSINT)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/buzz-ai/11461"&gt;Buzz: 사람과 AI 에이전트가 같은 채널에서 일할 수 있도록 하는 자체 호스팅 워크스페이스&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/awesome-systematic-trading/11468"&gt;Awesome Systematic Trading: 퀀트 트레이딩을 위한 라이브러리 및 전략 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/llada2-2-levenshtein-diffusion-lm/11463"&gt;LLaDA2.2: 레벤슈타인(Levenshtein) 편집 기법을 도입하여 에이전트 작업을 지원하는 확산 언어 모델(Diffusion LM)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 08:10:51 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-01/2026-08-01-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-01/2026-08-01-pytorch-kr.mp3" length="17616343" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
