@@ -3,6 +3,121 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-11",
+      "kind": "weekly",
+      "catchup": false,
+      "period_start": "2026-10-04",
+      "period_end": "2026-10-11",
+      "file": "2026-10-11-weekly-pytorch-kr.mp3",
+      "published": "2026-10-11T08:19:06+09:00",
+      "entries": [
+        {
+          "title": "vLLM-Omni 기술 보고서: 음성, 이미지, 영상, 로봇 행동 모델을 한 런타임에서 서빙하는 구조",
+          "link": "https://discuss.pytorch.kr/t/vllm-omni/12128"
+        },
+        {
+          "title": "Leviathan: 대용량 티켓과 로그를 grep 대신 수백 토큰의 검색 결과로 에이전트에 건네는 로컬 인덱서",
+          "link": "https://discuss.pytorch.kr/t/leviathan-grep/12138"
+        },
+        {
+          "title": "Hunk: 코딩 에이전트가 남긴 코드 변경 내역을 검토하는 터미널 diff 뷰어 프로젝트",
+          "link": "https://discuss.pytorch.kr/t/hunk-diff/12123"
+        },
+        {
+          "title": "Liquid AI, 엣지 기기에서 한 번의 순전파로 판단하는 결정 모델 d1-3B와 d1-omni-600M 공개",
+          "link": "https://discuss.pytorch.kr/t/liquid-ai-d1-3b-d1-omni-600m/12130"
+        },
+        {
+          "title": "허깅페이스 리더보드에서 JEV를 5위로 밀어내고 1위를 차지한 한국의 ZTC 기술 분석",
+          "link": "https://discuss.pytorch.kr/t/jev-5-1-ztc/12136"
+        },
+        {
+          "title": "Google과 NBER이 공개한 특허변호사 133명과 AI의 협업 실험 결과: 특허 초안은 좋아졌지만 주니어의 실력은 늘지 않았음",
+          "link": "https://discuss.pytorch.kr/t/google-nber-133-ai/12134"
+        },
+        {
+          "title": "Anthropic, Cyber Verification Program 3단계 개편: 검증된 보안팀에 Mythos 5.1 개방",
+          "link": "https://discuss.pytorch.kr/t/anthropic-cyber-verification-program-3-mythos-5-1/12133"
+        },
+        {
+          "title": "Darwin-27B-ZTC: 생성 없는 단일 순전파 판정기와 보정 품질의 정량 분석",
+          "link": "https://discuss.pytorch.kr/t/darwin-27b-ztc/12132"
+        },
+        {
+          "title": "[오픈소스] 협업을 재려면 정보 배치부터 설계해야 했다: AgentWorld 경량 실험장 (비공식)",
+          "link": "https://discuss.pytorch.kr/t/agentworld/12131"
+        },
+        {
+          "title": "Jeff-Code: 0.8B 결정 모델이 턴마다 사고 여부를 골라 Qwen3.8-27B의 작업당 시간을 32% 줄인 Pi 포크",
+          "link": "https://discuss.pytorch.kr/t/jeff-code-0-8b-qwen3-8-27b-32-pi/12122"
+        },
+        {
+          "title": "LoopCD: 루프 트랜스포머의 첫 반복을 약한 참조로 쓰는 학습 없는 대조 디코딩에 대한 Apple의 연구",
+          "link": "https://discuss.pytorch.kr/t/loopcd-apple/12094"
+        },
+        {
+          "title": "Google이 공개한 AI 에이전트 프라이버시와 보안의 51가지 이슈에 대한 워크숍 보고서 [영문/PDF/116p]",
+          "link": "https://discuss.pytorch.kr/t/google-ai-51-pdf-116p/12113"
+        },
+        {
+          "title": "Octop: 서버 한 대로 가족과 소규모 팀이 각자 전용 AI 에이전트를 쓰는 셀프 호스팅 비서 (feat. Tencent)",
+          "link": "https://discuss.pytorch.kr/t/octop-ai-feat-tencent/12124"
+        },
+        {
+          "title": "Crafting Apps: Adobe 소프트웨어 7종을 Rust로 다시 구현한 오픈소스 프로젝트 7종 공개",
+          "link": "https://discuss.pytorch.kr/t/crafting-apps-adobe-7-rust-7/12119"
+        },
+        {
+          "title": "Google, 텍스트 전용이던 EmbeddingGemma를 이미지, 영상, 음성까지 넓힌 EmbeddingGemma 2 공개",
+          "link": "https://discuss.pytorch.kr/t/google-embeddinggemma-embeddinggemma-2/12118"
+        },
+        {
+          "title": "경쟁사 벤치마크로 검증한 로컬 문서 파서 성능 비교 (PyMuPDF vs Docling)",
+          "link": "https://discuss.pytorch.kr/t/pymupdf-vs-docling/12120"
+        },
+        {
+          "title": "Reflection AI, 활성 23B로 추론 연산을 줄인 501B 오픈 웨이트 모델 Beam 발표 (가중치는 이번 달 내 공개 예정)",
+          "link": "https://discuss.pytorch.kr/t/reflection-ai-23b-501b-beam/12112"
+        },
+        {
+          "title": "ThinkingBox: 에이전트가 남긴 DB 상태로 채점하고 20번 반복해 신뢰성을 재는 업무 에이전트 벤치마크",
+          "link": "https://discuss.pytorch.kr/t/thinkingbox-db-20/12107"
+        },
+        {
+          "title": "재귀적 자기 개선(RSI, Recursive Self-Improvement) 기법에 대한 서베이 연구 (2/2): 검증 계층과 자동 연구, 안전 문제 등",
+          "link": "https://discuss.pytorch.kr/t/rsi-recursive-self-improvement-2-2/12069"
+        },
+        {
+          "title": "재귀적 자기 개선(RSI, Recursive Self-Improvement) 기법에 대한 서베이 연구 (1/2): 분류체계 및 배포 시점, 학습 시점의 자기 개선 루프 등",
+          "link": "https://discuss.pytorch.kr/t/rsi-recursive-self-improvement-1-2/12068"
+        },
+        {
+          "title": "AgentCraft: Claude 에이전트 팀의 코딩 작업을 Minecraft 스튜디오에서 지켜보고 병합하는 모드",
+          "link": "https://discuss.pytorch.kr/t/agentcraft-claude-minecraft/12101"
+        },
+        {
+          "title": "Jev와 유사한 오픈소스 결정 모델에 대한 정리: Decision Index와 JevBench로 비교한 결정 모델 성능 비교",
+          "link": "https://discuss.pytorch.kr/t/jev-decision-index-jevbench/12095"
+        },
+        {
+          "title": "로컬 모델로 SQL을 쓰고 실행하는 에이전트를 붙인 오픈소스 DB 클라이언트, 46개 엔진에서 실제로 되는지 재봤습니다",
+          "link": "https://discuss.pytorch.kr/t/sql-db-46/12105"
+        },
+        {
+          "title": "허깅페이스 공인 벤치마크 리더보드 48개 전수 분석: 데이터 구조, 집계 방법, 그리고 숫자가 말해 주는 것",
+          "link": "https://discuss.pytorch.kr/t/topic/12099"
+        },
+        {
+          "title": "Jev 기반 추천 재순위화(Reranking)에 대한 실증 연구: 결정 지향 모델과 LLM 재순위화의 품질 및 지연 시간 비교",
+          "link": "https://discuss.pytorch.kr/t/jev-reranking-llm/12091"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-11/2026-10-11-weekly-pytorch-kr.mp3",
+      "size": 29288630
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-10",
       "kind": "daily",
       "catchup": false,
@@ -2208,37 +2323,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-04/2026-08-04-pytorch-kr.mp3",
       "size": 39896670
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-03",
-      "file": "2026-08-03-pytorch-kr.mp3",
-      "published": "2026-08-03T08:08:47+09:00",
-      "entries": [
-        {
-          "title": "deepsec: 대규모 코드베이스에 잠복한 취약점을 찾아내는 에이전트 기반 보안 하네스",
-          "link": "https://discuss.pytorch.kr/t/deepsec/11490"
-        },
-        {
-          "title": "구글 X 허깅페이스 주최 ' The Fast Gemma Challenge'(모델 추론 가속 대회), 한국 스타트업이 1위 기록",
-          "link": "https://discuss.pytorch.kr/t/x-the-fast-gemma-challenge-1/11497"
-        },
-        {
-          "title": "agents-cli: 코딩 어시스턴트를 Google Cloud 에이전트 개발 전문가로 만드는 CLI와 스킬",
-          "link": "https://discuss.pytorch.kr/t/agents-cli-google-cloud-cli/11491"
-        },
-        {
-          "title": "양자컴퓨터, GPU로 양자 AI 시뮬레이션을 만들어보다.",
-          "link": "https://discuss.pytorch.kr/t/gpu-ai/11495"
-        },
-        {
-          "title": "autoskills: 프로젝트 기술 스택을 감지해 AI 에이전트 스킬을 자동 설치하는 CLI",
-          "link": "https://discuss.pytorch.kr/t/autoskills-ai-cli/11489"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-03/2026-08-03-pytorch-kr.mp3",
-      "size": 28698238
     }
   ]
 }
