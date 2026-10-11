@@ -3,6 +3,33 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-12",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-11",
+      "period_end": "2026-10-12",
+      "file": "2026-10-12-pytorch-kr.mp3",
+      "published": "2026-10-12T08:32:22+09:00",
+      "entries": [
+        {
+          "title": "LLM-as-Jev: 범용 LLM을 학습 없이 Jev식 결정 모델로 쓰는 방법과 미세조정이 필요한 조건",
+          "link": "https://discuss.pytorch.kr/t/llm-as-jev-llm-jev/12129"
+        },
+        {
+          "title": "[프로젝트 소개] WITAN: 에이전트가 직접 잰 실측값과 데이터셋을 MCP로 찾아 쓰는 마켓 (테스트넷 베타)",
+          "link": "https://discuss.pytorch.kr/t/witan-mcp/12147"
+        },
+        {
+          "title": "Google의 TEE 기반 연합 학습(FL) 외부에서 검증 가능한 차등 프라이버시로 Gboard 모델 학습 사례 공유",
+          "link": "https://discuss.pytorch.kr/t/google-tee-fl-gboard/12135"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-12/2026-10-12-pytorch-kr.mp3",
+      "size": 25145541
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-11",
       "kind": "weekly",
       "catchup": false,
@@ -2288,41 +2315,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-05/2026-08-05-pytorch-kr.mp3",
       "size": 19103530
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-04",
-      "file": "2026-08-04-pytorch-kr.mp3",
-      "published": "2026-08-04T08:14:56+09:00",
-      "entries": [
-        {
-          "title": "TurboFieldfare: 8GB 맥북에서 Gemma 4 26B를 약 2GB 메모리로 돌리는 Swift 런타임",
-          "link": "https://discuss.pytorch.kr/t/turbofieldfare-8gb-gemma-4-26b-2gb-swift/11502"
-        },
-        {
-          "title": "Qwen, Max 계열 최초로 가중치를 공개하는 2.4T 규모 플래그십 모델 Qwen3.8-Max 출시 및 공개 예정",
-          "link": "https://discuss.pytorch.kr/t/qwen-max-2-4t-qwen3-8-max/11509"
-        },
-        {
-          "title": "SimpleMem: LLM 에이전트의 장기 기억을 압축해 토큰을 최대 30배 줄이는 메모리 프레임워크",
-          "link": "https://discuss.pytorch.kr/t/simplemem-llm-30/11501"
-        },
-        {
-          "title": "Codex Security: 취약점 탐지부터 검증, 패치까지 수행하는 OpenAI의 보안 스캔 CLI 및 SDK",
-          "link": "https://discuss.pytorch.kr/t/codex-security-openai-cli-sdk/11487"
-        },
-        {
-          "title": "darwin-skill: 평가와 회귀 테스트로 에이전트 스킬을 진화시키는 최적화 루프",
-          "link": "https://discuss.pytorch.kr/t/darwin-skill/11492"
-        },
-        {
-          "title": "[2026/07/27 ~ 08/02] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
-          "link": "https://discuss.pytorch.kr/t/2026-07-27-08-02-ai-ml/11499"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-04/2026-08-04-pytorch-kr.mp3",
-      "size": 39896670
     }
   ]
 }
