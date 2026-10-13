@@ -3,6 +3,41 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-14",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-13",
+      "period_end": "2026-10-14",
+      "file": "2026-10-14-pytorch-kr.mp3",
+      "published": "2026-10-14T08:45:34+09:00",
+      "entries": [
+        {
+          "title": "Vercel, 지난 6월 공개한 오픈소스 에이전트 프레임워크 eve를 기반으로 한 100개 이상의 사내 에이전트 운영 경험 공유",
+          "link": "https://discuss.pytorch.kr/t/vercel-6-eve-100/12139"
+        },
+        {
+          "title": "Muse Wonder, Meta가 출시한 장기 코딩 평가 1위 및 Claude Opus 5.5과 유사한 성능의 에이전트 모델",
+          "link": "https://discuss.pytorch.kr/t/muse-wonder-meta-1-claude-opus-5-5/12171"
+        },
+        {
+          "title": "a16z State of Markets II: 설비투자와 토큰 수요로 본 2026년 AI 시장 현황 [영문/PDF/90p]",
+          "link": "https://discuss.pytorch.kr/t/a16z-state-of-markets-ii-2026-ai-pdf-90p/12142"
+        },
+        {
+          "title": "Anthropic이 공개한, Claude 모델 평가 중 발생한 4가지 의도치 않은 행동들에 대한 모델 행동 보고서",
+          "link": "https://discuss.pytorch.kr/t/anthropic-claude-4/12165"
+        },
+        {
+          "title": "Unsloth, LLM을 Laya, Clef와 같인 Jev식 결정 모델을 미세조정하고 로컬에서 서빙하는 학습 가이드 공개",
+          "link": "https://discuss.pytorch.kr/t/unsloth-llm-laya-clef-jev/12158"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-14/2026-10-14-pytorch-kr.mp3",
+      "size": 50468106
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-13",
       "kind": "daily",
       "catchup": false,
@@ -2283,41 +2318,6 @@
         }
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-07/2026-08-07-pytorch-kr.mp3",
-      "size": 32292022
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-06",
-      "file": "2026-08-06-pytorch-kr.mp3",
-      "published": "2026-08-06T08:14:18+09:00",
-      "entries": [
-        {
-          "title": "Bento: HTML 파일 하나에 편집기까지 담아 AI 에이전트가 직접 수정하는 프레젠테이션 도구",
-          "link": "https://discuss.pytorch.kr/t/bento-html-ai/11515"
-        },
-        {
-          "title": "x402: AI 에이전트가 API와 MCP 도구 사용료를 스스로 지불하는 HTTP 결제 표준",
-          "link": "https://discuss.pytorch.kr/t/x402-ai-api-mcp-http/11513"
-        },
-        {
-          "title": "Thinking Machines Lab, 4분의 1 크기로 Inkling에 필적하는 Inkling-Small 공개",
-          "link": "https://discuss.pytorch.kr/t/thinking-machines-lab-4-1-inkling-inkling-small/11517"
-        },
-        {
-          "title": "Rapid-MLX: Apple Silicon 맥에서 로컬 LLM을 OpenAI 호환 서버로 띄우는 추론 엔진",
-          "link": "https://discuss.pytorch.kr/t/rapid-mlx-apple-silicon-llm-openai/11516"
-        },
-        {
-          "title": "esp32-ai: 파라미터 대부분을 플래시에 두고 ESP32-S3에서 28.9M 언어 모델을 돌리기",
-          "link": "https://discuss.pytorch.kr/t/esp32-ai-esp32-s3-28-9m/11519"
-        },
-        {
-          "title": "Instella-MoE: AMD Instinct GPU에서 처음부터 학습한 완전 오픈 16B MoE 모델",
-          "link": "https://discuss.pytorch.kr/t/instella-moe-amd-instinct-gpu-16b-moe/11518"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-06/2026-08-06-pytorch-kr.mp3",
       "size": 32292022
     }
   ]

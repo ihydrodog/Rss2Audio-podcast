@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 13 Oct 2026 10:55:35 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:45:34 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-10-14</title>
+      <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/vercel-6-eve-100/12139"&gt;Vercel, 지난 6월 공개한 오픈소스 에이전트 프레임워크 eve를 기반으로 한 100개 이상의 사내 에이전트 운영 경험 공유&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/muse-wonder-meta-1-claude-opus-5-5/12171"&gt;Muse Wonder, Meta가 출시한 장기 코딩 평가 1위 및 Claude Opus 5.5과 유사한 성능의 에이전트 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/a16z-state-of-markets-ii-2026-ai-pdf-90p/12142"&gt;a16z State of Markets II: 설비투자와 토큰 수요로 본 2026년 AI 시장 현황 [영문/PDF/90p]&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anthropic-claude-4/12165"&gt;Anthropic이 공개한, Claude 모델 평가 중 발생한 4가지 의도치 않은 행동들에 대한 모델 행동 보고서&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/unsloth-llm-laya-clef-jev/12158"&gt;Unsloth, LLM을 Laya, Clef와 같인 Jev식 결정 모델을 미세조정하고 로컬에서 서빙하는 학습 가이드 공개&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 08:45:34 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-14/2026-10-14-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-14/2026-10-14-pytorch-kr.mp3" length="50468106" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-10-13</title>
       <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/microsoft-jev-api-microsoft-decision-1-1m-0-042/12140"&gt;Microsoft, Jev 호환 API의 결정 모델 Microsoft-Decision-1 출시 (입력 1M 토큰당 $0.042)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/oecd-25-ai-pdf-36p/12148"&gt;OECD, 25개 조직 인터뷰로 본 에이전틱 AI 도입 현황: 자율성을 제한 없이 맡긴 곳은 없었다 [영문/PDF/36p]&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/guidellm-v0-8-0-slo-feat-vllm/12149"&gt;GuideLLM v0.8.0 공개, 지연 SLO를 지키는 최대 동시성 탐색과 에이전트 트레이스 재생 (feat. vLLM)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/rea-ghidra-ida-mcp/12150"&gt;REA: Ghidra와 IDA 같은 분석 도구를 하나의 MCP로 묶어 코딩 에이전트에 연결하는 리버스 엔지니어링 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/2026-10-05-11-ai-ml/12155"&gt;[2026/10/05 ~ 11] 이번 주에 살펴볼 만한 AI/ML 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Fri, 07 Aug 2026 10:41:45 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-07/2026-08-07-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-07/2026-08-07-pytorch-kr.mp3" length="32292022" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-08-06</title>
-      <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/bento-html-ai/11515"&gt;Bento: HTML 파일 하나에 편집기까지 담아 AI 에이전트가 직접 수정하는 프레젠테이션 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/x402-ai-api-mcp-http/11513"&gt;x402: AI 에이전트가 API와 MCP 도구 사용료를 스스로 지불하는 HTTP 결제 표준&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/thinking-machines-lab-4-1-inkling-inkling-small/11517"&gt;Thinking Machines Lab, 4분의 1 크기로 Inkling에 필적하는 Inkling-Small 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/rapid-mlx-apple-silicon-llm-openai/11516"&gt;Rapid-MLX: Apple Silicon 맥에서 로컬 LLM을 OpenAI 호환 서버로 띄우는 추론 엔진&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/esp32-ai-esp32-s3-28-9m/11519"&gt;esp32-ai: 파라미터 대부분을 플래시에 두고 ESP32-S3에서 28.9M 언어 모델을 돌리기&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/instella-moe-amd-instinct-gpu-16b-moe/11518"&gt;Instella-MoE: AMD Instinct GPU에서 처음부터 학습한 완전 오픈 16B MoE 모델&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 08:14:18 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-06/2026-08-06-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-06/2026-08-06-pytorch-kr.mp3" length="32292022" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
