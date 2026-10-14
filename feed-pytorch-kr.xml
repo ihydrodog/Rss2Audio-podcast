@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 14 Oct 2026 08:45:34 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 08:05:27 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-10-15</title>
+      <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/juud-engine-strata-cpu-rtx-4090/12187"&gt;[프로젝트 소개] Juud_engine: Strata의 CPU 디코딩 옵션과 RTX 4090 재현 실험&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai2-gpu-gpu-p90-2-30/12164"&gt;Ai2의 GPU 인프라 개선 사례: GPU 클러스터 스케줄러를 개선하여 디버그 작업 p90 대기 시간을 대폭 개선 (2시간 → 30초)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/rsi-anything/12175"&gt;RSI-Anything: 월드 모델로 후보를 고르고 검증된 업데이트만 남기는 재귀적 자기 개선 프레임워크에 대한 연구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/npu-vkore-46m-npu/12184"&gt;추론 전용 NPU에서 역전파로 &amp;#x27;밑바닥부터&amp;#x27; 사전학습했다는 모델: VKORE-46M-NPU 모델카드 뜯어보기&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/awesome-reverse-engineering-mcp/12172"&gt;Awesome Reverse Engineering: MCP 서버까지 작업별로 정리한 리버스 엔지니어링 도구 목록&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/replayssm-ssm-nvidia/12174"&gt;ReplaySSM: 상태-공간 모델(SSM)의 상태 쓰기를 줄여 하이브리드 모델 디코딩을 가속하는 NVIDIA 블로그 글 정리&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 08:05:27 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-15/2026-10-15-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-15/2026-10-15-pytorch-kr.mp3" length="33544523" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-10-14</title>
       <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/vercel-6-eve-100/12139"&gt;Vercel, 지난 6월 공개한 오픈소스 에이전트 프레임워크 eve를 기반으로 한 100개 이상의 사내 에이전트 운영 경험 공유&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/muse-wonder-meta-1-claude-opus-5-5/12171"&gt;Muse Wonder, Meta가 출시한 장기 코딩 평가 1위 및 Claude Opus 5.5과 유사한 성능의 에이전트 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/a16z-state-of-markets-ii-2026-ai-pdf-90p/12142"&gt;a16z State of Markets II: 설비투자와 토큰 수요로 본 2026년 AI 시장 현황 [영문/PDF/90p]&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anthropic-claude-4/12165"&gt;Anthropic이 공개한, Claude 모델 평가 중 발생한 4가지 의도치 않은 행동들에 대한 모델 행동 보고서&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/unsloth-llm-laya-clef-jev/12158"&gt;Unsloth, LLM을 Laya, Clef와 같인 Jev식 결정 모델을 미세조정하고 로컬에서 서빙하는 학습 가이드 공개&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Sat, 08 Aug 2026 07:47:10 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-08/2026-08-08-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-08/2026-08-08-pytorch-kr.mp3" length="32576760" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-08-07</title>
-      <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/comp-ai-crm-crm/11538"&gt;Comp AI CRM: 에이전트가 스스로 조사하고 근거가 있는 사실만 기록하는 오픈소스 CRM&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/archify/11536"&gt;Archify: 코드베이스를 검증된 대화형 시스템 맵으로 바꾸는 에이전트 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/diffusiongemma-gemma-4/11526"&gt;DiffusionGemma 기술 문서 리뷰: 자기회귀 Gemma 4를 이산 확산 모델로 변환한 초고속 텍스트 생성에 대한 연구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/mistral-3b-shieldstral/11532"&gt;Mistral, 추론 시점에 정책을 바꾸는 3B 규모의 멀티모달 안전성 분류 모델 Shieldstral 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/deepseek-v4-flash-task-0-027/11533"&gt;DeepSeek-V4-Flash 정식 버전 출시, 성능은 좋아지면서 가격은 낮아진 모델 (Task당 약 $0.027)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai-kisa-llm-21-pdf-231p/11534"&gt;AI 보안 위협 대응 매뉴얼: 과기정통부와 KISA가 정리한 LLM 시스템 위협 21종에 대한 대응 매뉴얼 [국문/PDF/231p]&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 10:41:45 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-07/2026-08-07-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-07/2026-08-07-pytorch-kr.mp3" length="32292022" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
