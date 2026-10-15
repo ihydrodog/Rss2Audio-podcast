@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 15 Oct 2026 08:05:27 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:00:30 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-10-16</title>
+      <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/liquid-ai-2b-moe-lfm2-5-24b-a2b-feat-hermes-agent/12188"&gt;Liquid AI, 활성 2B로 로컬 에이전트를 돌리는 MoE 추론 모델 LFM2.5-24B-A2B 공개 (feat. Hermes Agent)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/dmis-lm-32k-ultrabert/12199"&gt;고려대 DMIS 연구실, 마스킹 비율마다 LM 헤드를 나눠 분류와 검색을 함께 잡은 32K 인코더 UltraBERT 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/studentsim-ai-microsoft/12173"&gt;StudentSim: 개별 학생을 흉내내는 시뮬레이터로 AI 튜터를 검증하는 방법에 대한 Microsoft의 연구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/mass-multi-agent-self-supervision-rsi-feat-sakanaai/12176"&gt;MASS(Multi-Agent Self-Supervision): 자신을 복제한 에이전트 팀의 작업 궤적으로 학습하는 재귀적 자기 개선(RSI)에 대한 연구 (feat. SakanaAI)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 08:00:30 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-16/2026-10-16-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-16/2026-10-16-pytorch-kr.mp3" length="32401090" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-10-15</title>
       <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/juud-engine-strata-cpu-rtx-4090/12187"&gt;[프로젝트 소개] Juud_engine: Strata의 CPU 디코딩 옵션과 RTX 4090 재현 실험&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai2-gpu-gpu-p90-2-30/12164"&gt;Ai2의 GPU 인프라 개선 사례: GPU 클러스터 스케줄러를 개선하여 디버그 작업 p90 대기 시간을 대폭 개선 (2시간 → 30초)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/rsi-anything/12175"&gt;RSI-Anything: 월드 모델로 후보를 고르고 검증된 업데이트만 남기는 재귀적 자기 개선 프레임워크에 대한 연구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/npu-vkore-46m-npu/12184"&gt;추론 전용 NPU에서 역전파로 &amp;#x27;밑바닥부터&amp;#x27; 사전학습했다는 모델: VKORE-46M-NPU 모델카드 뜯어보기&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/awesome-reverse-engineering-mcp/12172"&gt;Awesome Reverse Engineering: MCP 서버까지 작업별로 정리한 리버스 엔지니어링 도구 목록&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/replayssm-ssm-nvidia/12174"&gt;ReplaySSM: 상태-공간 모델(SSM)의 상태 쓰기를 줄여 하이브리드 모델 디코딩을 가속하는 NVIDIA 블로그 글 정리&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Sun, 09 Aug 2026 07:39:20 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-09/2026-08-09-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-09/2026-08-09-pytorch-kr.mp3" length="30336326" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-08-08</title>
-      <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/kisa-ai-ai-pdf-69p/11535"&gt;과기정통부와 KISA가 발간한 AI 보안 레드티밍 가이드, AI 레드팀 구성부터 결과 보고까지 [국문/PDF/69p]&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/prime-intellect-prime-agent/11544"&gt;Prime Intellect, 컨텍스트를 변수로 다루는 자기개선형 코딩 에이전트 Prime Agent 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/seedance-2-5-181-5-8/11558"&gt;Seedance 2.5 프롬프트 분석: 181개 공개 사례에서 찾은 5가지 표현 구조와 8가지 제어 전략&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/cloudflare-os-cloudflare-ai/11545"&gt;Cloudflare OS: Cloudflare 오픈소스로 공개한 사내 AI 에이전트 워크스페이스 도구 (및 커뮤니티 의견들)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/mixture-of-kittens-cursor-nvl72-moe/11548"&gt;Mixture-of-Kittens: Cursor가 새로 공개한 NVL72용 MoE 학습 메가커널&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/logocreator/11537"&gt;LogoCreator: 브랜드 이름만 넣으면 로고와 브랜드 키트가 나오는 오픈소스 웹 앱&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/liquid-ai-lfm2-5-2-6b/11549"&gt;Liquid AI, 휴대폰에서 실행 가능한 온-디바이스 에이전트 모델 LFM2.5-2.6B 공개&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Sat, 08 Aug 2026 07:47:10 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-08/2026-08-08-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-08/2026-08-08-pytorch-kr.mp3" length="32576760" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
