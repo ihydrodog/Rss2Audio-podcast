@@ -3,6 +3,45 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-17",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-16",
+      "period_end": "2026-10-17",
+      "file": "2026-10-17-pytorch-kr.mp3",
+      "published": "2026-10-17T07:34:41+09:00",
+      "entries": [
+        {
+          "title": "Strata: 12GB 그래픽카드 PC에서 125B 모델 Qwen3.8-Flash-Next만을 위해 만든 추론 엔진",
+          "link": "https://discuss.pytorch.kr/t/strata-12gb-pc-125b-qwen3-8-flash-next/12189"
+        },
+        {
+          "title": "DigUp: EmbeddingGemma 2 모델로 사진, PDF, 녹음, 영상 속 내용을 문장으로 찾는 (macOS의 Spotlight와 같은) 로컬 파일 검색 앱 🔍",
+          "link": "https://discuss.pytorch.kr/t/digup-embeddinggemma-2-pdf-macos-spotlight/12205"
+        },
+        {
+          "title": "텍스트 레이어가 있는 문서까지 VLM 파서로 처리해야 할까? - CPU 기반 네이티브 추출로 RAG 문서 파싱하기 (feat. PyMuPDF Pro)",
+          "link": "https://discuss.pytorch.kr/t/vlm-cpu-rag-feat-pymupdf-pro/12211"
+        },
+        {
+          "title": "Meta, Mac Studio 두 대에서 돌아가는 816B 오픈 웨이트 모델 Muse Spark Open 공개 (feat. MLX)",
+          "link": "https://discuss.pytorch.kr/t/meta-mac-studio-816b-muse-spark-open-feat-mlx/12209"
+        },
+        {
+          "title": "AI-DLC: Claude Code와 Codex 등에서 요구사항부터 배포까지 진행하며, 필요한 경우 사람 승인 단계를 강제하는 워크플로우 (feat. AWS)",
+          "link": "https://discuss.pytorch.kr/t/ai-dlc-claude-code-codex-feat-aws/12204"
+        },
+        {
+          "title": "VideoJev: 답을 생성하는 대신 후보를 채점해 비디오 구간 찾기와 객관식 QA를 푸는 System One 모델 공개",
+          "link": "https://discuss.pytorch.kr/t/videojev-qa-system-one/12203"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-17/2026-10-17-pytorch-kr.mp3",
+      "size": 31727776
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-16",
       "kind": "daily",
       "catchup": false,
@@ -2296,25 +2335,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-10/2026-08-10-pytorch-kr.mp3",
       "size": 32907814
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-09",
-      "file": "2026-08-09-pytorch-kr.mp3",
-      "published": "2026-08-09T07:39:20+09:00",
-      "entries": [
-        {
-          "title": "[GN⁺] LLM은 ‘점프’할 수 없다: Einstein의 등가원리와 귀추(abduction)",
-          "link": "https://discuss.pytorch.kr/t/gn-llm-einstein-abduction/11551"
-        },
-        {
-          "title": "SeedRealtime: ByteDance Seed의 보면서 듣고 말하는 전이중(Full-Duplex) 모델",
-          "link": "https://discuss.pytorch.kr/t/seedrealtime-bytedance-seed-full-duplex/11561"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-09/2026-08-09-pytorch-kr.mp3",
-      "size": 30336326
     }
   ]
 }
