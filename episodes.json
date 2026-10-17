@@ -3,6 +3,121 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-18",
+      "kind": "weekly",
+      "catchup": false,
+      "period_start": "2026-10-11",
+      "period_end": "2026-10-18",
+      "file": "2026-10-18-weekly-pytorch-kr.mp3",
+      "published": "2026-10-18T07:08:18+09:00",
+      "entries": [
+        {
+          "title": "MAI-Base-2 사전학습 레시피: Microsoft AI가 공개한, DeepSeek-V4-Pro-Base보다 4~12배 효율적이라는 2.8T MoE 모델의 사전학습 방법",
+          "link": "https://discuss.pytorch.kr/t/mai-base-2-microsoft-ai-deepseek-v4-pro-base-4-12-2-8t-moe/12210"
+        },
+        {
+          "title": "vLLM과 SGLang 중 무엇을 골라야 할까? Red Hat이 공개한 PagedAttention과 RadixAttention의 차이와 벤치마크 해석법",
+          "link": "https://discuss.pytorch.kr/t/vllm-sglang-red-hat-pagedattention-radixattention/12212"
+        },
+        {
+          "title": "Strata: 12GB 그래픽카드 PC에서 125B 모델 Qwen3.8-Flash-Next만을 위해 만든 추론 엔진",
+          "link": "https://discuss.pytorch.kr/t/strata-12gb-pc-125b-qwen3-8-flash-next/12189"
+        },
+        {
+          "title": "DigUp: EmbeddingGemma 2 모델로 사진, PDF, 녹음, 영상 속 내용을 문장으로 찾는 (macOS의 Spotlight와 같은) 로컬 파일 검색 앱 🔍",
+          "link": "https://discuss.pytorch.kr/t/digup-embeddinggemma-2-pdf-macos-spotlight/12205"
+        },
+        {
+          "title": "텍스트 레이어가 있는 문서까지 VLM 파서로 처리해야 할까? - CPU 기반 네이티브 추출로 RAG 문서 파싱하기 (feat. PyMuPDF Pro)",
+          "link": "https://discuss.pytorch.kr/t/vlm-cpu-rag-feat-pymupdf-pro/12211"
+        },
+        {
+          "title": "Meta, Mac Studio 두 대에서 돌아가는 816B 오픈 웨이트 모델 Muse Spark Open 공개 (feat. MLX)",
+          "link": "https://discuss.pytorch.kr/t/meta-mac-studio-816b-muse-spark-open-feat-mlx/12209"
+        },
+        {
+          "title": "AI-DLC: Claude Code와 Codex 등에서 요구사항부터 배포까지 진행하며, 필요한 경우 사람 승인 단계를 강제하는 워크플로우 (feat. AWS)",
+          "link": "https://discuss.pytorch.kr/t/ai-dlc-claude-code-codex-feat-aws/12204"
+        },
+        {
+          "title": "VideoJev: 답을 생성하는 대신 후보를 채점해 비디오 구간 찾기와 객관식 QA를 푸는 System One 모델 공개",
+          "link": "https://discuss.pytorch.kr/t/videojev-qa-system-one/12203"
+        },
+        {
+          "title": "Liquid AI, 활성 2B로 로컬 에이전트를 돌리는 MoE 추론 모델 LFM2.5-24B-A2B 공개 (feat. Hermes Agent)",
+          "link": "https://discuss.pytorch.kr/t/liquid-ai-2b-moe-lfm2-5-24b-a2b-feat-hermes-agent/12188"
+        },
+        {
+          "title": "고려대 DMIS 연구실, 마스킹 비율마다 LM 헤드를 나눠 분류와 검색을 함께 잡은 32K 인코더 UltraBERT 공개",
+          "link": "https://discuss.pytorch.kr/t/dmis-lm-32k-ultrabert/12199"
+        },
+        {
+          "title": "StudentSim: 개별 학생을 흉내내는 시뮬레이터로 AI 튜터를 검증하는 방법에 대한 Microsoft의 연구",
+          "link": "https://discuss.pytorch.kr/t/studentsim-ai-microsoft/12173"
+        },
+        {
+          "title": "MASS(Multi-Agent Self-Supervision): 자신을 복제한 에이전트 팀의 작업 궤적으로 학습하는 재귀적 자기 개선(RSI)에 대한 연구 (feat. SakanaAI)",
+          "link": "https://discuss.pytorch.kr/t/mass-multi-agent-self-supervision-rsi-feat-sakanaai/12176"
+        },
+        {
+          "title": "[프로젝트 소개] Juud_engine: Strata의 CPU 디코딩 옵션과 RTX 4090 재현 실험",
+          "link": "https://discuss.pytorch.kr/t/juud-engine-strata-cpu-rtx-4090/12187"
+        },
+        {
+          "title": "Ai2의 GPU 인프라 개선 사례: GPU 클러스터 스케줄러를 개선하여 디버그 작업 p90 대기 시간을 대폭 개선 (2시간 → 30초)",
+          "link": "https://discuss.pytorch.kr/t/ai2-gpu-gpu-p90-2-30/12164"
+        },
+        {
+          "title": "RSI-Anything: 월드 모델로 후보를 고르고 검증된 업데이트만 남기는 재귀적 자기 개선 프레임워크에 대한 연구",
+          "link": "https://discuss.pytorch.kr/t/rsi-anything/12175"
+        },
+        {
+          "title": "추론 전용 NPU에서 역전파로 '밑바닥부터' 사전학습했다는 모델: VKORE-46M-NPU 모델카드 뜯어보기",
+          "link": "https://discuss.pytorch.kr/t/npu-vkore-46m-npu/12184"
+        },
+        {
+          "title": "Awesome Reverse Engineering: MCP 서버까지 작업별로 정리한 리버스 엔지니어링 도구 목록",
+          "link": "https://discuss.pytorch.kr/t/awesome-reverse-engineering-mcp/12172"
+        },
+        {
+          "title": "ReplaySSM: 상태-공간 모델(SSM)의 상태 쓰기를 줄여 하이브리드 모델 디코딩을 가속하는 NVIDIA 블로그 글 정리",
+          "link": "https://discuss.pytorch.kr/t/replayssm-ssm-nvidia/12174"
+        },
+        {
+          "title": "Vercel, 지난 6월 공개한 오픈소스 에이전트 프레임워크 eve를 기반으로 한 100개 이상의 사내 에이전트 운영 경험 공유",
+          "link": "https://discuss.pytorch.kr/t/vercel-6-eve-100/12139"
+        },
+        {
+          "title": "Muse Wonder, Meta가 출시한 장기 코딩 평가 1위 및 Claude Opus 5.5과 유사한 성능의 에이전트 모델",
+          "link": "https://discuss.pytorch.kr/t/muse-wonder-meta-1-claude-opus-5-5/12171"
+        },
+        {
+          "title": "a16z State of Markets II: 설비투자와 토큰 수요로 본 2026년 AI 시장 현황 [영문/PDF/90p]",
+          "link": "https://discuss.pytorch.kr/t/a16z-state-of-markets-ii-2026-ai-pdf-90p/12142"
+        },
+        {
+          "title": "Anthropic이 공개한, Claude 모델 평가 중 발생한 4가지 의도치 않은 행동들에 대한 모델 행동 보고서",
+          "link": "https://discuss.pytorch.kr/t/anthropic-claude-4/12165"
+        },
+        {
+          "title": "Unsloth, LLM을 Laya, Clef와 같인 Jev식 결정 모델을 미세조정하고 로컬에서 서빙하는 학습 가이드 공개",
+          "link": "https://discuss.pytorch.kr/t/unsloth-llm-laya-clef-jev/12158"
+        },
+        {
+          "title": "Microsoft, Jev 호환 API의 결정 모델 Microsoft-Decision-1 출시 (입력 1M 토큰당 $0.042)",
+          "link": "https://discuss.pytorch.kr/t/microsoft-jev-api-microsoft-decision-1-1m-0-042/12140"
+        },
+        {
+          "title": "OECD, 25개 조직 인터뷰로 본 에이전틱 AI 도입 현황: 자율성을 제한 없이 맡긴 곳은 없었다 [영문/PDF/36p]",
+          "link": "https://discuss.pytorch.kr/t/oecd-25-ai-pdf-36p/12148"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-18/2026-10-18-weekly-pytorch-kr.mp3",
+      "size": 38204679
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-17",
       "kind": "daily",
       "catchup": false,
@@ -2308,33 +2423,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-11/2026-08-11-pytorch-kr.mp3",
       "size": 32592448
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-10",
-      "file": "2026-08-10-pytorch-kr.mp3",
-      "published": "2026-08-10T07:43:06+09:00",
-      "entries": [
-        {
-          "title": "FBTriton 인프라: 업스트림 반영, 계층적 검증, 이상과 현실 | 파이토치 한국 사용자 모임",
-          "link": "https://discuss.pytorch.kr/t/fbtriton/11576"
-        },
-        {
-          "title": "Model DNA 심층 분석 — 공개 아티팩트만으로 LLM '밑바닥 학습'을 검증할 수 있는가 (아키텍처·토크나이저·CKA, PyTorch 재현)",
-          "link": "https://discuss.pytorch.kr/t/model-dna-llm-cka-pytorch/11569"
-        },
-        {
-          "title": "anydoc: 오피스 문서를 LLM이 읽을 Markdown으로 5밀리초 안에 바꾸는 Rust 라이브러리",
-          "link": "https://discuss.pytorch.kr/t/anydoc-llm-markdown-5-rust/11552"
-        },
-        {
-          "title": "Meta, 터미널 코딩 에이전트 Muse Code와 코딩 특화 모델 Muse Spark 1.2 출시",
-          "link": "https://discuss.pytorch.kr/t/meta-muse-code-muse-spark-1-2/11554"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-10/2026-08-10-pytorch-kr.mp3",
-      "size": 32907814
     }
   ]
 }
