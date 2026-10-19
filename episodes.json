@@ -3,6 +3,45 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-20",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-19",
+      "period_end": "2026-10-20",
+      "file": "2026-10-20-pytorch-kr.mp3",
+      "published": "2026-10-20T08:27:27+09:00",
+      "entries": [
+        {
+          "title": "LeanREA: REA의 MCP 도구 207개 대신 8KB 스킬 파일 하나로 리버스 엔지니어링을 안내하는 에이전트 스킬 (≠ REA 공식 경량판)",
+          "link": "https://discuss.pytorch.kr/t/leanrea-rea-mcp-207-8kb-rea/12233"
+        },
+        {
+          "title": "[프로젝트 소개] AI 코딩 에이전트의 작업 결과를 웹과 Git에서 확인하는 Orke",
+          "link": "https://discuss.pytorch.kr/t/ai-git-orke/12246"
+        },
+        {
+          "title": "2030년까지 AI의 발전 기대에 대한 차이 연구: 노벨상급 발견, 노동 시장 등에 AI가 미칠 영향에 대한 인식 차이 [영문/PDF/16p]",
+          "link": "https://discuss.pytorch.kr/t/2030-ai-ai-pdf-16p/12228"
+        },
+        {
+          "title": "[프로젝트 소개] APIGOTO: OpenAI Python SDK에서 base_url만 바꿔 여러 모델을 같은 코드로 비교하기",
+          "link": "https://discuss.pytorch.kr/t/apigoto-openai-python-sdk-base-url/12241"
+        },
+        {
+          "title": "Claudemy: 주제 하나로 웹을 조사해 출처가 달린 2분 오디오 강의를 만드는 Claude Code 스킬",
+          "link": "https://discuss.pytorch.kr/t/claudemy-2-claude-code/12234"
+        },
+        {
+          "title": "[2026/10/12 ~ 18] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+          "link": "https://discuss.pytorch.kr/t/2026-10-12-18-ai-ml/12236"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-20/2026-10-20-pytorch-kr.mp3",
+      "size": 52340017
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-19",
       "kind": "daily",
       "catchup": false,
@@ -2392,25 +2431,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-13/2026-08-13-pytorch-kr.mp3",
       "size": 25880858
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-12",
-      "file": "2026-08-12-pytorch-kr.mp3",
-      "published": "2026-08-12T07:54:06+09:00",
-      "entries": [
-        {
-          "title": "ai-knowledge-graph: 비정형 텍스트에서 지식 그래프를 뽑아 시각화하는 파이썬 도구",
-          "link": "https://discuss.pytorch.kr/t/ai-knowledge-graph/11583"
-        },
-        {
-          "title": "Lucebox: 추측 디코딩과 전용 커널로 소비자용 GPU의 LLM 추론을 끌어올리는 서버",
-          "link": "https://discuss.pytorch.kr/t/lucebox-gpu-llm/11584"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-12/2026-08-12-pytorch-kr.mp3",
-      "size": 37176406
     }
   ]
 }
