@@ -3,6 +3,45 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-21",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-20",
+      "period_end": "2026-10-21",
+      "file": "2026-10-21-pytorch-kr.mp3",
+      "published": "2026-10-21T08:03:26+09:00",
+      "entries": [
+        {
+          "title": "Helion으로 고성능이면서 이식 가능한 vLLM 선형 백엔드 구축하기 | 파이토치 한국 사용자 모임",
+          "link": "https://discuss.pytorch.kr/t/helion-vllm/12249"
+        },
+        {
+          "title": "LLM 에이전트의 외부화(Externalization)에 대한 리뷰 논문 (2/2): 프로토콜과 하네스 엔지니어링, 남은 과제",
+          "link": "https://discuss.pytorch.kr/t/llm-externalization-2-2/12178"
+        },
+        {
+          "title": "LLM 에이전트의 외부화(Externalization)에 대한 리뷰 논문 (1/2): 가중치에서 하네스로, 메모리와 스킬",
+          "link": "https://discuss.pytorch.kr/t/llm-externalization-1-2/12177"
+        },
+        {
+          "title": "Traceway: LLM 호출 비용까지 추적하고 AI 에이전트가 직접 조회하는 셀프 호스팅 관측 플랫폼",
+          "link": "https://discuss.pytorch.kr/t/traceway-llm-ai/12232"
+        },
+        {
+          "title": "[오픈소스] 하네스 논문 세 편을 에이전트 하나로 묶어 봤습니다: LongHarness + Harmony Harness + Harness² 경량 구현 (비공식)",
+          "link": "https://discuss.pytorch.kr/t/longharness-harmony-harness-harness/12248"
+        },
+        {
+          "title": "Anthropic 사내 고용 변화: 주니어 기술직 채용 27%에서 9%로, 에이전트 작업은 사람의 6배 [영문/PDF/20p]",
+          "link": "https://discuss.pytorch.kr/t/anthropic-27-9-6-pdf-20p/12227"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-21/2026-10-21-pytorch-kr.mp3",
+      "size": 29333453
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-20",
       "kind": "daily",
       "catchup": false,
@@ -2396,41 +2435,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-14/2026-08-14-pytorch-kr.mp3",
       "size": 60879559
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-13",
-      "file": "2026-08-13-pytorch-kr.mp3",
-      "published": "2026-08-13T07:51:50+09:00",
-      "entries": [
-        {
-          "title": "How to Train Your GPT: LLaMA 3 구조를 밑바닥부터 구현하며 배우는 LLM의 원리와 동작",
-          "link": "https://discuss.pytorch.kr/t/how-to-train-your-gpt-llama-3-llm/11599"
-        },
-        {
-          "title": "WARP: 2.78조 파라미터 Kimi K3를 64GB 맥북에서 실행하는 C 기반 추론 엔진",
-          "link": "https://discuss.pytorch.kr/t/warp-2-78-kimi-k3-64gb-c/11601"
-        },
-        {
-          "title": "Qwen Audio Agent: 작업하는 동안에도 대화가 끊기지 않는 실시간 음성 에이전트 런타임",
-          "link": "https://discuss.pytorch.kr/t/qwen-audio-agent/11600"
-        },
-        {
-          "title": "SIE: 에이전트가 쓰는 임베딩부터 OCR까지 한 클러스터에서 서빙하는 오픈소스 추론 엔진",
-          "link": "https://discuss.pytorch.kr/t/sie-ocr/11597"
-        },
-        {
-          "title": "kimi-k3-in-c: 2.78조 파라미터 모델을 GPU 없이 8GB 램에서 돌리는 C99 추론 엔진",
-          "link": "https://discuss.pytorch.kr/t/kimi-k3-in-c-2-78-gpu-8gb-c99/11574"
-        },
-        {
-          "title": "interfaces: 코딩 에이전트가 UI를 도메인별로 검토하게 만드는 8개 스킬",
-          "link": "https://discuss.pytorch.kr/t/interfaces-ui-8/11582"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-13/2026-08-13-pytorch-kr.mp3",
-      "size": 25880858
     }
   ]
 }

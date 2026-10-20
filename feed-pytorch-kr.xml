@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 20 Oct 2026 08:27:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:03:26 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-10-21</title>
+      <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/helion-vllm/12249"&gt;Helion으로 고성능이면서 이식 가능한 vLLM 선형 백엔드 구축하기 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/llm-externalization-2-2/12178"&gt;LLM 에이전트의 외부화(Externalization)에 대한 리뷰 논문 (2/2): 프로토콜과 하네스 엔지니어링, 남은 과제&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/llm-externalization-1-2/12177"&gt;LLM 에이전트의 외부화(Externalization)에 대한 리뷰 논문 (1/2): 가중치에서 하네스로, 메모리와 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/traceway-llm-ai/12232"&gt;Traceway: LLM 호출 비용까지 추적하고 AI 에이전트가 직접 조회하는 셀프 호스팅 관측 플랫폼&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/longharness-harmony-harness-harness/12248"&gt;[오픈소스] 하네스 논문 세 편을 에이전트 하나로 묶어 봤습니다: LongHarness + Harmony Harness + Harness² 경량 구현 (비공식)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anthropic-27-9-6-pdf-20p/12227"&gt;Anthropic 사내 고용 변화: 주니어 기술직 채용 27%에서 9%로, 에이전트 작업은 사람의 6배 [영문/PDF/20p]&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 08:03:26 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-21/2026-10-21-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-21/2026-10-21-pytorch-kr.mp3" length="29333453" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-10-20</title>
       <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/leanrea-rea-mcp-207-8kb-rea/12233"&gt;LeanREA: REA의 MCP 도구 207개 대신 8KB 스킬 파일 하나로 리버스 엔지니어링을 안내하는 에이전트 스킬 (≠ REA 공식 경량판)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai-git-orke/12246"&gt;[프로젝트 소개] AI 코딩 에이전트의 작업 결과를 웹과 Git에서 확인하는 Orke&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/2030-ai-ai-pdf-16p/12228"&gt;2030년까지 AI의 발전 기대에 대한 차이 연구: 노벨상급 발견, 노동 시장 등에 AI가 미칠 영향에 대한 인식 차이 [영문/PDF/16p]&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/apigoto-openai-python-sdk-base-url/12241"&gt;[프로젝트 소개] APIGOTO: OpenAI Python SDK에서 base_url만 바꿔 여러 모델을 같은 코드로 비교하기&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/claudemy-2-claude-code/12234"&gt;Claudemy: 주제 하나로 웹을 조사해 출처가 달린 2분 오디오 강의를 만드는 Claude Code 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/2026-10-12-18-ai-ml/12236"&gt;[2026/10/12 ~ 18] 이번 주에 살펴볼 만한 AI/ML 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Fri, 14 Aug 2026 07:58:05 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-14/2026-08-14-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-14/2026-08-14-pytorch-kr.mp3" length="60879559" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-08-13</title>
-      <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/how-to-train-your-gpt-llama-3-llm/11599"&gt;How to Train Your GPT: LLaMA 3 구조를 밑바닥부터 구현하며 배우는 LLM의 원리와 동작&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/warp-2-78-kimi-k3-64gb-c/11601"&gt;WARP: 2.78조 파라미터 Kimi K3를 64GB 맥북에서 실행하는 C 기반 추론 엔진&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/qwen-audio-agent/11600"&gt;Qwen Audio Agent: 작업하는 동안에도 대화가 끊기지 않는 실시간 음성 에이전트 런타임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/sie-ocr/11597"&gt;SIE: 에이전트가 쓰는 임베딩부터 OCR까지 한 클러스터에서 서빙하는 오픈소스 추론 엔진&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/kimi-k3-in-c-2-78-gpu-8gb-c99/11574"&gt;kimi-k3-in-c: 2.78조 파라미터 모델을 GPU 없이 8GB 램에서 돌리는 C99 추론 엔진&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/interfaces-ui-8/11582"&gt;interfaces: 코딩 에이전트가 UI를 도메인별로 검토하게 만드는 8개 스킬&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 07:51:50 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-13/2026-08-13-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-13/2026-08-13-pytorch-kr.mp3" length="25880858" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
