@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 21 Oct 2026 08:03:26 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:09:34 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-10-22</title>
+      <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/google-willow-40/12229"&gt;Google, Willow 양자 프로세서에서 매직 상태 배양에 대한 실험하여 오류를 40배 감소하는 결과 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/gitai-rebase-git-anthropic-scion/12235"&gt;gitai: 한 브랜치에 몰린 코딩 에이전트들의 변경을 서버가 대신 rebase해 반영하는 Git 서버 (Anthropic Scion 설계 참고)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/tinytorch-pytorch-import/12251"&gt;TinyTorch: PyTorch를 import만 하지 말고, 직접 만들어 보세요 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/harness-feat-google/12231"&gt;Harness²: 정답 라벨 없이 작업마다 에이전트 하네스를 고치고, 그 경험을 다음 작업에 넘기는 프레임워크 (feat. Google)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 08:09:34 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-22/2026-10-22-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-22/2026-10-22-pytorch-kr.mp3" length="42226002" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-10-21</title>
       <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/helion-vllm/12249"&gt;Helion으로 고성능이면서 이식 가능한 vLLM 선형 백엔드 구축하기 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/llm-externalization-2-2/12178"&gt;LLM 에이전트의 외부화(Externalization)에 대한 리뷰 논문 (2/2): 프로토콜과 하네스 엔지니어링, 남은 과제&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/llm-externalization-1-2/12177"&gt;LLM 에이전트의 외부화(Externalization)에 대한 리뷰 논문 (1/2): 가중치에서 하네스로, 메모리와 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/traceway-llm-ai/12232"&gt;Traceway: LLM 호출 비용까지 추적하고 AI 에이전트가 직접 조회하는 셀프 호스팅 관측 플랫폼&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/longharness-harmony-harness-harness/12248"&gt;[오픈소스] 하네스 논문 세 편을 에이전트 하나로 묶어 봤습니다: LongHarness + Harmony Harness + Harness² 경량 구현 (비공식)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anthropic-27-9-6-pdf-20p/12227"&gt;Anthropic 사내 고용 변화: 주니어 기술직 채용 27%에서 9%로, 에이전트 작업은 사람의 6배 [영문/PDF/20p]&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Sat, 15 Aug 2026 07:34:53 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-15/2026-08-15-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-15/2026-08-15-pytorch-kr.mp3" length="31385516" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-08-14</title>
-      <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/9arm-skills-claude-code/11605"&gt;9arm-skills: Claude Code에 디버깅 규율과 코드 리뷰 절차를 심는 에이전트 스킬 모음&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/h3-c-minimax-h3-c-feat-antirez/11608"&gt;h3.c: MiniMax H3 영상 생성 모델을 애플 실리콘에서 돌리는 C 언어 구현체 (feat. antirez)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/skill-recorder-microsoft/11606"&gt;Skill Recorder: Microsoft가 공개한, 화면 녹화를 에이전트 스킬로 바꾸는 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/gathered-scenes-zine-codex/11607"&gt;Gathered Scenes Zine: 사진을 종이 질감의 편집 디자인 작품으로 바꾸는 Codex 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/genoffice-ai/11598"&gt;GenOffice: 원본 파일을 바이트 단위로 보존하며 AI로 편집하는 오픈소스 오피스 스위트&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 07:58:05 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-14/2026-08-14-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-14/2026-08-14-pytorch-kr.mp3" length="60879559" type="audio/mpeg" />
     </item>
   </channel>
 </rss>

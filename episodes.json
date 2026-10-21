@@ -3,6 +3,37 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-22",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-21",
+      "period_end": "2026-10-22",
+      "file": "2026-10-22-pytorch-kr.mp3",
+      "published": "2026-10-22T08:09:34+09:00",
+      "entries": [
+        {
+          "title": "Google, Willow 양자 프로세서에서 매직 상태 배양에 대한 실험하여 오류를 40배 감소하는 결과 공개",
+          "link": "https://discuss.pytorch.kr/t/google-willow-40/12229"
+        },
+        {
+          "title": "gitai: 한 브랜치에 몰린 코딩 에이전트들의 변경을 서버가 대신 rebase해 반영하는 Git 서버 (Anthropic Scion 설계 참고)",
+          "link": "https://discuss.pytorch.kr/t/gitai-rebase-git-anthropic-scion/12235"
+        },
+        {
+          "title": "TinyTorch: PyTorch를 import만 하지 말고, 직접 만들어 보세요 | 파이토치 한국 사용자 모임",
+          "link": "https://discuss.pytorch.kr/t/tinytorch-pytorch-import/12251"
+        },
+        {
+          "title": "Harness²: 정답 라벨 없이 작업마다 에이전트 하네스를 고치고, 그 경험을 다음 작업에 넘기는 프레임워크 (feat. Google)",
+          "link": "https://discuss.pytorch.kr/t/harness-feat-google/12231"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-22/2026-10-22-pytorch-kr.mp3",
+      "size": 42226002
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-21",
       "kind": "daily",
       "catchup": false,
@@ -2404,37 +2435,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-15/2026-08-15-pytorch-kr.mp3",
       "size": 31385516
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-14",
-      "file": "2026-08-14-pytorch-kr.mp3",
-      "published": "2026-08-14T07:58:05+09:00",
-      "entries": [
-        {
-          "title": "9arm-skills: Claude Code에 디버깅 규율과 코드 리뷰 절차를 심는 에이전트 스킬 모음",
-          "link": "https://discuss.pytorch.kr/t/9arm-skills-claude-code/11605"
-        },
-        {
-          "title": "h3.c: MiniMax H3 영상 생성 모델을 애플 실리콘에서 돌리는 C 언어 구현체 (feat. antirez)",
-          "link": "https://discuss.pytorch.kr/t/h3-c-minimax-h3-c-feat-antirez/11608"
-        },
-        {
-          "title": "Skill Recorder: Microsoft가 공개한, 화면 녹화를 에이전트 스킬로 바꾸는 도구",
-          "link": "https://discuss.pytorch.kr/t/skill-recorder-microsoft/11606"
-        },
-        {
-          "title": "Gathered Scenes Zine: 사진을 종이 질감의 편집 디자인 작품으로 바꾸는 Codex 스킬",
-          "link": "https://discuss.pytorch.kr/t/gathered-scenes-zine-codex/11607"
-        },
-        {
-          "title": "GenOffice: 원본 파일을 바이트 단위로 보존하며 AI로 편집하는 오픈소스 오피스 스위트",
-          "link": "https://discuss.pytorch.kr/t/genoffice-ai/11598"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-14/2026-08-14-pytorch-kr.mp3",
-      "size": 60879559
     }
   ]
 }
