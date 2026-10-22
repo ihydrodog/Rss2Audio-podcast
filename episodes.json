@@ -3,6 +3,45 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-23",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-22",
+      "period_end": "2026-10-23",
+      "file": "2026-10-23-pytorch-kr.mp3",
+      "published": "2026-10-23T08:04:00+09:00",
+      "entries": [
+        {
+          "title": "REAP: 리버스 엔지니어링 에이전트(REA)에서 바로 사용 가능한 55개의 리버스 엔지니어링 프롬프트 저장소 (≠ REA 공식)",
+          "link": "https://discuss.pytorch.kr/t/reap-rea-55-rea/12255"
+        },
+        {
+          "title": "PyMuPDF 2.0 릴리스: pip install 한 번으로 PDF → LLM용 마크다운까지 (3개 패키지 통합)",
+          "link": "https://discuss.pytorch.kr/t/pymupdf-2-0-pip-install-pdf-llm-3/12271"
+        },
+        {
+          "title": "[프로젝트 공유] GeulPU — 배치·캐시·GPU 제조사가 달라도 로짓이 비트까지 같은 GGUF 추론 엔진",
+          "link": "https://discuss.pytorch.kr/t/geulpu-gpu-gguf/12268"
+        },
+        {
+          "title": "다음 주 출시되는 PyTorch 2.15부터 Mac GPU 지원 강화: MPS 백엔드의 FP8 지원 및 MoE 디코딩 5~6.5배 향상 등",
+          "link": "https://discuss.pytorch.kr/t/pytorch-2-15-mac-gpu-mps-fp8-moe-5-6-5/12257"
+        },
+        {
+          "title": "DeepInfer: DeepSeek이 V4.1-Flash 모델의 서비스에 사용하는 추론 프레임워크 (단, 오프라인 추론만 공개 😅)",
+          "link": "https://discuss.pytorch.kr/t/deepinfer-deepseek-v4-1-flash/12256"
+        },
+        {
+          "title": "TorchTPU를 소개합니다 | 파이토치 한국 사용자 모임",
+          "link": "https://discuss.pytorch.kr/t/torchtpu/12265"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-23/2026-10-23-pytorch-kr.mp3",
+      "size": 29530671
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-22",
       "kind": "daily",
       "catchup": false,
@@ -2396,45 +2435,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-16/2026-08-16-pytorch-kr.mp3",
       "size": 44798983
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-15",
-      "file": "2026-08-15-pytorch-kr.mp3",
-      "published": "2026-08-15T07:34:53+09:00",
-      "entries": [
-        {
-          "title": "Harness Engineering: 코딩 에이전트의 환경을 설계하는 12개 논제와 플레이북 모음",
-          "link": "https://discuss.pytorch.kr/t/harness-engineering-12/11613"
-        },
-        {
-          "title": "[로봇깍는 노인] 피지컬AI 직접 만들어보기",
-          "link": "https://discuss.pytorch.kr/t/ai/11624"
-        },
-        {
-          "title": "UEmbed: 디코더 전용 모델에서 희소 검색과 밀집 검색을 통합한 멀티모달 임베딩 연구",
-          "link": "https://discuss.pytorch.kr/t/uembed/11614"
-        },
-        {
-          "title": "Claude of Duty: 단일 프롬프트로 AI 에이전트가 만든 브라우저 FPS 게임 및 품질 검증 하네스",
-          "link": "https://discuss.pytorch.kr/t/claude-of-duty-ai-fps/11611"
-        },
-        {
-          "title": "엔비디아 모델에서도 드러난 AI 안전성의 빈틈",
-          "link": "https://discuss.pytorch.kr/t/ai/11619"
-        },
-        {
-          "title": "thinking-orbs: AI 에이전트가 무엇을 하는 중인지 보여주는 로딩 인디케이터",
-          "link": "https://discuss.pytorch.kr/t/thinking-orbs-ai/11616"
-        },
-        {
-          "title": "멀티에이전트 시스템의 실패 패턴: AI 에이전트 군집의 쏠림, 담합, 목표 충돌에 대한 Anthropic의 연구",
-          "link": "https://discuss.pytorch.kr/t/ai-anthropic/11610"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-15/2026-08-15-pytorch-kr.mp3",
-      "size": 31385516
     }
   ]
 }
