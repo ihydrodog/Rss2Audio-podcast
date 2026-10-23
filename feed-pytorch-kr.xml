@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 23 Oct 2026 08:04:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:59:32 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-10-24</title>
+      <description>&lt;p&gt;오늘의 기사 9개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/modular-mojo-max-cuda-ai/12266"&gt;Modular의 Mojo와 MAX: CUDA 종속 없이 여러 AI 하드웨어를 같은 코드로 다루려는 언어와 추론 프레임워크&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/kvcache-meetup-korea-kv/12285"&gt;KVCache Meetup Korea 후기: 메모리 병목과 KV 캐시 최적화를 함께 살펴본 시간 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/hugging-face-apple-foundation-models-anylanguagemodel-1-0/12258"&gt;Hugging Face, Apple Foundation Models 코드를 그대로 로컬과 클라우드에서 사용 가능한 AnyLanguageModel 1.0 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/litellm-v1-107-0/12282"&gt;LiteLLM v1.107.0 공급망 공격: 정식 릴리스 파이프라인이 서명해 배포한 악성 패키지&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/whatsapp-mcp-whatsapp-ai-mcp/12254"&gt;whatsapp-mcp: 메시지 전송 없이 내 WhatsApp 대화를 AI 에이전트가 검색하게 하는 셀프 호스팅 MCP 서버&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/lafa-flow/12281"&gt;Lafa: 여러 토큰을 함께 생성하는 Flow 언어 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/kv/12280"&gt;프롬프트 라우팅 너머: 모델 선택, 대화 상태, 그리고 KV 캐시 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/aaif-agent-skills-open-responses-openenv-opensandbox-10/12275"&gt;AAIF에 Agent Skills, Open Responses, OpenEnv, OpenSandbox 합류해 프로젝트 10개로&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/aws-trainium-cuda-pytorch-torchneuron-feat-hugging-face/12259"&gt;AWS, Trainium을 CUDA처럼 PyTorch 장치로 쓰는 네이티브 백엔드 TorchNeuron 공개 (feat. Hugging Face)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 07:59:32 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-24/2026-10-24-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-24/2026-10-24-pytorch-kr.mp3" length="28075723" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-10-23</title>
       <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/reap-rea-55-rea/12255"&gt;REAP: 리버스 엔지니어링 에이전트(REA)에서 바로 사용 가능한 55개의 리버스 엔지니어링 프롬프트 저장소 (≠ REA 공식)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pymupdf-2-0-pip-install-pdf-llm-3/12271"&gt;PyMuPDF 2.0 릴리스: pip install 한 번으로 PDF → LLM용 마크다운까지 (3개 패키지 통합)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/geulpu-gpu-gguf/12268"&gt;[프로젝트 공유] GeulPU — 배치·캐시·GPU 제조사가 달라도 로짓이 비트까지 같은 GGUF 추론 엔진&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pytorch-2-15-mac-gpu-mps-fp8-moe-5-6-5/12257"&gt;다음 주 출시되는 PyTorch 2.15부터 Mac GPU 지원 강화: MPS 백엔드의 FP8 지원 및 MoE 디코딩 5~6.5배 향상 등&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/deepinfer-deepseek-v4-1-flash/12256"&gt;DeepInfer: DeepSeek이 V4.1-Flash 모델의 서비스에 사용하는 추론 프레임워크 (단, 오프라인 추론만 공개 😅)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/torchtpu/12265"&gt;TorchTPU를 소개합니다 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Mon, 17 Aug 2026 07:34:30 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-17/2026-08-17-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-17/2026-08-17-pytorch-kr.mp3" length="30004525" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-08-16</title>
-      <description>&lt;p&gt;오늘의 기사 3개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/executorch-muse-glimmer-ai/11632"&gt;ExecuTorch에서 Muse Glimmer로 구현하는 빠른 온디바이스 에이전틱 AI | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai-94-79/11612"&gt;AI 가치 정렬 논문 94편 중 79%는 가치를 정의하지 않는다: 정렬 연구의 암묵적 가치 이론 분석&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai/11625"&gt;누구나 AI로 신약 발견을 할 수 있는 시대, 신약개발 공익 챌린지가 허깅페이스에 공개되다&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Sun, 16 Aug 2026 07:34:37 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-16/2026-08-16-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-16/2026-08-16-pytorch-kr.mp3" length="44798983" type="audio/mpeg" />
     </item>
   </channel>
 </rss>

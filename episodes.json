@@ -3,6 +3,57 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-24",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-23",
+      "period_end": "2026-10-24",
+      "file": "2026-10-24-pytorch-kr.mp3",
+      "published": "2026-10-24T07:59:32+09:00",
+      "entries": [
+        {
+          "title": "Modular의 Mojo와 MAX: CUDA 종속 없이 여러 AI 하드웨어를 같은 코드로 다루려는 언어와 추론 프레임워크",
+          "link": "https://discuss.pytorch.kr/t/modular-mojo-max-cuda-ai/12266"
+        },
+        {
+          "title": "KVCache Meetup Korea 후기: 메모리 병목과 KV 캐시 최적화를 함께 살펴본 시간 | 파이토치 한국 사용자 모임",
+          "link": "https://discuss.pytorch.kr/t/kvcache-meetup-korea-kv/12285"
+        },
+        {
+          "title": "Hugging Face, Apple Foundation Models 코드를 그대로 로컬과 클라우드에서 사용 가능한 AnyLanguageModel 1.0 공개",
+          "link": "https://discuss.pytorch.kr/t/hugging-face-apple-foundation-models-anylanguagemodel-1-0/12258"
+        },
+        {
+          "title": "LiteLLM v1.107.0 공급망 공격: 정식 릴리스 파이프라인이 서명해 배포한 악성 패키지",
+          "link": "https://discuss.pytorch.kr/t/litellm-v1-107-0/12282"
+        },
+        {
+          "title": "whatsapp-mcp: 메시지 전송 없이 내 WhatsApp 대화를 AI 에이전트가 검색하게 하는 셀프 호스팅 MCP 서버",
+          "link": "https://discuss.pytorch.kr/t/whatsapp-mcp-whatsapp-ai-mcp/12254"
+        },
+        {
+          "title": "Lafa: 여러 토큰을 함께 생성하는 Flow 언어 모델",
+          "link": "https://discuss.pytorch.kr/t/lafa-flow/12281"
+        },
+        {
+          "title": "프롬프트 라우팅 너머: 모델 선택, 대화 상태, 그리고 KV 캐시 | 파이토치 한국 사용자 모임",
+          "link": "https://discuss.pytorch.kr/t/kv/12280"
+        },
+        {
+          "title": "AAIF에 Agent Skills, Open Responses, OpenEnv, OpenSandbox 합류해 프로젝트 10개로",
+          "link": "https://discuss.pytorch.kr/t/aaif-agent-skills-open-responses-openenv-opensandbox-10/12275"
+        },
+        {
+          "title": "AWS, Trainium을 CUDA처럼 PyTorch 장치로 쓰는 네이티브 백엔드 TorchNeuron 공개 (feat. Hugging Face)",
+          "link": "https://discuss.pytorch.kr/t/aws-trainium-cuda-pytorch-torchneuron-feat-hugging-face/12259"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-24/2026-10-24-pytorch-kr.mp3",
+      "size": 28075723
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-23",
       "kind": "daily",
       "catchup": false,
@@ -2412,29 +2463,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-17/2026-08-17-pytorch-kr.mp3",
       "size": 30004525
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-16",
-      "file": "2026-08-16-pytorch-kr.mp3",
-      "published": "2026-08-16T07:34:37+09:00",
-      "entries": [
-        {
-          "title": "ExecuTorch에서 Muse Glimmer로 구현하는 빠른 온디바이스 에이전틱 AI | 파이토치 한국 사용자 모임",
-          "link": "https://discuss.pytorch.kr/t/executorch-muse-glimmer-ai/11632"
-        },
-        {
-          "title": "AI 가치 정렬 논문 94편 중 79%는 가치를 정의하지 않는다: 정렬 연구의 암묵적 가치 이론 분석",
-          "link": "https://discuss.pytorch.kr/t/ai-94-79/11612"
-        },
-        {
-          "title": "누구나 AI로 신약 발견을 할 수 있는 시대, 신약개발 공익 챌린지가 허깅페이스에 공개되다",
-          "link": "https://discuss.pytorch.kr/t/ai/11625"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-16/2026-08-16-pytorch-kr.mp3",
-      "size": 44798983
     }
   ]
 }
