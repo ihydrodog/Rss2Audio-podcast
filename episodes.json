@@ -3,6 +3,45 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-27",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-26",
+      "period_end": "2026-10-27",
+      "file": "2026-10-27-pytorch-kr.mp3",
+      "published": "2026-10-27T08:40:44+09:00",
+      "entries": [
+        {
+          "title": "Jane Street 및 NVIDIA, Mamba-2 순전파를 Triton보다 최대 1.82배 빠르게 구현한 cuTile 커널 공개",
+          "link": "https://discuss.pytorch.kr/t/jane-street-nvidia-mamba-2-triton-1-82-cutile/12261"
+        },
+        {
+          "title": "Corgi: Claude Code, Codex 등 여러 코딩 에이전트를 한 터미널에서 지켜보는 멀티플렉서 (feat. Ghostty, herdr)",
+          "link": "https://discuss.pytorch.kr/t/corgi-claude-code-codex-feat-ghostty-herdr/12290"
+        },
+        {
+          "title": "추론 전용 NPU에서 325M 언어모델을 0부터 사전학습하고, B200 GPU와 짝지은 비교로 품질 동등성을 검증한 기록",
+          "link": "https://discuss.pytorch.kr/t/npu-325m-0-b200-gpu/12304"
+        },
+        {
+          "title": "StepFun, Step 5 Preview 가중치 공개: H200 8장에서 도는 FP8 체크포인트 (단, 상업적 사용 시 별도 계약 필요)",
+          "link": "https://discuss.pytorch.kr/t/stepfun-step-5-preview-h200-8-fp8/12288"
+        },
+        {
+          "title": "Anthropic, Agent Skills 표준을 AAIF에 기증: SKILL.md는 그대로, 배포와 보안은 남은 과제",
+          "link": "https://discuss.pytorch.kr/t/anthropic-agent-skills-aaif-skill-md/12278"
+        },
+        {
+          "title": "[2026/10/19 ~ 25] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+          "link": "https://discuss.pytorch.kr/t/2026-10-19-25-ai-ml/12294"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-27/2026-10-27-pytorch-kr.mp3",
+      "size": 31259267
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-26",
       "kind": "daily",
       "catchup": false,
@@ -2516,33 +2555,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-20/2026-08-20-pytorch-kr.mp3",
       "size": 36204161
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-19",
-      "file": "2026-08-19-pytorch-kr.mp3",
-      "published": "2026-08-19T07:35:44+09:00",
-      "entries": [
-        {
-          "title": "hyperresearch: 읽은 자료를 보관해 다음 리서치에 재사용하는 Claude Code용 16단계 조사 파이프라인",
-          "link": "https://discuss.pytorch.kr/t/hyperresearch-claude-code-16/11646"
-        },
-        {
-          "title": "awesome-dsh-plugin: 실제로 동작하는 DeepSeek Harness 플러그인들을 모아둔 저장소 (≠ 큐레이션 저장소)",
-          "link": "https://discuss.pytorch.kr/t/awesome-dsh-plugin-deepseek-harness/11641"
-        },
-        {
-          "title": "Moli: Chrome Headless보다 가벼우면서 웹 페이지 데이터 활용에 적합한 AI 에이전트용 헤드리스 브라우저",
-          "link": "https://discuss.pytorch.kr/t/moli-chrome-headless-ai/11643"
-        },
-        {
-          "title": "Andrew Ng의 AI Engineering Skills Map: 개발자가 갖춰야 할 4가지 핵심 역량들",
-          "link": "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-4/11638"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-19/2026-08-19-pytorch-kr.mp3",
-      "size": 25954815
     }
   ]
 }

@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:22:06 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:40:44 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-10-27</title>
+      <description>&lt;p&gt;오늘의 기사 6개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/jane-street-nvidia-mamba-2-triton-1-82-cutile/12261"&gt;Jane Street 및 NVIDIA, Mamba-2 순전파를 Triton보다 최대 1.82배 빠르게 구현한 cuTile 커널 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/corgi-claude-code-codex-feat-ghostty-herdr/12290"&gt;Corgi: Claude Code, Codex 등 여러 코딩 에이전트를 한 터미널에서 지켜보는 멀티플렉서 (feat. Ghostty, herdr)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/npu-325m-0-b200-gpu/12304"&gt;추론 전용 NPU에서 325M 언어모델을 0부터 사전학습하고, B200 GPU와 짝지은 비교로 품질 동등성을 검증한 기록&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/stepfun-step-5-preview-h200-8-fp8/12288"&gt;StepFun, Step 5 Preview 가중치 공개: H200 8장에서 도는 FP8 체크포인트 (단, 상업적 사용 시 별도 계약 필요)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anthropic-agent-skills-aaif-skill-md/12278"&gt;Anthropic, Agent Skills 표준을 AAIF에 기증: SKILL.md는 그대로, 배포와 보안은 남은 과제&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/2026-10-19-25-ai-ml/12294"&gt;[2026/10/19 ~ 25] 이번 주에 살펴볼 만한 AI/ML 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 08:40:44 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-27/2026-10-27-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-27/2026-10-27-pytorch-kr.mp3" length="31259267" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-10-26</title>
       <description>&lt;p&gt;오늘의 기사 1개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/docker-kubernetes-api-opensandbox-aaif/12276"&gt;Docker와 Kubernetes를 같은 API로 다루는 에이전트 샌드박스 OpenSandbox, AAIF 프로젝트로 합류&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Thu, 20 Aug 2026 07:39:39 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-20/2026-08-20-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-20/2026-08-20-pytorch-kr.mp3" length="36204161" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-08-19</title>
-      <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/hyperresearch-claude-code-16/11646"&gt;hyperresearch: 읽은 자료를 보관해 다음 리서치에 재사용하는 Claude Code용 16단계 조사 파이프라인&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/awesome-dsh-plugin-deepseek-harness/11641"&gt;awesome-dsh-plugin: 실제로 동작하는 DeepSeek Harness 플러그인들을 모아둔 저장소 (≠ 큐레이션 저장소)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/moli-chrome-headless-ai/11643"&gt;Moli: Chrome Headless보다 가벼우면서 웹 페이지 데이터 활용에 적합한 AI 에이전트용 헤드리스 브라우저&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-4/11638"&gt;Andrew Ng의 AI Engineering Skills Map: 개발자가 갖춰야 할 4가지 핵심 역량들&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 07:35:44 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-19/2026-08-19-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-19/2026-08-19-pytorch-kr.mp3" length="25954815" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
