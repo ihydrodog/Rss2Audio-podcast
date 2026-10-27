@@ -3,6 +3,45 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-28",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-27",
+      "period_end": "2026-10-28",
+      "file": "2026-10-28-pytorch-kr.mp3",
+      "published": "2026-10-28T08:35:45+09:00",
+      "entries": [
+        {
+          "title": "durable-harness: 실행 중 함수가 죽어도 Claude Code와 Codex, Pi의 턴을 로그에서 이어 가게 하는 어댑터 (feat. Vercel)",
+          "link": "https://discuss.pytorch.kr/t/durable-harness-claude-code-codex-pi-feat-vercel/12274"
+        },
+        {
+          "title": "ThinkingBox-Training 공개: DB 상태 채점 시 강화 학습 보상으로 매번 성공하는 과제 수를 2.8배 ↑",
+          "link": "https://discuss.pytorch.kr/t/thinkingbox-training-db-2-8/12293"
+        },
+        {
+          "title": "Memento: 성공과 실패 사례를 별도 공간에 저장하는 방식으로, LLM 파인튜닝 없이 성능을 높이는 딥 리서치 에이전트",
+          "link": "https://discuss.pytorch.kr/t/memento-llm/12309"
+        },
+        {
+          "title": "Step Code: StepFun이 Pi 코딩 에이전트에 서브에이전트와 웹 페이지 배포를 더한 터미널 코딩 에이전트",
+          "link": "https://discuss.pytorch.kr/t/step-code-stepfun-pi/12287"
+        },
+        {
+          "title": "한국어 STT 평가: 정답의 숫자 표기 하나로 모델 비교가 뒤집히는 문제 (공개 모델 6개로 확인해 본 것들)",
+          "link": "https://discuss.pytorch.kr/t/stt-6/12327"
+        },
+        {
+          "title": "3D Model Anything: 아이폰 LiDAR 스캔과 사진으로 자신의 방을 Web 기반 3D로 재구성하는 프로젝트 (feat. Three.js)",
+          "link": "https://discuss.pytorch.kr/t/3d-model-anything-lidar-web-3d-feat-three-js/12308"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-28/2026-10-28-pytorch-kr.mp3",
+      "size": 30765989
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-27",
       "kind": "daily",
       "catchup": false,
@@ -2520,41 +2559,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-21/2026-08-21-pytorch-kr.mp3",
       "size": 29441773
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-20",
-      "file": "2026-08-20-pytorch-kr.mp3",
-      "published": "2026-08-20T07:39:39+09:00",
-      "entries": [
-        {
-          "title": "DeepSeek Harness 플러그인 2,500개 이상을 정리한 DSH Marketplace를 만들었습니다",
-          "link": "https://discuss.pytorch.kr/t/deepseek-harness-2-500-dsh-marketplace/11670"
-        },
-        {
-          "title": "Cindy: Claude Code와 Codex를 작업 도중에 바꿔 가며 쓰는 오픈소스 AI 에이전트 클라이언트",
-          "link": "https://discuss.pytorch.kr/t/cindy-claude-code-codex-ai/11657"
-        },
-        {
-          "title": "PenEcho: 손으로 쓴 수식과 도형을 읽고 답을 옆에 그려주는 오픈소스 AI 캔버스",
-          "link": "https://discuss.pytorch.kr/t/penecho-ai/11658"
-        },
-        {
-          "title": "phone-harness: Xcode나 WebDriverAgent 없이 AI 에이전트가 실제 아이폰을 조작하는 도구",
-          "link": "https://discuss.pytorch.kr/t/phone-harness-xcode-webdriveragent-ai/11644"
-        },
-        {
-          "title": "리만 제타 함수 임계선 영점 비율: Claude가 무조건적 하한을 41.6%에서 67.25%로 올린 Anthropic의 연구 (≠ 리만 가설 증명)",
-          "link": "https://discuss.pytorch.kr/t/claude-41-6-67-25-anthropic/11640"
-        },
-        {
-          "title": "Magic Context: 세션을 끊지 않고 프로젝트 지식을 쌓는 코딩 에이전트용 메모리 플러그인",
-          "link": "https://discuss.pytorch.kr/t/magic-context/11645"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-20/2026-08-20-pytorch-kr.mp3",
-      "size": 36204161
     }
   ]
 }
