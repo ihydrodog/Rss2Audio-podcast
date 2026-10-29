@@ -3,6 +3,49 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-30",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-29",
+      "period_end": "2026-10-30",
+      "file": "2026-10-30-pytorch-kr.mp3",
+      "published": "2026-10-30T08:53:34+09:00",
+      "entries": [
+        {
+          "title": "RecIR: PyTorch 추천 모델 정의 하나로 GPU와 TPU 학습을 모두 처리하는 Meta의 컴파일러",
+          "link": "https://discuss.pytorch.kr/t/recir-pytorch-gpu-tpu-meta/12343"
+        },
+        {
+          "title": "tstack: 코딩 에이전트가 변경 증명부터 리뷰 봇 대응, PR 병합까지 맡게 하는 스킬 9종 (feat. Theo Browne)",
+          "link": "https://discuss.pytorch.kr/t/tstack-pr-9-feat-theo-browne/12342"
+        },
+        {
+          "title": "PyTorch 2.15 출시 공지 | 파이토치 한국 사용자 모임",
+          "link": "https://discuss.pytorch.kr/t/pytorch-2-15/12351"
+        },
+        {
+          "title": "Digital Human Koubo: Renoise로 만든 AI 발표자 영상을 Remotion으로 편집하는 에이전트 스킬",
+          "link": "https://discuss.pytorch.kr/t/digital-human-koubo-renoise-ai-remotion/12340"
+        },
+        {
+          "title": "CPU 파서 vs 최신 VLM, 문서 파싱 성능 비교: PyMuPDF와 GPT-6 Astra",
+          "link": "https://discuss.pytorch.kr/t/cpu-vs-vlm-pymupdf-gpt-6-astra/12348"
+        },
+        {
+          "title": "OpenDuet: 내 서버와 원하는 모델로 운영하는, Claude Duet 같은 선제적 업무 에이전트",
+          "link": "https://discuss.pytorch.kr/t/openduet-claude-duet/12341"
+        },
+        {
+          "title": "Liquid AI, 텍스트, 비전, 오디오, 옴니, 결정 모델을 처리하는 2B 규모의 LFM3 모델 6종 공개",
+          "link": "https://discuss.pytorch.kr/t/liquid-ai-2b-lfm3-6/12338"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-30/2026-10-30-pytorch-kr.mp3",
+      "size": 26013084
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-29",
       "kind": "daily",
       "catchup": false,
@@ -2540,33 +2583,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-23/2026-08-23-pytorch-kr.mp3",
       "size": 44669736
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-22",
-      "file": "2026-08-22-pytorch-kr.mp3",
-      "published": "2026-08-22T07:35:33+09:00",
-      "entries": [
-        {
-          "title": "Munder Difflin: 터미널 코딩 에이전트 여러 개를 서로 메시지 주고받는 팀으로 만드는 데스크톱 앱",
-          "link": "https://discuss.pytorch.kr/t/munder-difflin/11677"
-        },
-        {
-          "title": "Sol Advisor: 작업 규모와 위험도에 따라 서브 에이전트 위임 여부를 결정하는 Codex 에이전트 오케스트레이션 플러그인",
-          "link": "https://discuss.pytorch.kr/t/sol-advisor-codex/11678"
-        },
-        {
-          "title": "Sentence Transformers v6.0, ColBERT 스타일 멀티 벡터 검색을 표준 API로",
-          "link": "https://discuss.pytorch.kr/t/sentence-transformers-v6-0-colbert-api/11673"
-        },
-        {
-          "title": "Oil Motion: AI 생성 영상을 스크롤과 마우스가 제어하는 웹 애니메이션으로 바꾸는 에이전트 스킬",
-          "link": "https://discuss.pytorch.kr/t/oil-motion-ai/11668"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-22/2026-08-22-pytorch-kr.mp3",
-      "size": 24396766
     }
   ]
 }
