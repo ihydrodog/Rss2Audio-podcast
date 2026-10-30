@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 30 Oct 2026 08:53:34 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:34:05 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-10-31</title>
+      <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/vocabx-qwen3-4b-77/12322"&gt;VocabX: 토큰 빈도 대신 생성 비용으로 어휘를 골라 Qwen3-4B 채점 모델의 추론 비용을 77% 줄인 사례&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/thinkrail-pi-git-ide-feat-jetbrains/12334"&gt;ThinkRail: Pi 코딩 에이전트를 Git 워크트리별로 병렬 실행하고 턴 단위로 검토하는 IDE (feat. JetBrains)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/claude-code-pr-2-40-feat-anthropic/12336"&gt;Claude Code 팀의 코드 리뷰 방식: 병합 PR이 2배로 늘 때 되돌림 비율은 40% 넘게 줄인 방법 (feat. Anthropic)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/runway-praxis-1/12346"&gt;Runway Praxis-1: 웹 영상으로 사전학습한 로봇 정책 모델 발표, 모델 가중치는 수개월 내 공개 예정&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 08:34:05 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-31/2026-10-31-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-31/2026-10-31-pytorch-kr.mp3" length="23980443" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-10-30</title>
       <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/recir-pytorch-gpu-tpu-meta/12343"&gt;RecIR: PyTorch 추천 모델 정의 하나로 GPU와 TPU 학습을 모두 처리하는 Meta의 컴파일러&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/tstack-pr-9-feat-theo-browne/12342"&gt;tstack: 코딩 에이전트가 변경 증명부터 리뷰 봇 대응, PR 병합까지 맡게 하는 스킬 9종 (feat. Theo Browne)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/pytorch-2-15/12351"&gt;PyTorch 2.15 출시 공지 | 파이토치 한국 사용자 모임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/digital-human-koubo-renoise-ai-remotion/12340"&gt;Digital Human Koubo: Renoise로 만든 AI 발표자 영상을 Remotion으로 편집하는 에이전트 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/cpu-vs-vlm-pymupdf-gpt-6-astra/12348"&gt;CPU 파서 vs 최신 VLM, 문서 파싱 성능 비교: PyMuPDF와 GPT-6 Astra&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openduet-claude-duet/12341"&gt;OpenDuet: 내 서버와 원하는 모델로 운영하는, Claude Duet 같은 선제적 업무 에이전트&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/liquid-ai-2b-lfm3-6/12338"&gt;Liquid AI, 텍스트, 비전, 오디오, 옴니, 결정 모델을 처리하는 2B 규모의 LFM3 모델 6종 공개&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Mon, 24 Aug 2026 07:32:44 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-24/2026-08-24-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-24/2026-08-24-pytorch-kr.mp3" length="22266263" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-08-23</title>
-      <description>&lt;p&gt;오늘의 기사 3개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/trueforge-ui/11685"&gt;TrueForge: 모델 호출부터 샌드박스, 채팅 UI까지 에이전트 실행 루프를 통째로 제공하는 오픈소스 하네스&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai/11688"&gt;AI 신약 후보 물질 발견을 위한 &amp;#x27;예측 도구(능력)&amp;#x27; 평가 리더보드 허깅페이스에 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/qec-willow/11639"&gt;강화학습으로 양자 오류 정정(QEC)을 제어하는 연구: Willow에서 계산을 멈추지 않는 실시간 보정&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Sun, 23 Aug 2026 07:34:52 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-23/2026-08-23-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-23/2026-08-23-pytorch-kr.mp3" length="44669736" type="audio/mpeg" />
     </item>
   </channel>
 </rss>

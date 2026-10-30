@@ -3,6 +3,37 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-10-31",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-10-30",
+      "period_end": "2026-10-31",
+      "file": "2026-10-31-pytorch-kr.mp3",
+      "published": "2026-10-31T08:34:05+09:00",
+      "entries": [
+        {
+          "title": "VocabX: 토큰 빈도 대신 생성 비용으로 어휘를 골라 Qwen3-4B 채점 모델의 추론 비용을 77% 줄인 사례",
+          "link": "https://discuss.pytorch.kr/t/vocabx-qwen3-4b-77/12322"
+        },
+        {
+          "title": "ThinkRail: Pi 코딩 에이전트를 Git 워크트리별로 병렬 실행하고 턴 단위로 검토하는 IDE (feat. JetBrains)",
+          "link": "https://discuss.pytorch.kr/t/thinkrail-pi-git-ide-feat-jetbrains/12334"
+        },
+        {
+          "title": "Claude Code 팀의 코드 리뷰 방식: 병합 PR이 2배로 늘 때 되돌림 비율은 40% 넘게 줄인 방법 (feat. Anthropic)",
+          "link": "https://discuss.pytorch.kr/t/claude-code-pr-2-40-feat-anthropic/12336"
+        },
+        {
+          "title": "Runway Praxis-1: 웹 영상으로 사전학습한 로봇 정책 모델 발표, 모델 가중치는 수개월 내 공개 예정",
+          "link": "https://discuss.pytorch.kr/t/runway-praxis-1/12346"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-10-31/2026-10-31-pytorch-kr.mp3",
+      "size": 23980443
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-10-30",
       "kind": "daily",
       "catchup": false,
@@ -2560,29 +2591,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-24/2026-08-24-pytorch-kr.mp3",
       "size": 22266263
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-08-23",
-      "file": "2026-08-23-pytorch-kr.mp3",
-      "published": "2026-08-23T07:34:52+09:00",
-      "entries": [
-        {
-          "title": "TrueForge: 모델 호출부터 샌드박스, 채팅 UI까지 에이전트 실행 루프를 통째로 제공하는 오픈소스 하네스",
-          "link": "https://discuss.pytorch.kr/t/trueforge-ui/11685"
-        },
-        {
-          "title": "AI 신약 후보 물질 발견을 위한 '예측 도구(능력)' 평가 리더보드 허깅페이스에 공개",
-          "link": "https://discuss.pytorch.kr/t/ai/11688"
-        },
-        {
-          "title": "강화학습으로 양자 오류 정정(QEC)을 제어하는 연구: Willow에서 계산을 멈추지 않는 실시간 보정",
-          "link": "https://discuss.pytorch.kr/t/qec-willow/11639"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-23/2026-08-23-pytorch-kr.mp3",
-      "size": 44669736
     }
   ]
 }
