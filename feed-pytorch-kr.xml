@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 31 Oct 2026 08:34:05 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:07:14 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-11-03 (밀린 2026-10-31 ~ 2026-11-03 보충)</title>
+      <description>&lt;p&gt;2026-10-31 이후 밀린 기사까지 모은 16개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openqodex-push-claude-code-codex/12335"&gt;OpenQodex: 코딩 에이전트의 변경을 push 전에 별도 Claude Code와 Codex 세션이 검토하는 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/neuron-explorer-qwen3-5-4b/12310"&gt;neuron explorer: 최대 활성 예시 대신 스티어링 결과로 Qwen3.5-4B 뉴런을 읽는 탐색기&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/uzu-mac-iphone-llm-apple-silicon-rust/12363"&gt;uzu: Mac과 iPhone 앱에 내장해 로컬 LLM을 실행하는 Apple Silicon용 Rust 추론 엔진&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/qwenputer-gated-deltanet-ram-risc-v-cpu/12365"&gt;Qwenputer, Gated DeltaNet 상태를 RAM으로 취급하여 가중치에 RISC-V CPU를 넣은 실험적 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai-feat-openai/12362"&gt;AI는 조직도의 아래, 옆, 사이 중 어디로 들어올까: 기업의 미래에 대한 세 가지 시나리오와 네 가지 질문 (feat. OpenAI)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/day-trader-skill-kr-day-trader-skill-claude/12373"&gt;[프로젝트 공유] day-trader-skill-kr: 미국 주식 전용 Day Trader Skill을 국내 주식용으로 옮기고, 장기 투자 검증·대가 점검표·논지 추적을 더한 Claude 스킬 묶음&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/google-gemini-4-carbon-argon-aa-1/12361"&gt;Google, Gemini 4 Carbon 출시: Argon과 같은 가격에 AA 지수 1위, 사이버 방어 기관부터 제공&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/2026-10-26-11-01-ai-ml/12374"&gt;[2026/10/26 ~ 11/01] 이번 주에 살펴볼 만한 AI/ML 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/vikernel/12376"&gt;ViKernel 기술 분석: 모델 가중치 안에 운영체제와 킬스위치를 넣는다는 것의 의미&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/nvidia-40-nemotron-3-5-transcribe-feat-granary-v2/12368"&gt;NVIDIA, 40개 언어 받아쓰기와 화자 구분, 번역을 한 모델로 처리하는 Nemotron 3.5 Transcribe 공개 (feat. Granary v2)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/scenemaker/12378"&gt;방송 영상을 클립으로 만드는 SceneMaker를 소개합니다 (디노이즈했더니 언어 판별이 떨어진 실험 공유)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/baseten-1m-0-01-2b-joey-1/12359"&gt;Baseten, 입력 1M 토큰당 $0.01인 2B 결정 모델 joey-1 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/komos/12380"&gt;KOMOS – 한국어 음성 품질 평가 모델을 오픈소스로 공개했습니다&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/apple-api-anyspeechrecognizer-anydecisionmodel-feat-hugging-face/12369"&gt;Apple 음성 API로 오픈 모델 쓰는 AnySpeechRecognizer와 결정 모델용 AnyDecisionModel 공개 (feat. Hugging Face)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai-state-of-ai-2026-3-agi-2027-pdf-244p/12366"&gt;AI 현황 보고서(State of AI) 2026: 프런티어 모델의 3강 구도, 에이전트 보안 사고, AGI 2027 예측 등 [영문/PDF/244p]&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/meta-30b-cpu-npu-gpu-ram-rom-vikernel-v0-4/12390"&gt;Meta 30B 모델 가중치 안에 CPU·NPU·GPU·RAM·ROM, 그리고 운영체제를 넣었다: ViKernel v0.4 기술 분석&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 11:07:14 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-03/2026-11-03-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-03/2026-11-03-pytorch-kr.mp3" length="32064059" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-10-31</title>
       <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/vocabx-qwen3-4b-77/12322"&gt;VocabX: 토큰 빈도 대신 생성 비용으로 어휘를 골라 Qwen3-4B 채점 모델의 추론 비용을 77% 줄인 사례&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/thinkrail-pi-git-ide-feat-jetbrains/12334"&gt;ThinkRail: Pi 코딩 에이전트를 Git 워크트리별로 병렬 실행하고 턴 단위로 검토하는 IDE (feat. JetBrains)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/claude-code-pr-2-40-feat-anthropic/12336"&gt;Claude Code 팀의 코드 리뷰 방식: 병합 PR이 2배로 늘 때 되돌림 비율은 40% 넘게 줄인 방법 (feat. Anthropic)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/runway-praxis-1/12346"&gt;Runway Praxis-1: 웹 영상으로 사전학습한 로봇 정책 모델 발표, 모델 가중치는 수개월 내 공개 예정&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Mon, 31 Aug 2026 06:00:00 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-31/2026-08-31-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-31/2026-08-31-pytorch-kr.mp3" length="121013949" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-08-24</title>
-      <description>&lt;p&gt;오늘의 기사 2개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/stripe-minions-1-300-pr-feat-goose-mcp/11690"&gt;Stripe의 무인 코딩 에이전트 Minions, 매주 1,300개 PR을 사람 코드 없이 만드는 방법 (feat. goose, MCP)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ip-as-logo-ip/11687"&gt;IP as Logo: 일관되게 제약조건을 적용하여 일관성있는 기업 IP 마스코트 로고를 만드는 에이전트 스킬&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 07:32:44 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-24/2026-08-24-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-08-24/2026-08-24-pytorch-kr.mp3" length="22266263" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
