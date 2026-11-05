@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:29:52 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:51:08 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-11-05</title>
+      <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/tensorrt-edge-llm-dgx-spark-nemotron-3-5-lightning-dspark-1-7/12401"&gt;TensorRT Edge-LLM으로 DGX Spark에서 Nemotron 3.5 Lightning 실행하기 (DSpark로 생성 속도 최대 1.7배)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/109m-jepa-72b-llm-feat-yann-lecun/12393"&gt;플라토닉 표현 정리: 같은 장면의 두 묘사로 학습한 109M JEPA 모델이 72B LLM보다 비전 모델과 더 잘 정렬됨을 확인한 연구 (feat. Yann LeCun)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openai-lifeval-gpt/12392"&gt;OpenAI, 사람의 일상 과제를 대신 처리하는 능력을 재기 위한 LifeVal 벤치마크 및 최신 GPT 모델들의 측정 결과 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/auto-ontology-db-ai-sql-nvidia/12402"&gt;Auto Ontology: DB 메타데이터로 온톨로지를 생성해 AI 에이전트의 SQL을 검증하는 NVIDIA의 시맨틱 레이어 프레임워크&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 09:51:08 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-05/2026-11-05-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-05/2026-11-05-pytorch-kr.mp3" length="34779094" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-11-04</title>
       <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/nvidia-mlip-1-7-tensor-core-fp32/12360"&gt;NVIDIA, 재학습 없이 MLIP 분자 동역학을 최대 1.7배 가속한 Tensor Core FP32 기법 실측 기법 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/llm/12397"&gt;LLM은 신경망 가중치를 읽고 쓸 수 있을까요?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openai-pando-git-push-80-1pb-git-anthropic-scion/12394"&gt;OpenAI Pando: Git 호환을 유지한 채 push 지연을 80% 줄이고 하루 1PB를 전송하는 모노레포 Git 백엔드 (&amp;amp; Anthropic Scion 비교)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/mistral-large-4-glm-5-3-1t-moe/12386"&gt;Mistral Large 4 가중치 공개: 토큰을 절반 가량 적게 쓰면서 GLM-5.3과 비슷한 코딩 성능을 기록한 1T 규모의 MoE 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/google-sleep-llm/12367"&gt;Google의 Sleep 프레임워크: LLM이 문맥으로 배운 지식을 덮어쓰기 없이 새 매개변수로 옮기는 지속 학습에 대한 연구&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Thu, 03 Sep 2026 09:10:05 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-03/2026-09-03-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-03/2026-09-03-pytorch-kr.mp3" length="59886397" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-09-01</title>
-      <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/img2obj-three-js-codex/11724"&gt;img2obj: 참조 이미지를 애니메이션 가능한 Three.js 절차적 코드로 재구성하는 Codex 플러그인&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/agent-flow-claude-code-codex/11767"&gt;Agent Flow: Claude Code와 Codex의 에이전트 실행 과정을 실시간 노드 그래프로 보여주는 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai/11777"&gt;AI 에이전트들로 만든 외계 행성 문명 생성 시뮬레이션 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/open-science-desktop-ai-openscience/11752"&gt;Open Science Desktop: 결과 그림에서 생성 코드까지 되짚을 수 있는, 내 컴퓨터용 AI 연구 작업도구 (≠ OpenScience)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ai-human-reserved-ai/11763"&gt;빌 게이츠가 본 AI 전환기의 세 가지 위험과 대응책: 인간만을 위한 영역(Human Reserved)과 AI 토큰세 제안&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/slideops/11769"&gt;SlideOps: 저장소로 만든 슬라이드가 코드와 어긋난 시점을 토큰 없이 찾아내는 에이전트 스킬&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/2026-08-24-30-ai-ml/11764"&gt;[2026/08/24 ~ 30] 이번 주에 살펴볼 만한 AI/ML 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 10:16:30 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-01/2026-09-01-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-01/2026-09-01-pytorch-kr.mp3" length="30298227" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
