@@ -3,6 +3,121 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-11-08",
+      "kind": "weekly",
+      "catchup": false,
+      "period_start": "2026-11-01",
+      "period_end": "2026-11-08",
+      "file": "2026-11-08-weekly-pytorch-kr.mp3",
+      "published": "2026-11-08T08:31:24+09:00",
+      "entries": [
+        {
+          "title": "NVIDIA, 행동과 제어 입력에 반응해 다음 장면을 생성하는 Cosmos 3 월드 시뮬레이션 모델 4종 공개 (feat. 자율주행, 로봇)",
+          "link": "https://discuss.pytorch.kr/t/nvidia-cosmos-3-4-feat/12428"
+        },
+        {
+          "title": "OpenAI, 승인된 보안 조직 전용 GPT-6 Cyber 출시: 범위 밖 공격 0.07%, Linux 익스플로잇 948건",
+          "link": "https://discuss.pytorch.kr/t/openai-gpt-6-cyber-0-07-linux-948/12434"
+        },
+        {
+          "title": "Thinking Machines Lab, 활성 17B의 2세대 모델 Inkling 2 Small을 Tinker에 먼저 출시 (가중치는 다음 주 공개 예정)",
+          "link": "https://discuss.pytorch.kr/t/thinking-machines-lab-17b-2-inkling-2-small-tinker/12438"
+        },
+        {
+          "title": "OpenDots: 역할별 AI 에이전트에게 전용 컴퓨터를 주고 작업 결과를 편집 가능한 문서로 받는 템플릿",
+          "link": "https://discuss.pytorch.kr/t/opendots-ai/12427"
+        },
+        {
+          "title": "Mago Studio: 프로젝트와 영상을 내 PC에 두고 ComfyUI로 렌더링하는 로컬 우선 AI 영상 편집기 (단, 기본 모델 H3는 별도 승인 필요)",
+          "link": "https://discuss.pytorch.kr/t/mago-studio-pc-comfyui-ai-h3/12422"
+        },
+        {
+          "title": "중국 최고 권위 AI 모델 평가기관 SuperClue가 SOTA 모델 평가 순위 발표 결과 분석",
+          "link": "https://discuss.pytorch.kr/t/ai-superclue-sota/12421"
+        },
+        {
+          "title": "LLM Inference Handbook: 지표부터 PD 분리, GPU 커널, 추론 비용까지 다룬 Modular의 안내서",
+          "link": "https://discuss.pytorch.kr/t/llm-inference-handbook-pd-gpu-modular/12414"
+        },
+        {
+          "title": "고등학생 700명이 Isaac Sim에서 로봇에게 걷는 법을 가르친 기록 (NCRC 2026)",
+          "link": "https://discuss.pytorch.kr/t/700-isaac-sim-ncrc-2026/12420"
+        },
+        {
+          "title": "Weight-Space Programming: GPT-6 Astra가 모델의 가중치를 직접 읽고 고친 8가지 실험 (feat. MIT CSAIL)",
+          "link": "https://discuss.pytorch.kr/t/weight-space-programming-gpt-6-astra-8-feat-mit-csail/12415"
+        },
+        {
+          "title": "Anatomy: 상자와 화살표 대신 움직이는 기계 그림으로 기술 개념을 설명하는 에이전트 스킬",
+          "link": "https://discuss.pytorch.kr/t/anatomy/12412"
+        },
+        {
+          "title": "특정 프레임워크에서 모델이 버그없이 동작하는지를 확인하기 위한 Transformers 모델 통합 계약(MIC) 제안 소개 (feat. Hugging Face)",
+          "link": "https://discuss.pytorch.kr/t/transformers-mic-feat-hugging-face/12411"
+        },
+        {
+          "title": "Google, Antigravity용 Cheminformatics Skills 출시: 크리조티닙 사례로 본 에이전트 신약 설계 (feat. RDKit, ChEMBL)",
+          "link": "https://discuss.pytorch.kr/t/google-antigravity-cheminformatics-skills-feat-rdkit-chembl/12413"
+        },
+        {
+          "title": "TensorRT Edge-LLM으로 DGX Spark에서 Nemotron 3.5 Lightning 실행하기 (DSpark로 생성 속도 최대 1.7배)",
+          "link": "https://discuss.pytorch.kr/t/tensorrt-edge-llm-dgx-spark-nemotron-3-5-lightning-dspark-1-7/12401"
+        },
+        {
+          "title": "플라토닉 표현 정리: 같은 장면의 두 묘사로 학습한 109M JEPA 모델이 72B LLM보다 비전 모델과 더 잘 정렬됨을 확인한 연구 (feat. Yann LeCun)",
+          "link": "https://discuss.pytorch.kr/t/109m-jepa-72b-llm-feat-yann-lecun/12393"
+        },
+        {
+          "title": "OpenAI, 사람의 일상 과제를 대신 처리하는 능력을 재기 위한 LifeVal 벤치마크 및 최신 GPT 모델들의 측정 결과 공개",
+          "link": "https://discuss.pytorch.kr/t/openai-lifeval-gpt/12392"
+        },
+        {
+          "title": "Auto Ontology: DB 메타데이터로 온톨로지를 생성해 AI 에이전트의 SQL을 검증하는 NVIDIA의 시맨틱 레이어 프레임워크",
+          "link": "https://discuss.pytorch.kr/t/auto-ontology-db-ai-sql-nvidia/12402"
+        },
+        {
+          "title": "NVIDIA, 재학습 없이 MLIP 분자 동역학을 최대 1.7배 가속한 Tensor Core FP32 기법 실측 기법 공개",
+          "link": "https://discuss.pytorch.kr/t/nvidia-mlip-1-7-tensor-core-fp32/12360"
+        },
+        {
+          "title": "LLM은 신경망 가중치를 읽고 쓸 수 있을까요?",
+          "link": "https://discuss.pytorch.kr/t/llm/12397"
+        },
+        {
+          "title": "OpenAI Pando: Git 호환을 유지한 채 push 지연을 80% 줄이고 하루 1PB를 전송하는 모노레포 Git 백엔드 (& Anthropic Scion 비교)",
+          "link": "https://discuss.pytorch.kr/t/openai-pando-git-push-80-1pb-git-anthropic-scion/12394"
+        },
+        {
+          "title": "Mistral Large 4 가중치 공개: 토큰을 절반 가량 적게 쓰면서 GLM-5.3과 비슷한 코딩 성능을 기록한 1T 규모의 MoE 모델",
+          "link": "https://discuss.pytorch.kr/t/mistral-large-4-glm-5-3-1t-moe/12386"
+        },
+        {
+          "title": "Google의 Sleep 프레임워크: LLM이 문맥으로 배운 지식을 덮어쓰기 없이 새 매개변수로 옮기는 지속 학습에 대한 연구",
+          "link": "https://discuss.pytorch.kr/t/google-sleep-llm/12367"
+        },
+        {
+          "title": "Meta 30B 모델 가중치 안에 CPU·NPU·GPU·RAM·ROM, 그리고 운영체제를 넣었다: ViKernel v0.4 기술 분석",
+          "link": "https://discuss.pytorch.kr/t/meta-30b-cpu-npu-gpu-ram-rom-vikernel-v0-4/12390"
+        },
+        {
+          "title": "AI 현황 보고서(State of AI) 2026: 프런티어 모델의 3강 구도, 에이전트 보안 사고, AGI 2027 예측 등 [영문/PDF/244p]",
+          "link": "https://discuss.pytorch.kr/t/ai-state-of-ai-2026-3-agi-2027-pdf-244p/12366"
+        },
+        {
+          "title": "Apple 음성 API로 오픈 모델 쓰는 AnySpeechRecognizer와 결정 모델용 AnyDecisionModel 공개 (feat. Hugging Face)",
+          "link": "https://discuss.pytorch.kr/t/apple-api-anyspeechrecognizer-anydecisionmodel-feat-hugging-face/12369"
+        },
+        {
+          "title": "KOMOS – 한국어 음성 품질 평가 모델을 오픈소스로 공개했습니다",
+          "link": "https://discuss.pytorch.kr/t/komos/12380"
+        }
+      ],
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-08/2026-11-08-weekly-pytorch-kr.mp3",
+      "size": 28299950
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-11-07",
       "kind": "daily",
       "catchup": false,
@@ -2440,49 +2555,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-06/2026-09-06-weekly-pytorch-kr.mp3",
       "size": 97388604
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-09-05",
-      "kind": "daily",
-      "catchup": false,
-      "period_start": "2026-09-04",
-      "period_end": "2026-09-05",
-      "file": "2026-09-05-pytorch-kr.mp3",
-      "published": "2026-09-05T08:56:41+09:00",
-      "entries": [
-        {
-          "title": "Codex with ChatGPT: 웹 ChatGPT에 설계와 검토를 맡기는 읽기 전용 MCP 연결",
-          "link": "https://discuss.pytorch.kr/t/codex-with-chatgpt-chatgpt-mcp/11804"
-        },
-        {
-          "title": "Fabro: 에이전트를 지켜보는 대신 작업 절차를 Graphviz 그래프로 정의해 실행하는 오케스트레이터",
-          "link": "https://discuss.pytorch.kr/t/fabro-graphviz/11815"
-        },
-        {
-          "title": "sepia: AI가 작성한 티를 없애기 위해, 어휘 교정 뿐만 아니라 서사 구조까지 종합적으로 살펴보고 개선하는 에이전트 스킬",
-          "link": "https://discuss.pytorch.kr/t/sepia-ai/11813"
-        },
-        {
-          "title": "TimesFM-3: 다변량과 공변량을 한 번의 순전파로 예측하는 제로샷 시계열 파운데이션 모델",
-          "link": "https://discuss.pytorch.kr/t/timesfm-3/11793"
-        },
-        {
-          "title": "OpenAI GPT-6 Astra 출시: 사이버보안 Critical 등급 첫 도달과 낮아진 CoT 모니터링 가능성",
-          "link": "https://discuss.pytorch.kr/t/openai-gpt-6-astra-critical-cot/11819"
-        },
-        {
-          "title": "OpenEnv 프로젝트 소개: 에이전트 강화학습 환경의 공통 인터페이스가 되기까지 (feat. Meta, Hugging Face)",
-          "link": "https://discuss.pytorch.kr/t/openenv-feat-meta-hugging-face/11812"
-        },
-        {
-          "title": "Auto-BenchMax: 벤치마크와 같은 분포로 데이터를 합성해 MCP-Atlas 점수를 2배로 올린 파이프라인",
-          "link": "https://discuss.pytorch.kr/t/auto-benchmax-mcp-atlas-2/11805"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-05/2026-09-05-pytorch-kr.mp3",
-      "size": 21907463
     }
   ]
 }
