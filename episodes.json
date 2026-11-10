@@ -3,6 +3,48 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-11-10",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-11-09",
+      "period_end": "2026-11-10",
+      "file": "2026-11-10-pytorch-kr.mp3",
+      "published": "2026-11-10T11:39:28+09:00",
+      "entries": [
+        {
+          "title": "에이전트 메모리, 많이 저장하기보다 검증하고 다시 정리하기 (feat. Anthropic)",
+          "link": "https://discuss.pytorch.kr/t/12449"
+        },
+        {
+          "title": "PyMuPDF Office: PDF·오피스·한글(HWP) 문서를 하나로 처리하는 Python 라이브러리 (구 PyMuPDF Pro)",
+          "link": "https://discuss.pytorch.kr/t/12453"
+        },
+        {
+          "title": "Anthropic, 과학 연구 세션 20만건 분석 보고서: AI를 통한 과학 연구가 가속 중 [영문/PDF/35p]",
+          "link": "https://discuss.pytorch.kr/t/12429"
+        },
+        {
+          "title": "모델 학습도 이제 코딩 에이전트에게: Claude Code에 맡겼더니 20분 만에 계약서 검토 모델이 배포됐습니다 (정확도 69.5→87.8%, 오픈소스 Overmind)",
+          "link": "https://discuss.pytorch.kr/t/12451"
+        },
+        {
+          "title": "[2026/11/02 ~ 08] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+          "link": "https://discuss.pytorch.kr/t/12446"
+        }
+      ],
+      "media_type": "audio/mpeg",
+      "duration_seconds": 832.731429,
+      "verification": {
+        "method": "sources_only",
+        "audio_sha256": "6dbd0559fa0ddcafef461bf4eab413c1d4017c4cb2856303819605ea00dffbb2",
+        "objective_truth_guarantee": false
+      },
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-10/2026-11-10-pytorch-kr.mp3",
+      "size": 13324164
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-11-09",
       "kind": "daily",
       "catchup": false,
@@ -2512,49 +2554,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-09/2026-09-09-pytorch-kr.mp3",
       "size": 39102220
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-09-08",
-      "kind": "daily",
-      "catchup": true,
-      "period_start": "2026-09-06",
-      "period_end": "2026-09-08",
-      "file": "2026-09-08-pytorch-kr.mp3",
-      "published": "2026-09-08T09:12:54+09:00",
-      "entries": [
-        {
-          "title": "[2026/08/31 ~ 09/06] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
-          "link": "https://discuss.pytorch.kr/t/2026-08-31-09-06-ai-ml/11840"
-        },
-        {
-          "title": "GWM Worlds 2: Runway가 공개한, 소리까지 실시간 생성하며 인물과 장면을 따로 조종하는 월드 모델",
-          "link": "https://discuss.pytorch.kr/t/gwm-worlds-2-runway/11841"
-        },
-        {
-          "title": "hayamimi: GPU와 클라우드 없이 CPU만으로 실시간 다국어 자막을 만드는 음성 인식 도구",
-          "link": "https://discuss.pytorch.kr/t/hayamimi-gpu-cpu/11798"
-        },
-        {
-          "title": "OpenAI가 공개한 GPT-6 Astra 공식 활용 가이드: 자주 되묻는 모델을 끝까지 일하게 하는 프롬프팅과 마이그레이션",
-          "link": "https://discuss.pytorch.kr/t/openai-gpt-6-astra/11846"
-        },
-        {
-          "title": "LightNav-0: 깊이 센서 없이 전방 RGB 카메라 하나로 여러 로봇을 움직이는 4B 내비게이션 모델",
-          "link": "https://discuss.pytorch.kr/t/lightnav-0-rgb-4b/11837"
-        },
-        {
-          "title": "free PhD labor: 고정된 워크플로우 대신 에이전트가 다음 단계를 정하는 연구 자동화 프레임워크",
-          "link": "https://discuss.pytorch.kr/t/free-phd-labor/11838"
-        },
-        {
-          "title": "Reef: 에이전트가 서비스되는 동안 모델 가중치와 하네스를 계속 갱신하는 지속 학습 인프라",
-          "link": "https://discuss.pytorch.kr/t/reef/11830"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-08/2026-09-08-pytorch-kr.mp3",
-      "size": 31490102
     }
   ]
 }
