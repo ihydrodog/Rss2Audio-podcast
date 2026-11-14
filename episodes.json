@@ -3,6 +3,56 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-11-14",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-11-13",
+      "period_end": "2026-11-14",
+      "file": "2026-11-14-pytorch-kr.mp3",
+      "published": "2026-11-14T09:11:56+09:00",
+      "entries": [
+        {
+          "title": "tang: 연산자별 커널 없이 FlashAttention 순전파와 역전파를 유도하는 Rust 텐서 컴파일러",
+          "link": "https://discuss.pytorch.kr/t/12502"
+        },
+        {
+          "title": "Global Weather Model Leaderboard: 전 세계 기상 예측 모델을 매일 같은 조건으로 채점하는 공개 리더보드 공개",
+          "link": "https://discuss.pytorch.kr/t/12506"
+        },
+        {
+          "title": "[오픈소스] HWP까지 읽는 문서 → Markdown 변환기 OpenDocKit을 만들었습니다 (LangChain, LlamaIndex, MCP 지원)",
+          "link": "https://discuss.pytorch.kr/t/12505"
+        },
+        {
+          "title": "Arete-27B: SFT만으로 중국 정부의 정치적 입장을 대변하는 답변을 22% → 0.9%로 개선한 Qwen3.8-27B 기반 모델 (feat. NousResearch)",
+          "link": "https://discuss.pytorch.kr/t/12493"
+        },
+        {
+          "title": "RTX 4090 한 장에서 오픈 모델 속도, VRAM, 정확도, 라이선스를 재서 공개한 사이트를 만들었습니다",
+          "link": "https://discuss.pytorch.kr/t/12500"
+        },
+        {
+          "title": "Google, 에이전트가 텍스트 대신 네이티브 화면으로 답하게 하는 생성형 UI 프로토콜 A2UI 1.0 공개 (feat. MCP Apps)",
+          "link": "https://discuss.pytorch.kr/t/12496"
+        },
+        {
+          "title": "AlphaGenome 2 출시: 세포 유형별 변이 효과 예측으로 단일세포 eQTL 재현율 약 2배 (feat. Google DeepMind)",
+          "link": "https://discuss.pytorch.kr/t/12491"
+        }
+      ],
+      "media_type": "audio/mpeg",
+      "duration_seconds": 1156.649796,
+      "verification": {
+        "method": "sources_only",
+        "audio_sha256": "80968c7568a4ebfd9b85e1e09837017c4f1d7fcb4147757eb1d60d94a386926c",
+        "objective_truth_guarantee": false
+      },
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-14/2026-11-14-pytorch-kr.mp3",
+      "size": 18506858
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-11-13",
       "kind": "daily",
       "catchup": false,
@@ -2516,37 +2566,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-13/2026-09-13-weekly-pytorch-kr.mp3",
       "size": 97539506
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-09-12",
-      "kind": "daily",
-      "catchup": false,
-      "period_start": "2026-09-11",
-      "period_end": "2026-09-12",
-      "file": "2026-09-12-pytorch-kr.mp3",
-      "published": "2026-09-12T09:08:35+09:00",
-      "entries": [
-        {
-          "title": "[A2A 알아보기 1편] A2A 프로토콜: 프레임워크가 서로 달라도 에이전트들끼리 서로 작업을 위임하게 하는 표준 규격",
-          "link": "https://discuss.pytorch.kr/t/a2a-1-a2a/11892"
-        },
-        {
-          "title": "DeepSeek-V4.1-Flash, KV 캐시를 토큰당 890바이트로 줄이고 플래그십 V4-Pro를 대체하는 552B 규모의 MoE 모델",
-          "link": "https://discuss.pytorch.kr/t/deepseek-v4-1-flash-kv-890-v4-pro-552b-moe/11886"
-        },
-        {
-          "title": "MAPL-EMIT: 합성 플룸 360만 개로 학습해 전문가보다 1.5배 많은 메탄 누출을 찾아낸 위성 탐지 모델 (feat. Google, NASA JPL)",
-          "link": "https://discuss.pytorch.kr/t/mapl-emit-360-1-5-feat-google-nasa-jpl/11882"
-        },
-        {
-          "title": "E-P-D 분리 서빙: 비전 인코더를 떼어내 TTFT를 최대 93% 줄이는 조건과 오히려 느려지는 조건 (feat. NVIDIA Dynamo)",
-          "link": "https://discuss.pytorch.kr/t/e-p-d-ttft-93-feat-nvidia-dynamo/11883"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-12/2026-09-12-pytorch-kr.mp3",
-      "size": 47664173
     }
   ]
 }

@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 13 Nov 2026 10:01:49 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:11:56 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-11-14</title>
+      <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12502"&gt;tang: 연산자별 커널 없이 FlashAttention 순전파와 역전파를 유도하는 Rust 텐서 컴파일러&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12506"&gt;Global Weather Model Leaderboard: 전 세계 기상 예측 모델을 매일 같은 조건으로 채점하는 공개 리더보드 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12505"&gt;[오픈소스] HWP까지 읽는 문서 → Markdown 변환기 OpenDocKit을 만들었습니다 (LangChain, LlamaIndex, MCP 지원)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12493"&gt;Arete-27B: SFT만으로 중국 정부의 정치적 입장을 대변하는 답변을 22% → 0.9%로 개선한 Qwen3.8-27B 기반 모델 (feat. NousResearch)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12500"&gt;RTX 4090 한 장에서 오픈 모델 속도, VRAM, 정확도, 라이선스를 재서 공개한 사이트를 만들었습니다&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12496"&gt;Google, 에이전트가 텍스트 대신 네이티브 화면으로 답하게 하는 생성형 UI 프로토콜 A2UI 1.0 공개 (feat. MCP Apps)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12491"&gt;AlphaGenome 2 출시: 세포 유형별 변이 효과 예측으로 단일세포 eQTL 재현율 약 2배 (feat. Google DeepMind)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Sat, 14 Nov 2026 09:11:56 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-14/2026-11-14-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-14/2026-11-14-pytorch-kr.mp3" length="18506858" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-11-13</title>
       <description>&lt;p&gt;오늘의 기사 3개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12492"&gt;vLLM Router: 세션과 캐시를 고려해 추론 요청을 분산하는 라우터&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12487"&gt;Solo to Team: 여러 AI 에이전트에게 맡긴 작업을 회수하고 증거로 검증하는 협업 스킬 4종&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12486"&gt;BotPsy: 2B 모델보다 도구 사용 성능이 뛰어난, Qwen3.5-0.8B 기반 On-Device Agent 모델&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Sun, 13 Sep 2026 09:09:19 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-13/2026-09-13-weekly-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-13/2026-09-13-weekly-pytorch-kr.mp3" length="97539506" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-09-12</title>
-      <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/a2a-1-a2a/11892"&gt;[A2A 알아보기 1편] A2A 프로토콜: 프레임워크가 서로 달라도 에이전트들끼리 서로 작업을 위임하게 하는 표준 규격&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/deepseek-v4-1-flash-kv-890-v4-pro-552b-moe/11886"&gt;DeepSeek-V4.1-Flash, KV 캐시를 토큰당 890바이트로 줄이고 플래그십 V4-Pro를 대체하는 552B 규모의 MoE 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/mapl-emit-360-1-5-feat-google-nasa-jpl/11882"&gt;MAPL-EMIT: 합성 플룸 360만 개로 학습해 전문가보다 1.5배 많은 메탄 누출을 찾아낸 위성 탐지 모델 (feat. Google, NASA JPL)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/e-p-d-ttft-93-feat-nvidia-dynamo/11883"&gt;E-P-D 분리 서빙: 비전 인코더를 떼어내 TTFT를 최대 93% 줄이는 조건과 오히려 느려지는 조건 (feat. NVIDIA Dynamo)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 09:08:35 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-12/2026-09-12-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-12/2026-09-12-pytorch-kr.mp3" length="47664173" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
