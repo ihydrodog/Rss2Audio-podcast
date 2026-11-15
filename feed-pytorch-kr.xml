@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 14 Nov 2026 09:11:56 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:51:18 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-11-16 (밀린 2026-11-14 ~ 2026-11-16 보충)</title>
+      <description>&lt;p&gt;2026-11-14 이후 밀린 기사까지 모은 5개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12509"&gt;llama.cpp, 3년 반 만에 v1.0.0 공개: 이제 C API 호환이 깨지면 메이저 버전을 올립니다 (feat. ggml)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12511"&gt;FlashStates: 하이브리드 LLM 에이전트 서빙에서 Prefix Cache 재계산을 줄이는 상태 관리에 대한 연구 및 vLLM 확장&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12515"&gt;devvm: 프로젝트마다 전용 VM에서 코딩 에이전트를 실행하고 토큰은 내 컴퓨터에 두는 샌드박스&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12512"&gt;Saltline: Claude Fable 5.2가 지시 한 번으로 만든 HTML 파일 하나짜리 브라우저 FPS 게임&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12508"&gt;SimReady 에셋으로 Isaac Sim에서 UR17G 팔이 캔을 옮기는 픽 앤 플레이스 만들기 (feat. NVIDIA)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 05:51:18 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-16/2026-11-16-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-16/2026-11-16-pytorch-kr.mp3" length="17848991" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-11-14</title>
       <description>&lt;p&gt;오늘의 기사 7개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12502"&gt;tang: 연산자별 커널 없이 FlashAttention 순전파와 역전파를 유도하는 Rust 텐서 컴파일러&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12506"&gt;Global Weather Model Leaderboard: 전 세계 기상 예측 모델을 매일 같은 조건으로 채점하는 공개 리더보드 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12505"&gt;[오픈소스] HWP까지 읽는 문서 → Markdown 변환기 OpenDocKit을 만들었습니다 (LangChain, LlamaIndex, MCP 지원)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12493"&gt;Arete-27B: SFT만으로 중국 정부의 정치적 입장을 대변하는 답변을 22% → 0.9%로 개선한 Qwen3.8-27B 기반 모델 (feat. NousResearch)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12500"&gt;RTX 4090 한 장에서 오픈 모델 속도, VRAM, 정확도, 라이선스를 재서 공개한 사이트를 만들었습니다&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12496"&gt;Google, 에이전트가 텍스트 대신 네이티브 화면으로 답하게 하는 생성형 UI 프로토콜 A2UI 1.0 공개 (feat. MCP Apps)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12491"&gt;AlphaGenome 2 출시: 세포 유형별 변이 효과 예측으로 단일세포 eQTL 재현율 약 2배 (feat. Google DeepMind)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Mon, 14 Sep 2026 09:05:06 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-14/2026-09-14-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-14/2026-09-14-pytorch-kr.mp3" length="30919995" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 주간 2026-09-06 ~ 2026-09-13</title>
-      <description>&lt;p&gt;지난 한 주 기사 3개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anthropic-17-9-gdp-32/11895"&gt;Anthropic 경제 시나리오 탐색기: 극단 시나리오에서 지식 노동 실업률 17.9%, GDP는 32% 증가&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/openai-codex-gpt-6-astra-agents-md/11900"&gt;OpenAI Codex 팀이 권하는 GPT-6 Astra 전환 준비, 스킬 설명은 좁게 AGENTS.md는 조건부로&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/cognition-kimi-k3-swe-2-fable-5-1-1-64/11891"&gt;Cognition, Kimi K3 기반 코딩 모델 SWE-2 공개: Fable 5.1과 1점 차, 비용은 64% 절감&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Sun, 13 Sep 2026 09:09:19 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-13/2026-09-13-weekly-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-13/2026-09-13-weekly-pytorch-kr.mp3" length="97539506" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
