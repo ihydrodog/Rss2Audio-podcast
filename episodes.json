@@ -117,15 +117,15 @@
         }
       ],
       "media_type": "audio/mpeg",
-      "duration_seconds": 745.090612,
+      "duration_seconds": 907.180408,
       "ai_generated_audio": true,
       "verification": {
         "method": "script_review_and_audio_spot_checks",
-        "audio_sha256": "5895cd07dc461d43f51dd53cc68d50c2d1244daaff72248fc907360d957bba50",
+        "audio_sha256": "171a9a2eef49223cc279e950719c09230b32685ba58a039d6b9b1400bd833644",
         "objective_truth_guarantee": false
       },
       "url": "https://ihydrodog.github.io/Rss2Audio-podcast/audio/2026-11-15-weekly-pytorch-kr.mp3",
-      "size": 8941588
+      "size": 10886676
     },
     {
       "feed": "pytorch-kr",
