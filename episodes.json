@@ -3,6 +3,48 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-11-18",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-11-17",
+      "period_end": "2026-11-18",
+      "file": "2026-11-18-pytorch-kr.mp3",
+      "published": "2026-11-18T08:26:35+09:00",
+      "entries": [
+        {
+          "title": "Qwen, 새로운 구조로 이전보다 토큰과 API 가격을 줄인 2.4T 규모 플래그십 모델 Qwen4-Max 출시 (소형 모델은 가중치 공개 예정)",
+          "link": "https://discuss.pytorch.kr/t/12557"
+        },
+        {
+          "title": "OpenMAIC: 주제나 문서를 AI 교사와 AI 동료 학생이 함께하는 인터랙티브 수업으로 바꿔주는 플랫폼",
+          "link": "https://discuss.pytorch.kr/t/12553"
+        },
+        {
+          "title": "GPU 한 장에 안 들어가는 GLM-5.3 753B 모델을 DGX Station 2대에 나눠 vLLM으로 서빙하기",
+          "link": "https://discuss.pytorch.kr/t/12537"
+        },
+        {
+          "title": "OpenAI, 에이전트가 실제 카드번호 없이 결제하는 ChatGPT Wallet 출시: 구매마다 생체 인증 (미국, Pro 요금제 한정)",
+          "link": "https://discuss.pytorch.kr/t/12538"
+        },
+        {
+          "title": "[2026/11/09 ~ 15] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
+          "link": "https://discuss.pytorch.kr/t/12522"
+        }
+      ],
+      "media_type": "audio/mpeg",
+      "duration_seconds": 1377.828571,
+      "verification": {
+        "method": "sources_only",
+        "audio_sha256": "be035c64eec51e2f88241eb4d1c8479cfb71072a81a7fa02ccf8f1761cf4f4a4",
+        "objective_truth_guarantee": false
+      },
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-18/2026-11-18-pytorch-kr.mp3",
+      "size": 22045719
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-11-17",
       "kind": "daily",
       "catchup": false,
@@ -2645,33 +2687,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-18/2026-09-18-pytorch-kr.mp3",
       "size": 25098477
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-09-17",
-      "kind": "daily",
-      "catchup": false,
-      "period_start": "2026-09-16",
-      "period_end": "2026-09-17",
-      "file": "2026-09-17-pytorch-kr.mp3",
-      "published": "2026-09-17T07:43:29+09:00",
-      "entries": [
-        {
-          "title": "NVIDIA의 Transformer Engine으로 JAX의 Dropless MoE 학습 처리량 약 10배 달성하기 (105 → 1,025 TFLOPs)",
-          "link": "https://discuss.pytorch.kr/t/nvidia-transformer-engine-jax-dropless-moe-10-105-1-025-tflops/11927"
-        },
-        {
-          "title": "llmfit: 로컬 LLM 모델을 내려받기 전, 내 하드웨어에서의 생성 속도(tok/s)가 얼마 정도일지 추정하는 도구",
-          "link": "https://discuss.pytorch.kr/t/llmfit-llm-tok-s/11922"
-        },
-        {
-          "title": "UnifoLM-WLA-1.0: 영상의 변화 영역을 토큰으로 예측하는 Unitree의 6B 규모 휴머노이드용 모델",
-          "link": "https://discuss.pytorch.kr/t/unifolm-wla-1-0-unitree-6b/11929"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-17/2026-09-17-pytorch-kr.mp3",
-      "size": 21508312
     }
   ]
 }
