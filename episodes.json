@@ -3,6 +3,44 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-11-17",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-11-16",
+      "period_end": "2026-11-17",
+      "file": "2026-11-17-pytorch-kr.mp3",
+      "published": "2026-11-17T09:04:02+09:00",
+      "entries": [
+        {
+          "title": "Haru-4B: 4,000만 시간의 실제 음성으로 학습한, 듣는 동안 말하는 전이중 음성 대화 모델 공개 (feat. Qwen3.5, MeanFlow)",
+          "link": "https://discuss.pytorch.kr/t/12533"
+        },
+        {
+          "title": "[실험] 중간 산출물이 생기는 긴 작업이면 넘기기가 될까? AgentBaton 축소 재현 후속: Haiku 5.5와 로컬 4B 비교 (비공식)",
+          "link": "https://discuss.pytorch.kr/t/12532"
+        },
+        {
+          "title": "Microsoft의 이미지-to-3D 모델 TRELLIS.2를 신발 스캔 179개로 구조와 형상 단계 LoRA 미세조정하기",
+          "link": "https://discuss.pytorch.kr/t/12510"
+        },
+        {
+          "title": "XYBench: AllenAI가 공개한, 사용자가 잘못 짚은 질문에서 LLM이 진짜 목표를 찾는지 확인하는 벤치마크",
+          "link": "https://discuss.pytorch.kr/t/12507"
+        }
+      ],
+      "media_type": "audio/mpeg",
+      "duration_seconds": 782.733061,
+      "verification": {
+        "method": "sources_only",
+        "audio_sha256": "015d79082e24b3d1950bdc0893345250e7710604d3e7d12ad7e77a94e256c1b1",
+        "objective_truth_guarantee": false
+      },
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-17/2026-11-17-pytorch-kr.mp3",
+      "size": 12524191
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-11-15",
       "kind": "weekly",
       "catchup": false,
@@ -2634,80 +2672,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-17/2026-09-17-pytorch-kr.mp3",
       "size": 21508312
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-09-16",
-      "kind": "daily",
-      "catchup": true,
-      "period_start": "2026-09-14",
-      "period_end": "2026-09-16",
-      "file": "2026-09-16-pytorch-kr.mp3",
-      "published": "2026-09-16T07:51:24+09:00",
-      "entries": [
-        {
-          "title": "[2026/09/07 ~ 13] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
-          "link": "https://discuss.pytorch.kr/t/2026-09-07-13-ai-ml/11911"
-        },
-        {
-          "title": "OpenWAM: 로봇 World-Action Model의 설계 선택을 하나씩 바꿔 비교하는 모듈형 사전학습 스택",
-          "link": "https://discuss.pytorch.kr/t/openwam-world-action-model/11881"
-        },
-        {
-          "title": "벤치마크를 믿기 어려운 이유 - 홈 어드밴티지",
-          "link": "https://discuss.pytorch.kr/t/topic/11912"
-        },
-        {
-          "title": "[A2A 알아보기 2편] A2A Python SDK: 나의 에이전트를 다른 사람의 에이전트가 호출할 수 있도록 하기 위해 A2A 서버로 공개하기",
-          "link": "https://discuss.pytorch.kr/t/a2a-2-a2a-python-sdk-a2a/11893"
-        },
-        {
-          "title": "[A2A 알아보기 3편] A2A CLI: 클라이언트 코드 없이, 터미널에서 A2A 에이전트를 호출하고 띄우는 공식 명령줄 도구",
-          "link": "https://discuss.pytorch.kr/t/a2a-3-a2a-cli-a2a/11894"
-        },
-        {
-          "title": "edge0: 35B MoE 모델을 활성 메모리 3GiB로 실행하는 SSD 전문가 스트리밍 추론 프레임워크",
-          "link": "https://discuss.pytorch.kr/t/edge0-35b-moe-3gib-ssd/11914"
-        },
-        {
-          "title": "Chat On Steroids: 승인한 폴더 내에서 ChatGPT가 파일과 터미널을 다루도록 하는 로컬 MCP 앱",
-          "link": "https://discuss.pytorch.kr/t/chat-on-steroids-chatgpt-mcp/11915"
-        },
-        {
-          "title": "Three.js Game Skills: 코딩 에이전트가 만든 브라우저 게임을 점수표로 검증하는 스킬 9종",
-          "link": "https://discuss.pytorch.kr/t/three-js-game-skills-9/11916"
-        },
-        {
-          "title": "Paperthin: 코딩 에이전트가 작업 중 생성한 문서와 코드를 덜어내는 오픈소스 스킬 모음 (28-in-1)",
-          "link": "https://discuss.pytorch.kr/t/paperthin-28-in-1/11921"
-        },
-        {
-          "title": "모델보다 데이터가 어려웠다 — 학부생이 제조 AI 프로젝트를 하며 배운 것",
-          "link": "https://discuss.pytorch.kr/t/ai/11930"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-16/2026-09-16-pytorch-kr.mp3",
-      "size": 35134801
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-09-14",
-      "kind": "daily",
-      "catchup": false,
-      "period_start": "2026-09-13",
-      "period_end": "2026-09-14",
-      "file": "2026-09-14-pytorch-kr.mp3",
-      "published": "2026-09-14T09:05:06+09:00",
-      "entries": [
-        {
-          "title": "OKF Agent Memory: 벡터 DB 없이 Git 저장소의 마크다운으로 AI 코딩 에이전트 기억을 관리하는 도구",
-          "link": "https://discuss.pytorch.kr/t/okf-agent-memory-db-git-ai/11884"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-14/2026-09-14-pytorch-kr.mp3",
-      "size": 30919995
     }
   ]
 }
