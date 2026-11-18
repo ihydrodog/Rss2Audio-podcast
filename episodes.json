@@ -3,6 +3,48 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-11-19",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-11-18",
+      "period_end": "2026-11-19",
+      "file": "2026-11-19-pytorch-kr.mp3",
+      "published": "2026-11-19T07:59:59+09:00",
+      "entries": [
+        {
+          "title": "멀티모달 모델의 비전 인코더(Vision Encoder), 사전 학습보다 전용 파라미터가 중요하다는 통제 실험 연구",
+          "link": "https://discuss.pytorch.kr/t/12558"
+        },
+        {
+          "title": "GPT-6.2 Astra 및 Sol 프롬프팅 가이드: 대화 이력을 고치면 추론이 버려지는 API 변경과 대응법",
+          "link": "https://discuss.pytorch.kr/t/12563"
+        },
+        {
+          "title": "OpenAI, GPT-6.2 Astra와 Sol 출시: Astra 가격 20% 인하, AI 자기 개선 High 등급 첫 출시",
+          "link": "https://discuss.pytorch.kr/t/12562"
+        },
+        {
+          "title": "Personal Agent Protocol 1.0 공개: Sierra와 Meta가 주도하는, 개인용 AI 에이전트의 로그인과 권한에 대한 공개 표준",
+          "link": "https://discuss.pytorch.kr/t/12554"
+        },
+        {
+          "title": "Sevren, 휴대폰에서 오프라인으로 돌아가는 10B-A1B 추론 모델 Embla 1 공개 (feat. embla-metal)",
+          "link": "https://discuss.pytorch.kr/t/12556"
+        }
+      ],
+      "media_type": "audio/mpeg",
+      "duration_seconds": 1637.537959,
+      "verification": {
+        "method": "sources_only",
+        "audio_sha256": "25c436acb1db5fe3e4a01b200a7a7128483081df62696ed7adf1595509b0c178",
+        "objective_truth_guarantee": false
+      },
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-19/2026-11-19-pytorch-kr.mp3",
+      "size": 26201069
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-11-18",
       "kind": "daily",
       "catchup": false,
@@ -2656,37 +2698,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-19/2026-09-19-pytorch-kr.mp3",
       "size": 41517577
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-09-18",
-      "kind": "daily",
-      "catchup": false,
-      "period_start": "2026-09-17",
-      "period_end": "2026-09-18",
-      "file": "2026-09-18-pytorch-kr.mp3",
-      "published": "2026-09-18T07:45:06+09:00",
-      "entries": [
-        {
-          "title": "BrowserSkill: 사람이 사용하던 브라우저 상태 그대로 에이전트에게 사용할 수 있도록 하는 CLI 도구",
-          "link": "https://discuss.pytorch.kr/t/browserskill-cli/11936"
-        },
-        {
-          "title": "Bernini: Wan 렌더러에 MLLM 플래너를 더해 영상 생성과 편집 6개 작업을 하나로 묶은 영상 생성 프레임워크",
-          "link": "https://discuss.pytorch.kr/t/bernini-wan-mllm-6/11931"
-        },
-        {
-          "title": "탐지·분할·깊이 추정을 하나의 모델로 출력하는 SenseNova-Vision 모델",
-          "link": "https://discuss.pytorch.kr/t/sensenova-vision/11939"
-        },
-        {
-          "title": "Jev, 토큰 대신 확률적 결정을 내놓는 새로운 형태의 System One 모델 (feat. TypeSafe AI)",
-          "link": "https://discuss.pytorch.kr/t/jev-system-one-feat-typesafe-ai/11935"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-18/2026-09-18-pytorch-kr.mp3",
-      "size": 25098477
     }
   ]
 }
