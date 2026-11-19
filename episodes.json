@@ -3,6 +3,48 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-11-20",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-11-19",
+      "period_end": "2026-11-20",
+      "file": "2026-11-20-pytorch-kr.mp3",
+      "published": "2026-11-20T07:59:08+09:00",
+      "entries": [
+        {
+          "title": "ECC: 계획, 테스트, 리뷰, 기억 절차를 Claude Code와 Codex 등 코딩 에이전트에 설치하는 도구 (이전 Everything Claude Code)",
+          "link": "https://discuss.pytorch.kr/t/12585"
+        },
+        {
+          "title": "셸을 쥐여주자 공개 LLM 21종이 전부 뚫렸다: GPT·라마·딥시크·Qwen 같은 기준 점검, 종합 등급 21/21 'F', 100건 중 최대 98건 위험 행동",
+          "link": "https://discuss.pytorch.kr/t/12583"
+        },
+        {
+          "title": "NVIDIA cuBLAS, 정수 Tensor Core로 FP64 정확도를 유지한 채 DGEMM 최대 5.5배 가속 (feat. Ozaki-II, 2M)",
+          "link": "https://discuss.pytorch.kr/t/12539"
+        },
+        {
+          "title": "[실험] 힌트와 해석기 피드백으로 싼 모델이 재무 최적화 문제를 더 잘 정식화할까? OptiMind 축소 실험 (비공식)",
+          "link": "https://discuss.pytorch.kr/t/12580"
+        },
+        {
+          "title": "코딩 에이전트 Devin이 만든 사내 도구를 클라우드 머신에서 바로 실행하고 운영하는 Devin Apps 출시",
+          "link": "https://discuss.pytorch.kr/t/12555"
+        }
+      ],
+      "media_type": "audio/mpeg",
+      "duration_seconds": 1004.277551,
+      "verification": {
+        "method": "sources_only",
+        "audio_sha256": "ff5a09ac33f116700a47476a8ac3983fd95beb9bfb0839397b5519055364d91d",
+        "objective_truth_guarantee": false
+      },
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-20/2026-11-20-pytorch-kr.mp3",
+      "size": 16068902
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-11-19",
       "kind": "daily",
       "catchup": false,
@@ -2667,37 +2709,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-20/2026-09-20-weekly-pytorch-kr.mp3",
       "size": 22180995
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-09-19",
-      "kind": "daily",
-      "catchup": false,
-      "period_start": "2026-09-18",
-      "period_end": "2026-09-19",
-      "file": "2026-09-19-pytorch-kr.mp3",
-      "published": "2026-09-19T07:21:51+09:00",
-      "entries": [
-        {
-          "title": "Anthropic, 내부의 AI 개발 속도를 측정하는 3가지 지표 공개 공개: Claude가 AI R&D의 26%를 주도",
-          "link": "https://discuss.pytorch.kr/t/anthropic-ai-3-claude-ai-r-d-26/11953"
-        },
-        {
-          "title": "'라틴방진'으로 '트랜스포머' 스택을 해부한 실증 연구 분석",
-          "link": "https://discuss.pytorch.kr/t/topic/11950"
-        },
-        {
-          "title": "RLT(Recurrent Looped Transformer): 생성하는 토큰이 길어질수록 더 많은 연산을 하는 순환 디코더에 대한 연구",
-          "link": "https://discuss.pytorch.kr/t/rlt-recurrent-looped-transformer/11937"
-        },
-        {
-          "title": "Kaggle TPU Lab: 무료 Kaggle TPU에서 320B 크기의 GLM-5.3-Flash을 서빙하는 코딩 에이전트용 API 레시피 저장소",
-          "link": "https://discuss.pytorch.kr/t/kaggle-tpu-lab-kaggle-tpu-320b-glm-5-3-flash-api/11944"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-19/2026-09-19-pytorch-kr.mp3",
-      "size": 41517577
     }
   ]
 }

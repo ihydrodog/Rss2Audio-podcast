@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 19 Nov 2026 07:59:59 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:59:08 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-11-20</title>
+      <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12585"&gt;ECC: 계획, 테스트, 리뷰, 기억 절차를 Claude Code와 Codex 등 코딩 에이전트에 설치하는 도구 (이전 Everything Claude Code)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12583"&gt;셸을 쥐여주자 공개 LLM 21종이 전부 뚫렸다: GPT·라마·딥시크·Qwen 같은 기준 점검, 종합 등급 21/21 &amp;#x27;F&amp;#x27;, 100건 중 최대 98건 위험 행동&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12539"&gt;NVIDIA cuBLAS, 정수 Tensor Core로 FP64 정확도를 유지한 채 DGEMM 최대 5.5배 가속 (feat. Ozaki-II, 2M)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12580"&gt;[실험] 힌트와 해석기 피드백으로 싼 모델이 재무 최적화 문제를 더 잘 정식화할까? OptiMind 축소 실험 (비공식)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12555"&gt;코딩 에이전트 Devin이 만든 사내 도구를 클라우드 머신에서 바로 실행하고 운영하는 Devin Apps 출시&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 07:59:08 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-20/2026-11-20-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-20/2026-11-20-pytorch-kr.mp3" length="16068902" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-11-19</title>
       <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12558"&gt;멀티모달 모델의 비전 인코더(Vision Encoder), 사전 학습보다 전용 파라미터가 중요하다는 통제 실험 연구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12563"&gt;GPT-6.2 Astra 및 Sol 프롬프팅 가이드: 대화 이력을 고치면 추론이 버려지는 API 변경과 대응법&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12562"&gt;OpenAI, GPT-6.2 Astra와 Sol 출시: Astra 가격 20% 인하, AI 자기 개선 High 등급 첫 출시&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12554"&gt;Personal Agent Protocol 1.0 공개: Sierra와 Meta가 주도하는, 개인용 AI 에이전트의 로그인과 권한에 대한 공개 표준&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12556"&gt;Sevren, 휴대폰에서 오프라인으로 돌아가는 10B-A1B 추론 모델 Embla 1 공개 (feat. embla-metal)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Sun, 20 Sep 2026 07:12:06 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-20/2026-09-20-weekly-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-20/2026-09-20-weekly-pytorch-kr.mp3" length="22180995" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-09-19</title>
-      <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/anthropic-ai-3-claude-ai-r-d-26/11953"&gt;Anthropic, 내부의 AI 개발 속도를 측정하는 3가지 지표 공개 공개: Claude가 AI R&amp;amp;D의 26%를 주도&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/topic/11950"&gt;&amp;#x27;라틴방진&amp;#x27;으로 &amp;#x27;트랜스포머&amp;#x27; 스택을 해부한 실증 연구 분석&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/rlt-recurrent-looped-transformer/11937"&gt;RLT(Recurrent Looped Transformer): 생성하는 토큰이 길어질수록 더 많은 연산을 하는 순환 디코더에 대한 연구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/kaggle-tpu-lab-kaggle-tpu-320b-glm-5-3-flash-api/11944"&gt;Kaggle TPU Lab: 무료 Kaggle TPU에서 320B 크기의 GLM-5.3-Flash을 서빙하는 코딩 에이전트용 API 레시피 저장소&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 07:21:51 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-19/2026-09-19-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-19/2026-09-19-pytorch-kr.mp3" length="41517577" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
