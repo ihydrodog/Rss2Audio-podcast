@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 20 Nov 2026 07:59:08 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 07:45:58 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-11-21</title>
+      <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12588"&gt;RadixArk, 과제 1,200개 강화학습만으로 Qwen3.8-27B를 다듬은 DaisyRose-27B 공개 (feat. Miles)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12589"&gt;DSA: 미국, 중국, 한국 등, 6개 주요 주식 시장의 관심 종목을 매일 LLM으로 분석해 메신저로 보내주는 주식 리서치 시스템&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12592"&gt;[도구 공개] 에이전트가 쓴 보고서의 숫자마다 영수증을 붙이는 스킬, receipts&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12587"&gt;Phai-A1: Qwen3.6-35B-A3B를 화웨이 Ascend 칩에서 사후 학습한 1M 컨텍스트의 코딩 에이전트용 공개 모델&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12590"&gt;Google, Gemini 4 Neon 출시: AA 지수에서 Carbon을 앞선 Gemini 4 중간 모델&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Sat, 21 Nov 2026 07:45:58 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-21/2026-11-21-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-21/2026-11-21-pytorch-kr.mp3" length="12247502" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-11-20</title>
       <description>&lt;p&gt;오늘의 기사 5개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12585"&gt;ECC: 계획, 테스트, 리뷰, 기억 절차를 Claude Code와 Codex 등 코딩 에이전트에 설치하는 도구 (이전 Everything Claude Code)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12583"&gt;셸을 쥐여주자 공개 LLM 21종이 전부 뚫렸다: GPT·라마·딥시크·Qwen 같은 기준 점검, 종합 등급 21/21 &amp;#x27;F&amp;#x27;, 100건 중 최대 98건 위험 행동&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12539"&gt;NVIDIA cuBLAS, 정수 Tensor Core로 FP64 정확도를 유지한 채 DGEMM 최대 5.5배 가속 (feat. Ozaki-II, 2M)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12580"&gt;[실험] 힌트와 해석기 피드백으로 싼 모델이 재무 최적화 문제를 더 잘 정식화할까? OptiMind 축소 실험 (비공식)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12555"&gt;코딩 에이전트 Devin이 만든 사내 도구를 클라우드 머신에서 바로 실행하고 운영하는 Devin Apps 출시&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Mon, 21 Sep 2026 07:16:12 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-21/2026-09-21-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-21/2026-09-21-pytorch-kr.mp3" length="36486658" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 주간 2026-09-13 ~ 2026-09-20</title>
-      <description>&lt;p&gt;지난 한 주 기사 2개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/harnesstax-7-x-3-feat-uc-berkeley/11957"&gt;HarnessTax: 7가지 모델 x 3가지 하네스로 실험한, 모델과 하네스에 따른 성능과 비용에 대한 연구 (feat. UC Berkeley)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/ternary-bonsai-2-27b-5-93gb-fp16-98-2-feat-prismml/11949"&gt;Ternary Bonsai 2 27B, 5.93GB로 줄이고도 FP16 성능의 98.2%를 지킨 삼진 모델 (feat. PrismML)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Sun, 20 Sep 2026 07:12:06 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-20/2026-09-20-weekly-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-20/2026-09-20-weekly-pytorch-kr.mp3" length="22180995" type="audio/mpeg" />
     </item>
   </channel>
 </rss>

@@ -3,6 +3,48 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-11-21",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-11-20",
+      "period_end": "2026-11-21",
+      "file": "2026-11-21-pytorch-kr.mp3",
+      "published": "2026-11-21T07:45:58+09:00",
+      "entries": [
+        {
+          "title": "RadixArk, 과제 1,200개 강화학습만으로 Qwen3.8-27B를 다듬은 DaisyRose-27B 공개 (feat. Miles)",
+          "link": "https://discuss.pytorch.kr/t/12588"
+        },
+        {
+          "title": "DSA: 미국, 중국, 한국 등, 6개 주요 주식 시장의 관심 종목을 매일 LLM으로 분석해 메신저로 보내주는 주식 리서치 시스템",
+          "link": "https://discuss.pytorch.kr/t/12589"
+        },
+        {
+          "title": "[도구 공개] 에이전트가 쓴 보고서의 숫자마다 영수증을 붙이는 스킬, receipts",
+          "link": "https://discuss.pytorch.kr/t/12592"
+        },
+        {
+          "title": "Phai-A1: Qwen3.6-35B-A3B를 화웨이 Ascend 칩에서 사후 학습한 1M 컨텍스트의 코딩 에이전트용 공개 모델",
+          "link": "https://discuss.pytorch.kr/t/12587"
+        },
+        {
+          "title": "Google, Gemini 4 Neon 출시: AA 지수에서 Carbon을 앞선 Gemini 4 중간 모델",
+          "link": "https://discuss.pytorch.kr/t/12590"
+        }
+      ],
+      "media_type": "audio/mpeg",
+      "duration_seconds": 765.44,
+      "verification": {
+        "method": "sources_only",
+        "audio_sha256": "776986bf88a2b93624605d731017b8125449b3781d7109dce694aa44f4c11fc4",
+        "objective_truth_guarantee": false
+      },
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-21/2026-11-21-pytorch-kr.mp3",
+      "size": 12247502
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-11-20",
       "kind": "daily",
       "catchup": false,
@@ -2686,29 +2728,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-21/2026-09-21-pytorch-kr.mp3",
       "size": 36486658
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-09-20",
-      "kind": "weekly",
-      "catchup": false,
-      "period_start": "2026-09-13",
-      "period_end": "2026-09-20",
-      "file": "2026-09-20-weekly-pytorch-kr.mp3",
-      "published": "2026-09-20T07:12:06+09:00",
-      "entries": [
-        {
-          "title": "HarnessTax: 7가지 모델 x 3가지 하네스로 실험한, 모델과 하네스에 따른 성능과 비용에 대한 연구 (feat. UC Berkeley)",
-          "link": "https://discuss.pytorch.kr/t/harnesstax-7-x-3-feat-uc-berkeley/11957"
-        },
-        {
-          "title": "Ternary Bonsai 2 27B, 5.93GB로 줄이고도 FP16 성능의 98.2%를 지킨 삼진 모델 (feat. PrismML)",
-          "link": "https://discuss.pytorch.kr/t/ternary-bonsai-2-27b-5-93gb-fp16-98-2-feat-prismml/11949"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-20/2026-09-20-weekly-pytorch-kr.mp3",
-      "size": 22180995
     }
   ]
 }
