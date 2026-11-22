@@ -3,6 +3,40 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-11-23",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-11-22",
+      "period_end": "2026-11-23",
+      "file": "2026-11-23-pytorch-kr.mp3",
+      "published": "2026-11-23T06:33:46+09:00",
+      "entries": [
+        {
+          "title": "[도구 업데이트] receipts 0.2.0: 문서 속 숫자를 한국 공시(DART)와 대조하기",
+          "link": "https://discuss.pytorch.kr/t/12605"
+        },
+        {
+          "title": "클로드의 리만 가설 증명에 대한 독립 재현 검증하기: Weil 양성 조건을 수치로 관측하기 - 유한요소 조립, 고윳값, 그리고 검증의 경계",
+          "link": "https://discuss.pytorch.kr/t/12604"
+        },
+        {
+          "title": "NeuML, 파라미터 840개부터 시작하는 초소형 검색 임베딩 모델 Atto 공개 (feat. ColBERT, txtai)",
+          "link": "https://discuss.pytorch.kr/t/12596"
+        }
+      ],
+      "media_type": "audio/mpeg",
+      "duration_seconds": 780.930612,
+      "verification": {
+        "method": "sources_only",
+        "audio_sha256": "2f793340667ce22eed5c9dd9d4d47429bb04fb3debd5494c9d0e8a5b0182e5c6",
+        "objective_truth_guarantee": false
+      },
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-23/2026-11-23-pytorch-kr.mp3",
+      "size": 12495351
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-11-22",
       "kind": "weekly",
       "catchup": false,
@@ -2800,41 +2834,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-23/2026-09-23-pytorch-kr.mp3",
       "size": 46703881
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-09-22",
-      "kind": "daily",
-      "catchup": false,
-      "period_start": "2026-09-21",
-      "period_end": "2026-09-22",
-      "file": "2026-09-22-pytorch-kr.mp3",
-      "published": "2026-09-22T08:10:02+09:00",
-      "entries": [
-        {
-          "title": "Jev Search: 사용자의 질의에 대해, 어디를 검색해야 하는지 URL과 순위만 제공하는 웹 검색 프로젝트",
-          "link": "https://discuss.pytorch.kr/t/jev-search-url/11976"
-        },
-        {
-          "title": "Fast Jev Compaction: 컨텍스트 정리 시, 불필요한 도구 호출 결과를 제외하는 Claude Code 플러그인",
-          "link": "https://discuss.pytorch.kr/t/fast-jev-compaction-claude-code/11970"
-        },
-        {
-          "title": "Stonkfly: LLM 없이 초파리 커넥톰 16만 뉴런이 매매를 제안하는 실험 (수익성은 미검증)",
-          "link": "https://discuss.pytorch.kr/t/stonkfly-llm-16/11967"
-        },
-        {
-          "title": "OpenArm: 원격 조작부터 학습 정책 평가까지 공개한 오픈소스 양팔 로봇",
-          "link": "https://discuss.pytorch.kr/t/openarm/11947"
-        },
-        {
-          "title": "[2026/09/14 ~ 20] 이번 주에 살펴볼 만한 AI/ML 논문 모음",
-          "link": "https://discuss.pytorch.kr/t/2026-09-14-20-ai-ml/11966"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-22/2026-09-22-pytorch-kr.mp3",
-      "size": 40883856
     }
   ]
 }
