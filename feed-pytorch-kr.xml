@@ -5,10 +5,17 @@
     <link>https://ihydrodog.github.io/Rss2Audio-podcast</link>
     <description>RSS 뉴스로 만든 데일리 팟캐스트</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:33:46 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:53:18 +0900</lastBuildDate>
     <atom:link href="https://ihydrodog.github.io/Rss2Audio-podcast/feed-pytorch-kr.xml" rel="self" type="application/rss+xml" />
     <itunes:author>hyrodog</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>pytorch-kr 2026-11-24</title>
+      <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12609"&gt;skill-distill: Claude Code와 Codex의 성공 세션을 오픈 웨이트 모델이 재현하도록 스킬로 다듬는 루프&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12612"&gt;Thinking Machines Lab, 32GB Mac에서 돌아가는 루프 트랜스포머 Inkling 2 Mini 공개&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12611"&gt;Frostbite: AI가 명령어 집합부터 칩 레이아웃까지 설계한 상호작용 네트 기반 CPU (feat. Architect Labs)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12608"&gt;[2026/11/16 ~ 22] 이번 주에 살펴볼 만한 AI/ML 논문 모음&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 11:53:18 +0900</pubDate>
+      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-24/2026-11-24-pytorch-kr.mp3</guid>
+      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-24/2026-11-24-pytorch-kr.mp3" length="26096579" type="audio/mpeg" />
+    </item>
     <item>
       <title>pytorch-kr 2026-11-23</title>
       <description>&lt;p&gt;오늘의 기사 3개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12605"&gt;[도구 업데이트] receipts 0.2.0: 문서 속 숫자를 한국 공시(DART)와 대조하기&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12604"&gt;클로드의 리만 가설 증명에 대한 독립 재현 검증하기: Weil 양성 조건을 수치로 관측하기 - 유한요소 조립, 고윳값, 그리고 검증의 경계&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/12596"&gt;NeuML, 파라미터 840개부터 시작하는 초소형 검색 임베딩 모델 Atto 공개 (feat. ColBERT, txtai)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
@@ -421,13 +428,6 @@
       <pubDate>Thu, 24 Sep 2026 07:48:55 +0900</pubDate>
       <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-24/2026-09-24-pytorch-kr.mp3</guid>
       <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-24/2026-09-24-pytorch-kr.mp3" length="31650831" type="audio/mpeg" />
-    </item>
-    <item>
-      <title>pytorch-kr 2026-09-23</title>
-      <description>&lt;p&gt;오늘의 기사 4개&lt;/p&gt;&lt;p&gt;입력 소스 목록입니다. 실제 음성에서 모든 기사를 다뤘다는 검증 결과는 아닙니다.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/aiperf-nvidia-llm/11975"&gt;AIPerf: 서버 성능 측정 시, 부하 생성기가 병목이 되지 않도록 NVIDIA가 개발 및 공개한 LLM 추론 벤치마크 도구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/r4t-retrieve-for-train-rl-fan-out-diffusion-model/11933"&gt;R4T(Retrieve-for-Train): RL로 찾은 질의 팬아웃(fan-out) 행동을 경량 확산 검색기(Diffusion Model)로 컴파일하는 연구&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/xiaomi-rl-1-02t-mimo-v2-6-1/11981"&gt;Xiaomi, RL 코드와 학습 환경까지 공개한 1.02T 옴니모달 MiMo-V2.6 출시, 오픈소스 지능 지수 1위&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://discuss.pytorch.kr/t/bend-2-feat-c-gpu/11960"&gt;Bend 2: 프로그램이 지켜야 할 규칙을 명시하고, 코딩 에이전트가 규칙을 위반하면 컴파일이 실패하는 언어 (feat. C 수준 속도 &amp;amp; GPU 실행)&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 07:50:01 +0900</pubDate>
-      <guid isPermaLink="true">https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-23/2026-09-23-pytorch-kr.mp3</guid>
-      <enclosure url="https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-23/2026-09-23-pytorch-kr.mp3" length="46703881" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
