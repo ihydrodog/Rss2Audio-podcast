@@ -3,6 +3,44 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-11-25",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-11-24",
+      "period_end": "2026-11-25",
+      "file": "2026-11-25-pytorch-kr.mp3",
+      "published": "2026-11-25T09:27:43+09:00",
+      "entries": [
+        {
+          "title": "DeepCrossAttention(DCA): 이전 층의 출력을 골라 읽는 잔차 연결로 같은 퍼플렉서티에 최대 3배 빨리 도달하는 기법 소개 (feat. Google)",
+          "link": "https://discuss.pytorch.kr/t/12635"
+        },
+        {
+          "title": "Z.ai, 750B 모델의 가운데 28개 층을 두 번 돌리는 루프 트랜스포머 GLM-5.4 출시 (Coding Plan 사용자에게 먼저 제공)",
+          "link": "https://discuss.pytorch.kr/t/12632"
+        },
+        {
+          "title": "하네스 기반, RL로 학습한 Qwen3.8-27B LoRA 어댑터 공개: 정확도는 상승하면서 도구 호출 횟수는 감소",
+          "link": "https://discuss.pytorch.kr/t/12610"
+        },
+        {
+          "title": "LookAtMyQuant: 텐서마다 압축 손상을 재서, 같은 파일 크기에서 원본에 더 가까운 양자화 모델을 만드는 컴파일러",
+          "link": "https://discuss.pytorch.kr/t/12613"
+        }
+      ],
+      "media_type": "audio/mpeg",
+      "duration_seconds": 1702.765714,
+      "verification": {
+        "method": "sources_only",
+        "audio_sha256": "8669426d3170c00dbee00900f79bc9d1e096ba6dd1e3b460f661a8f4dc96ffa2",
+        "objective_truth_guarantee": false
+      },
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-25/2026-11-25-pytorch-kr.mp3",
+      "size": 27244713
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-11-24",
       "kind": "daily",
       "catchup": false,
@@ -2798,49 +2836,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-25/2026-09-25-pytorch-kr.mp3",
       "size": 41789615
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-09-24",
-      "kind": "daily",
-      "catchup": false,
-      "period_start": "2026-09-23",
-      "period_end": "2026-09-24",
-      "file": "2026-09-24-pytorch-kr.mp3",
-      "published": "2026-09-24T07:48:55+09:00",
-      "entries": [
-        {
-          "title": "Top-Conf Figure Gallery: 논문 작성시 참고하면 좋을, 주요 AI/ML 학회 논문들의 첫번째 이미지(Figure 1) 모음집",
-          "link": "https://discuss.pytorch.kr/t/top-conf-figure-gallery-ai-ml-figure-1/11996"
-        },
-        {
-          "title": "평면 이미지가 3D가 되는 순간",
-          "link": "https://discuss.pytorch.kr/t/3d/11999"
-        },
-        {
-          "title": "NVIDIA가 정리한 AI 에이전트 평가: 도구 호출 정확도 대신 과업 완수를 채점하는 지표들과 트레이스 읽는 법",
-          "link": "https://discuss.pytorch.kr/t/nvidia-ai/11986"
-        },
-        {
-          "title": "StepFun Step 5 Preview 출시: Kimi K3와 같은 지능, 작업 비용은 1/3, 가중치 공개는 10/15 예정",
-          "link": "https://discuss.pytorch.kr/t/stepfun-step-5-preview-kimi-k3-1-3-10-15/11987"
-        },
-        {
-          "title": "OpenAI, API 가격을 절반으로 낮춘 GPT-6 Sol과 Luna 출시: 추론 강도별 과제당 비용으로 본 성능과 정렬",
-          "link": "https://discuss.pytorch.kr/t/openai-api-gpt-6-sol-luna/11989"
-        },
-        {
-          "title": "Anthropic, Claude Opus 5.5 출시: Fable 5.1급 성능에 Opus 5보다 40% 낮은 실행 비용",
-          "link": "https://discuss.pytorch.kr/t/anthropic-claude-opus-5-5-fable-5-1-opus-5-40/11988"
-        },
-        {
-          "title": "pgjev: 임베딩이나 벡터 컬럼 없이 WHERE 절에서 자연어로 행을 필터링하는 PostgreSQL 확장",
-          "link": "https://discuss.pytorch.kr/t/pgjev-where-postgresql/11984"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-24/2026-09-24-pytorch-kr.mp3",
-      "size": 31650831
     }
   ]
 }
