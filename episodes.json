@@ -3,6 +3,44 @@
     {
       "feed": "pytorch-kr",
       "slug": "pytorch-kr",
+      "date": "2026-11-27",
+      "kind": "daily",
+      "catchup": false,
+      "period_start": "2026-11-26",
+      "period_end": "2026-11-27",
+      "file": "2026-11-27-pytorch-kr.mp3",
+      "published": "2026-11-27T09:21:10+09:00",
+      "entries": [
+        {
+          "title": "PrismML, FP16 에이전트 코딩 점수의 90%까지 끌어올린 5.93GB 규모의 삼진 모델 Ternary Bonsai 2.5 27B 공개",
+          "link": "https://discuss.pytorch.kr/t/12653"
+        },
+        {
+          "title": "Phai-M1: LTX-2.5를 중국 애니메이션과 CG 영상으로 사후 학습한, 가중치 공개 오디오-비디오 생성 모델",
+          "link": "https://discuss.pytorch.kr/t/12661"
+        },
+        {
+          "title": "Rocket: Microsoft AI가 MAI-Base-2 사후학습을 위해 개선한 비동기 강화학습 인프라 프레임워크",
+          "link": "https://discuss.pytorch.kr/t/12654"
+        },
+        {
+          "title": "Hugging Face가 공개한 에이전트 평가를 위한 구축 가이드",
+          "link": "https://discuss.pytorch.kr/t/12636"
+        }
+      ],
+      "media_type": "audio/mpeg",
+      "duration_seconds": 790.648163,
+      "verification": {
+        "method": "sources_only",
+        "audio_sha256": "231655815d0305fbd628e514d3d5260b6bb69b19e6ce7705e272a709b8b764d7",
+        "objective_truth_guarantee": false
+      },
+      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-11-27/2026-11-27-pytorch-kr.mp3",
+      "size": 12650832
+    },
+    {
+      "feed": "pytorch-kr",
+      "slug": "pytorch-kr",
       "date": "2026-11-26",
       "kind": "daily",
       "catchup": false,
@@ -2820,41 +2858,6 @@
       ],
       "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-27/2026-09-27-weekly-pytorch-kr.mp3",
       "size": 45053092
-    },
-    {
-      "feed": "pytorch-kr",
-      "slug": "pytorch-kr",
-      "date": "2026-09-26",
-      "kind": "daily",
-      "catchup": false,
-      "period_start": "2026-09-25",
-      "period_end": "2026-09-26",
-      "file": "2026-09-26-pytorch-kr.mp3",
-      "published": "2026-09-26T08:09:17+09:00",
-      "entries": [
-        {
-          "title": "Mac에서 PyTorch MPS OOM이 났을 때: 캐시를 비우기 전에 확인할 것",
-          "link": "https://discuss.pytorch.kr/t/mac-pytorch-mps-oom/12015"
-        },
-        {
-          "title": "vLLM의 하드웨어에 구애받지 않는 모델 | 파이토치 한국 사용자 모임",
-          "link": "https://discuss.pytorch.kr/t/vllm/12014"
-        },
-        {
-          "title": "Jev 생태계: Jev 모델 기반의 GitHub 프로젝트 1천여개를 23개 분야로 정리한 프로젝트 목록",
-          "link": "https://discuss.pytorch.kr/t/jev-jev-github-1-23/12003"
-        },
-        {
-          "title": "vLLM에 rope_scaling을 실행 때 넘기면 인기 모델 180개 중 64개의 RoPE 밑이 조용히 바뀝니다 — 측정과 검사 라이브러리(entail)",
-          "link": "https://discuss.pytorch.kr/t/vllm-rope-scaling-180-64-rope-entail/12012"
-        },
-        {
-          "title": "vLLM Semantic Router팀, Jev와 유사한 Decision 1.0 기능 및 6개 모델, Decision Studio 공개",
-          "link": "https://discuss.pytorch.kr/t/vllm-semantic-router-jev-decision-1-0-6-decision-studio/12005"
-        }
-      ],
-      "url": "https://github.com/ihydrodog/Rss2Audio-podcast/releases/download/2026-09-26/2026-09-26-pytorch-kr.mp3",
-      "size": 23119507
     }
   ]
 }
